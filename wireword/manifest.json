@@ -1,0 +1,93 @@
+{
+  "version": "1",
+  "files": {
+    "empty-states/empty-cabinet-machines.png": {
+      "sha256": "14c70f694292787b4917da7049fac9edec121cdf3682d84aa1e5a91f6e2c9ab0",
+      "bytes": 1501543
+    },
+    "empty-states/empty-cabinet-telegrams.png": {
+      "sha256": "f6efe1c5919d62008398a044b598c91c184fdb64e47d018d4d4dd95ab161ea76",
+      "bytes": 2422904
+    },
+    "empty-states/empty-inbox.png": {
+      "sha256": "3902e2052be73c64fc16d2c3d791f2185490bc43b89e18d40768b651e67cc336",
+      "bytes": 2337130
+    },
+    "machines/machine-duplex-1902.png": {
+      "sha256": "19eab95fb1094678f42e91609812b3b379561a2a7e16fa77ffa4e69af3ff2e36",
+      "bytes": 2005364
+    },
+    "machines/machine-sounder-1866.png": {
+      "sha256": "a4970776fd92d60dda7c36c0c3efb993b56c5ae9948fcbe978575f64d3303eb2",
+      "bytes": 2481758
+    },
+    "machines/machine-teleprinter-1933.png": {
+      "sha256": "0b7c556821ea8eadc5fdb1529580feffbe711a4308e77d0851b3a05f0a5cf8f8",
+      "bytes": 2092729
+    },
+    "machines/machine-wheatstone-1874.png": {
+      "sha256": "4e3c190b5684a7216ca7b7f9617f99600d0f8393539c755e81890946d7ef1c63",
+      "bytes": 2011685
+    },
+    "papers/paper-cream-laid.png": {
+      "sha256": "6ea126ac223bb27f8109659dcb2e0c9f2f970dd79578e6343f1c967797f5e14d",
+      "bytes": 1689157
+    },
+    "papers/paper-golden-jubilee.png": {
+      "sha256": "877c79ffed0eef9857c35b18b20906e75caa085c1ebfff6d238180aa37592110",
+      "bytes": 2657164
+    },
+    "papers/paper-manila-standard.png": {
+      "sha256": "5ff9e93fe24bb0c8a481c8e0b8047ea137065857ba4e1d8d420744623a5df321",
+      "bytes": 2466849
+    },
+    "papers/paper-navy-formal.png": {
+      "sha256": "387db2f19d16f54cbb2e71a169111c3a69453fb8d5597821db363ea83dcf0049",
+      "bytes": 2898392
+    },
+    "papers/paper-onion-skin.png": {
+      "sha256": "5b4fc933a6e2a74221a7936f83c1895494a4a9af5576d8ccd088ea78fb706563",
+      "bytes": 2019076
+    },
+    "papers/paper-rose-parchment.png": {
+      "sha256": "5999e225f2e7ff3b076bcf889b7ba8fca606ec160c2e80f55d5715d41dcddbc6",
+      "bytes": 2474476
+    },
+    "share/frame.png": {
+      "sha256": "d68d640518ac92443be9b723b90ecbbdf1cbcc5d3fd3849b9a274494cf29aa6a",
+      "bytes": 1781210
+    },
+    "stamps/stamp-airmail-wing.png": {
+      "sha256": "f9ad149089018e36e1c5bf97bcf628e8221bcd7a98250236c3f33163606e3f0a",
+      "bytes": 2400993
+    },
+    "stamps/stamp-brass-key.png": {
+      "sha256": "522a6caebed8b8e625bce0bed24709c9b1c3c4b1601c2b875d541d1e91b90783",
+      "bytes": 2560229
+    },
+    "stamps/stamp-cable-ship.png": {
+      "sha256": "d1859853ed4cd98b342f4bddc6cfaed76f20abd0a7cddf2b1bd4f965d9b5ef7a",
+      "bytes": 2652458
+    },
+    "stamps/stamp-compass-rose.png": {
+      "sha256": "ba5a900ebd1952aa30433d7ea00f49165b780df6032e1731b24d9156ffe2faad",
+      "bytes": 2640943
+    },
+    "stamps/stamp-golden-anniversary.png": {
+      "sha256": "748a1b3155231d28c829d791f8e5c86bf34f0727f63fafada662aad2f42176be",
+      "bytes": 2955676
+    },
+    "stamps/stamp-lighthouse.png": {
+      "sha256": "aae6f3d8a06785331ebe137314b098b83ee0612392c8eae23d598eb539edf255",
+      "bytes": 3157049
+    },
+    "stamps/stamp-morse-key.png": {
+      "sha256": "46c1c1df8a38b6c145beaa47accdee4e41fa46f7ca186fc1aba22d1775c59136",
+      "bytes": 2918914
+    },
+    "stamps/stamp-packet-boat.png": {
+      "sha256": "aecdb40ae44b7de7481b862981a1f2f90302530aeda3cbe675338a0ae566914a",
+      "bytes": 2693688
+    }
+  }
+}
