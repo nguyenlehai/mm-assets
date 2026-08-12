@@ -1,0 +1,21 @@
+{
+  "files": {
+    "empty-pairs.png": {
+      "bytes": 1387171,
+      "sha256": "97cc41a821f53083f8e9d515bd8929427aee60d362d2a1f1e2fbf55588a3c4ce"
+    },
+    "onboarding-drift.png": {
+      "bytes": 1913695,
+      "sha256": "0fd1c3f47c00b2e4146301a0dbf5ed9f1e1b41e21cc9f0e900abe968e890cc3c"
+    },
+    "onboarding-slow.png": {
+      "bytes": 1370416,
+      "sha256": "ed7a3e73715a096ba0b827e3ba60f358f1b75a922fc89cdc67ff059ea30311f9"
+    },
+    "share-card-bg.png": {
+      "bytes": 2006373,
+      "sha256": "3bfc64492134c2590deecab4c49383302bf504184be6c9be589579f5b03ea50d"
+    }
+  },
+  "version": "v1"
+}
