@@ -1,0 +1,81 @@
+{
+  "version": "2026-08-12",
+  "files": {
+    "backgrounds/hills-silhouette.png": {
+      "sha256": "8c51a60b7a602127717ff5f512c3a92e988f63334f42577b82c2a0f1e6edc592",
+      "bytes": 1836892
+    },
+    "empty/friends-empty.png": {
+      "sha256": "865f93193934d6447bd72315255db4261705f71237b08c0fc15800f714722639",
+      "bytes": 1362290
+    },
+    "empty/sky-empty.png": {
+      "sha256": "55a73b98437f5f8d6fa96a47c8e6b811eda05db598bf985d5d931caabdf6ff24",
+      "bytes": 1557291
+    },
+    "fireflies/cruciata.png": {
+      "sha256": "15ff6914a9a9c618aefe13b7ba8f41a58ed98881b0abf687130e40944ed351c2",
+      "bytes": 1519853
+    },
+    "fireflies/noctiluca.png": {
+      "sha256": "1ad11bfcc476d5ad51aaa7162f175ba3f7c637e4328229deb39cccf418d32809",
+      "bytes": 1587810
+    },
+    "fireflies/pyralis.png": {
+      "sha256": "76272ee1009a9042bdabb894a37ddd34ed9ce3b53fc30047fbc3068fb6a48dbc",
+      "bytes": 1617234
+    },
+    "fireflies/tener.png": {
+      "sha256": "143f045aa09e20ccf6da59110e8bd8203331a2688fc5d0ee9e6eb4b15901cf92",
+      "bytes": 1587418
+    },
+    "fireflies/versicolor.png": {
+      "sha256": "764665d8e2c90c8351779967235fd4c097dfb36fbe335332f384a492dcd06da0",
+      "bytes": 1546972
+    },
+    "jar/jar-antique.png": {
+      "sha256": "96e9ee4fffc2a0d462e6270576aa652b2c5b14415d21be693a34d59e31bc8566",
+      "bytes": 2390422
+    },
+    "jar/jar-classic.png": {
+      "sha256": "48e1352511fe4c91bcdab7bfedf600eb241bbb7048e4df7eca6854264d11e8ed",
+      "bytes": 2534292
+    },
+    "jar/jar-moonlit.png": {
+      "sha256": "f5a6d09227d2f07d85e3a0cc14228cbfb495c58f4a67c8e03d73efdd45a0e688",
+      "bytes": 2406168
+    },
+    "jar/jar-mossy.png": {
+      "sha256": "cf6590261f3754d1eeebbe7b98bcb887e45173ced17b1d5d503f7ece7b2c3ea6",
+      "bytes": 2604518
+    },
+    "share/card-frame.png": {
+      "sha256": "10d730427f0319a10104a2b7dee10f31d3e68671aeb39453c858a8d6840dcc94",
+      "bytes": 2481705
+    },
+    "stickers/dew-leaf.png": {
+      "sha256": "2529bc0b15251f98ad7999aa4fe0919767374ec8c8b51d56964d1be545943f5d",
+      "bytes": 1473152
+    },
+    "stickers/firefly-jar-charm.png": {
+      "sha256": "7a48928475811e28d77faa24aa67e92f2864d56554e56fa2b1432ea900d87603",
+      "bytes": 1485767
+    },
+    "stickers/firefly-lantern.png": {
+      "sha256": "e6f497a2da60678db256ad6cd97521d4479e63035ee489695c7e6058e9284e89",
+      "bytes": 1454745
+    },
+    "stickers/grass-tuft.png": {
+      "sha256": "5d7d42f4dd6007d36d61b8c809fd51c7637a35435900fec691823f1a7c4ce4ef",
+      "bytes": 1442075
+    },
+    "stickers/moon-sliver.png": {
+      "sha256": "d2b6518f6bc6d8ba8b87894696a4b8e0141e7c6734929162268a37d00ff01b29",
+      "bytes": 1541035
+    },
+    "stickers/night-blossom.png": {
+      "sha256": "62b720989ba8ae5a052e4c8459e90569c236efb7258786135079cf7c70604667",
+      "bytes": 1466866
+    }
+  }
+}
