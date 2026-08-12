@@ -1,0 +1,85 @@
+{
+  "files": {
+    "brand/envelope-hero.png": {
+      "bytes": 2666537,
+      "sha256": "8d5695a4c98b050a67cc065357a8c68917b45cc96045877ec68331190b8f3b67"
+    },
+    "conditions/first_snow.png": {
+      "bytes": 1546632,
+      "sha256": "22b7ac95e6c52398bcf5b1cdba7d7ff40995c55ae91f1e68e16fbfd10e5968a5"
+    },
+    "conditions/fog.png": {
+      "bytes": 1921608,
+      "sha256": "4d2133ead9915c6db60fe679cc10418dd77b9663e9c5f786fa7bc6015c389c12"
+    },
+    "conditions/fullmoon_clear.png": {
+      "bytes": 1988814,
+      "sha256": "6c861f388b09183dd6cd89f718b2e3ae732b19d88529922c85c37f3160607d5c"
+    },
+    "conditions/hottest_day.png": {
+      "bytes": 1634980,
+      "sha256": "3dc49e3753f1478467b882a6ae10e774d76e5206f26a4cc8f44efac2f0879f45"
+    },
+    "conditions/rain.png": {
+      "bytes": 1971081,
+      "sha256": "1fc45e03283a722357c9981bfe909aeddf824476f7ad6191162a713825d3b8df"
+    },
+    "conditions/strong_wind.png": {
+      "bytes": 1683462,
+      "sha256": "c04aeda1f78c080ebbd5b00ab60ee283dafca82290dfec87cfad027bdddb654e"
+    },
+    "conditions/sun_after_rain.png": {
+      "bytes": 2022322,
+      "sha256": "a5f94f7b5da787089e75eda8a52b01a5c5abd2b490d45e458a3853ff80e7c529"
+    },
+    "empty/friends-empty.png": {
+      "bytes": 2487664,
+      "sha256": "9bd62f6ab565ef5742e8df174201c034509998888c08e58d09266044e56df3f4"
+    },
+    "empty/mailbox-empty.png": {
+      "bytes": 2485355,
+      "sha256": "ba4ab7c9cebf8470d5c9f7b467ee9946a5f0a5bc0361d23c14eb6675be3d237b"
+    },
+    "empty/timeline-empty.png": {
+      "bytes": 2262846,
+      "sha256": "31e8f8d4952bc2401d1b9a43818ae40730bf32f814625b0ac89b3982ba177716"
+    },
+    "paper/paper-01.png": {
+      "bytes": 1825064,
+      "sha256": "3f0217308ee084b9f29f8922dc850de1727b8d6ccb455c34b6293d863cf53e6a"
+    },
+    "paper/paper-02.png": {
+      "bytes": 1706835,
+      "sha256": "627f970afd71ad4b531c0382002912b33ca327b109750f960529f388945f9a9e"
+    },
+    "paper/paper-03.png": {
+      "bytes": 2006710,
+      "sha256": "4fcfb9bab1e87dd1e3ebe735e1f30b8915df2b4414bbc5368f3380c41bb4346a"
+    },
+    "paper/paper-04.png": {
+      "bytes": 2296746,
+      "sha256": "17fa858c0c4c754634d0a0843ad4f7bbd2441cb0e330a2dd902d1300eadc38e6"
+    },
+    "paper/paper-05.png": {
+      "bytes": 2254298,
+      "sha256": "29052fceff7e2929f8e99f232c182887475cc18acd8305ebc81a2b7217d42c5f"
+    },
+    "paper/paper-06.png": {
+      "bytes": 2734637,
+      "sha256": "a91dc2c60e8e313b8733a92f5b69445ed9d416e3526adc351d852aba9b47dea0"
+    },
+    "paywall/paywall_bg.png": {
+      "bytes": 1476856,
+      "sha256": "b873eb9a264c19247d31285eaf68f2971dbfcf650bfdeca1d99cea6829e29359"
+    },
+    "paywall/premium_banner.png": {
+      "bytes": 1526258,
+      "sha256": "435060b53d5d1c59d9bb14ae7846f5efc8a67d870618c52409b08e970e4581bc"
+    },
+    "share/card-frame.png": {
+      "bytes": 1782344,
+      "sha256": "f4aec301b1ae47c2f0def093c62061881504e7443b7f80fe31ddac94e368457c"
+    }
+  },
+  "version": "v1"
+}
