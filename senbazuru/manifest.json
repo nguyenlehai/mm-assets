@@ -1,0 +1,145 @@
+{
+  "version": "1",
+  "files": {
+    "empty/empty-keepsake.png": {
+      "sha256": "6c9d9e5edbd139f1377ffb2cb97ba313295ad489d91c6f8ee83bcf624671f88c",
+      "bytes": 1119906
+    },
+    "empty/empty-strand.png": {
+      "sha256": "b99b1727cda15104e08730c9981665bd8fba400fdc12b17e98310069e01c3e56",
+      "bytes": 1667792
+    },
+    "empty/empty-wishlist.png": {
+      "sha256": "c77bdd6b3cd17f537be7f544d07c59ab0b00807304adb067863b58ac261c54fa",
+      "bytes": 945034
+    },
+    "keepsake/kiri-box.png": {
+      "sha256": "d15f230b1ed1a89e4965bb658dab51d5b793b76fe3eaeb306c3e5df6c8466260",
+      "bytes": 2021082
+    },
+    "paper/paper-plain-blush.png": {
+      "sha256": "67debbd9be98ef40346e504f17507b70aa9b13a5416935aa887cedf9b554bd70",
+      "bytes": 2474405
+    },
+    "paper/paper-plain-gold.png": {
+      "sha256": "f98d99ad234b000be961cf444c3a699fe6caa9058e255be2b6e8b428d8abc841",
+      "bytes": 2560870
+    },
+    "paper/paper-plain-indigo.png": {
+      "sha256": "fafc9cd7d3ab1a567c02c4a78b9481819d9a8b8256ab96de315441153054e1f0",
+      "bytes": 2104712
+    },
+    "paper/paper-plain-moss.png": {
+      "sha256": "b16bce62693189a1d9f8c1e3f5924d02f66a727976e9fcbad356efbd5c13d44e",
+      "bytes": 2426634
+    },
+    "paper/paper-plain-vermilion.png": {
+      "sha256": "538fe1a3e095ac3d8e87971f9b979d2c7aaf5cad1eb84c4beb33c0cf92948452",
+      "bytes": 1987149
+    },
+    "paper/paper-plain-white.png": {
+      "sha256": "1781b3f8b560c3a7b202f7db0b379854b0732c05da6d8dc13844bed78f0a4a3c",
+      "bytes": 1792148
+    },
+    "paper/paper-washi-asanoha.png": {
+      "sha256": "105c63a0a7c7fbf951203b6eb80fb668af7f9cf55d62a4bc98f03dde3ff7641a",
+      "bytes": 1654620
+    },
+    "paper/paper-washi-fuji.png": {
+      "sha256": "1bfae2c4194dac4979b9ffac688d7d1c9c02091101f7db886ec0dbe5d378115c",
+      "bytes": 2773832
+    },
+    "paper/paper-washi-hana.png": {
+      "sha256": "3477d5fadfa085bb4b2972c6ee47d8d85abb63300779522f414d4fedd0c2a587",
+      "bytes": 2478319
+    },
+    "paper/paper-washi-hoshi.png": {
+      "sha256": "391bbbb4a770d2d2ff815f9058c87c2e2ccf77c7b8d0c8d14eaff46938d18b0c",
+      "bytes": 1017945
+    },
+    "paper/paper-washi-kasumi.png": {
+      "sha256": "8fd562ba899dd7cfbbec9698f28526f87c62be4cec83b4e4a4626e4b15d9c09d",
+      "bytes": 1963116
+    },
+    "paper/paper-washi-kikko.png": {
+      "sha256": "bc8b0d389a6bf896ff0c59fd69e3c6291073cc82e784ddd34db44d910280b57f",
+      "bytes": 2268888
+    },
+    "paper/paper-washi-kiku.png": {
+      "sha256": "fa404433587644fea84dc9bc10580ca87d719e410054072038ad12986fa1c7c0",
+      "bytes": 3017240
+    },
+    "paper/paper-washi-matsu.png": {
+      "sha256": "bbb59e7f977f7866377b157a8c11f06f5bd4afb302bb42cb7a1a825280492c1a",
+      "bytes": 2432388
+    },
+    "paper/paper-washi-momiji.png": {
+      "sha256": "248706249ab7852402ffa105a9d18fa73b5d26c76e52e563445f10108f6a73a6",
+      "bytes": 2774433
+    },
+    "paper/paper-washi-nami.png": {
+      "sha256": "88d0658e3ef2bad2666ec145b0f4512b63ebf3750185672826ad792498bdc950",
+      "bytes": 2549044
+    },
+    "paper/paper-washi-sakura.png": {
+      "sha256": "c3f910c313d0ce8a3705bf82120e25f1727108888c4ff288aa4767f085619841",
+      "bytes": 2460738
+    },
+    "paper/paper-washi-seigaiha.png": {
+      "sha256": "50e6f59a0f599accea71fc532432047e8499b2262a7ae45e005a82a74f565ef8",
+      "bytes": 2282617
+    },
+    "paper/paper-washi-shippo.png": {
+      "sha256": "154590fd03d0ef50bcac18fcafbc5bd974b20162606d06eabc035a30c7abadc9",
+      "bytes": 2594407
+    },
+    "paper/paper-washi-take.png": {
+      "sha256": "590b89bbf990c1691534d5f54d7a24f1e94768ae7c8deec5574f5c9e8d073eff",
+      "bytes": 3091292
+    },
+    "paper/paper-washi-tsuki.png": {
+      "sha256": "704ccfe06534833bdd73b0588702501fe05c5e2a617c8c4867ebf7d48659de9a",
+      "bytes": 2241328
+    },
+    "paper/paper-washi-tsuru.png": {
+      "sha256": "19181ef57b260dd8157d780488b8fb432a3fc5e924b2819e35de88c2e6bc5639",
+      "bytes": 2420171
+    },
+    "paper/paper-washi-tsuta.png": {
+      "sha256": "2a76d10552e764208551b0e26f3d1b9f11a4f9d4056cfb8d5193aa3427733bdd",
+      "bytes": 2893344
+    },
+    "paper/paper-washi-yuki.png": {
+      "sha256": "6c4ece9650424fe4eda62a92239eb3c5d8f8ce876e39471f625e17a781a15317",
+      "bytes": 2089817
+    },
+    "share/frame.png": {
+      "sha256": "934bd2e55237daad08a25ac3ff2548b02b5aa49b628915ca41e27ea005f561d1",
+      "bytes": 806292
+    },
+    "strand/strand-gold-thread.png": {
+      "sha256": "c93b3b0bf63dbff150896b72b15e94a74881af046ccb8c66ce025aa63ab295b4",
+      "bytes": 613340
+    },
+    "strand/strand-hemp.png": {
+      "sha256": "a5be2aa809c64ef46442fa5e50ea6e7efe1c1cb439997c5061dbc0c884cefc03",
+      "bytes": 1521870
+    },
+    "strand/strand-indigo-cord.png": {
+      "sha256": "e94ccf350d64a143a74d6ef23a46011bbccb6d695b8cbcc213ef6a67587951d2",
+      "bytes": 1499914
+    },
+    "strand/strand-moss-twine.png": {
+      "sha256": "04e46d2d59c877eac6159acf2a41e5b15e99f72d6ac331e3f8ac0e5e3bbd4e1d",
+      "bytes": 1552772
+    },
+    "strand/strand-vermilion-cord.png": {
+      "sha256": "a23af506e0f674f057b11559de54d758d961de193766cb8867524818e02bf3b1",
+      "bytes": 1581119
+    },
+    "strand/strand-white-silk.png": {
+      "sha256": "06693286c1a025b38bcd4a1eec5e3e1faaabd7c53fd465cdffeb06ba8a061ad6",
+      "bytes": 1497590
+    }
+  }
+}
