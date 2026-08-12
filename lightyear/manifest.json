@@ -1,0 +1,21 @@
+{
+  "version": "2026-08-12",
+  "files": {
+    "certificate-frame.png": {
+      "sha256": "4d4969c7b6fdaa6a459eec806cb5889036d51166037a39ff0c5986799889e170",
+      "bytes": 1715205
+    },
+    "empty-family-stars.png": {
+      "sha256": "2d45bac53180b9b889b6baa5f2e1c70b7958ff1de4ca4eac8a5ade12a544d27d",
+      "bytes": 1351703
+    },
+    "empty-friends.png": {
+      "sha256": "b8ced3e9f62606ef83f2c2afb7fb0c3332c6a42134e471f41c0e29350fcc9eea",
+      "bytes": 1331115
+    },
+    "empty-letters.png": {
+      "sha256": "4846844448a8042a0c3d9938c53808986cdbe9dacc9ad72e28264cd9676bc0b9",
+      "bytes": 1358945
+    }
+  }
+}
