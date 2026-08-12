@@ -1,0 +1,53 @@
+{
+  "version": "2026-08-12",
+  "files": {
+    "empty-journal.png": {
+      "sha256": "098e477a8fbd602a3e32d7e8f8a920e9e89f61ebee1774584d8d6ae50394ae95",
+      "bytes": 200474
+    },
+    "empty-solo.png": {
+      "sha256": "88bb29fce54630fabc18f556fda41c7d660e2474806a617487bd014c1ea5f3f9",
+      "bytes": 302359
+    },
+    "moreapps/drift.png": {
+      "sha256": "908a6953f418bbbc4cb486167e47e98951e7c44462203782d967a60ac962e720",
+      "bytes": 33009
+    },
+    "moreapps/lightyear.png": {
+      "sha256": "739056b01b31de2109ee4f142a876b8724994c2e34bd657eef443cd18585eb79",
+      "bytes": 17497
+    },
+    "moreapps/moonletter.png": {
+      "sha256": "b0462edf5d553d964eddaa55e17baed6487b0f31a800aab5fa83d1ef6d38fee7",
+      "bytes": 19344
+    },
+    "moreapps/mothlight.png": {
+      "sha256": "60a1d66805db5e4dd60d77d9a901fac2d35d8cbe7a5156d9aae5a955911e8e41",
+      "bytes": 26169
+    },
+    "moreapps/petrichor.png": {
+      "sha256": "8c00c38fab325448b01a5b1deca284cbe898a5d01d0f20201f4a21b4c57c589f",
+      "bytes": 26730
+    },
+    "moreapps/starlit.png": {
+      "sha256": "f7469cb9cee134dc4462664857f2bb6f939b639e31cc8406f030c0fffd31ce56",
+      "bytes": 17055
+    },
+    "onboarding-welcome.png": {
+      "sha256": "c412f8c05c177b84ad5eb90f207c0b690ff4527c87a31eeb2aa6f32b19f52ba2",
+      "bytes": 1119168
+    },
+    "share-card-texture.png": {
+      "sha256": "309dcd1a24750ccdffa8c11fa0ba18a7bb66f9ad991b16934f4fbf3a542e2074",
+      "bytes": 1302328
+    },
+    "window-handoff.png": {
+      "sha256": "8fa9a0f55f585afa8eca922a5edaa8444d50e17c36d1046ee238c847cca34576",
+      "bytes": 68872
+    },
+    "window-polar.png": {
+      "sha256": "df7612722c17e706e0c504885f567a7ddb3cdafb5589395fdfcd223826c455c2",
+      "bytes": 83289
+    }
+  }
+}
