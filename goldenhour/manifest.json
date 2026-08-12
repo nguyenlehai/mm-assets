@@ -1,0 +1,29 @@
+{
+  "version": "2026-08-12",
+  "files": {
+    "demo/demo-1.jpg": {
+      "sha256": "e75de04a5ccb10e1924c9ed7a68d43e510653a9bddfa4a874f0aa52988a907ed",
+      "bytes": 2361264
+    },
+    "demo/demo-2.jpg": {
+      "sha256": "78648aee105b3902d4d1d589369bc06980509ea1c6bd210589078948ead37b27",
+      "bytes": 1873308
+    },
+    "demo/demo-3.jpg": {
+      "sha256": "2d13c1ad4321257a7abb7f18c438d87ae11248c8c29274e4afd204a0eb54f798",
+      "bytes": 1729544
+    },
+    "empty/album-empty.png": {
+      "sha256": "fd892cab8c5f5da05be377567527c640529e08a67ec9a41ab4e909c2d4ab7fb8",
+      "bytes": 1334567
+    },
+    "empty/friends-empty.png": {
+      "sha256": "ef1d0c21005bab7a509c85e886db51d8c4834f172d4bf27d21d78af36e3b88fe",
+      "bytes": 1339205
+    },
+    "empty/letters-empty.png": {
+      "sha256": "a9db54b8f42d899f9408bffab10877692765cb464a65ccd64309ef722e4b3c16",
+      "bytes": 1357665
+    }
+  }
+}
