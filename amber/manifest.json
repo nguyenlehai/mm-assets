@@ -1,0 +1,65 @@
+{
+  "version": "2026-08-12",
+  "files": {
+    "cabinet/glasscase.jpg": {
+      "sha256": "dc0e2b2c5ab80b7a0d74a4aa99a016c23d0f2e3303fea69684d3407f390681af",
+      "bytes": 91596
+    },
+    "cabinet/museum.jpg": {
+      "sha256": "bdbd101a3cd26657b13e31cd621ff5174e5afc2db3303e260a9ac25bfdc16ec0",
+      "bytes": 114835
+    },
+    "cabinet/slate.jpg": {
+      "sha256": "30e9e5bcca4adef4d08936380ab6270d70a1b024643b164d7fa0f4b5d5819c68",
+      "bytes": 283229
+    },
+    "cabinet/walnut.jpg": {
+      "sha256": "e9ccf23b29db2ba6389e8ac7f641932eba1ea611c1dc37a4cd3a9549c13568fc",
+      "bytes": 182217
+    },
+    "excavation/strata-bg.jpg": {
+      "sha256": "e358f4f75c0d5debd9081c029dd20e173c88a1fea32f5b775210c6e10f820741",
+      "bytes": 345174
+    },
+    "inclusions/bark.png": {
+      "sha256": "4c94c0da6d2c4f3710bc968a119df15fe758a1088b7da42899ccc2e54193cda1",
+      "bytes": 228879
+    },
+    "inclusions/fern.png": {
+      "sha256": "ae7a955990d6d8242eb6a3aa180a6e56189ea20ac0905c9b094fe5d61f1fb2d8",
+      "bytes": 166905
+    },
+    "inclusions/petal.png": {
+      "sha256": "8dfaa93ca1b3dae4847c47d05160ce6aff1355bf1ba34c493a88290bc4d73210",
+      "bytes": 229628
+    },
+    "inclusions/sand.png": {
+      "sha256": "1bda72dc955fa3f56f627419d131233205d150575c692c66092e1fc97f8c3ef7",
+      "bytes": 123960
+    },
+    "logo.png": {
+      "sha256": "6702fddad776a773944430598d7041f2b76afdf7d83c1184279d6d5a0522f566",
+      "bytes": 1709088
+    },
+    "onboarding/slide-1.jpg": {
+      "sha256": "225e9aee3984fff3a3646a896bd4832d92a22de65d1ea9f3134b7e9ec8f1152d",
+      "bytes": 103302
+    },
+    "onboarding/slide-2.jpg": {
+      "sha256": "90b33fa6de0c816be39fb6797ef4978bb07d73781f9a5ab0e83c2270e030d24b",
+      "bytes": 202517
+    },
+    "onboarding/slide-3.jpg": {
+      "sha256": "3ae15a20614fe40f0c2e782f898f5fea2babd50d12333dec06bffb9a9d514888",
+      "bytes": 193529
+    },
+    "paywall/paywall_bg.jpg": {
+      "sha256": "b4533fe61c6c07c60e721f06abe1cb0eae4a97b717e8e399cc771484de66de9d",
+      "bytes": 186266
+    },
+    "paywall/premium_banner.jpg": {
+      "sha256": "80a6bcdaa47240989cff97de6a6be67dbf690d435665e007961e671d195e6263",
+      "bytes": 161705
+    }
+  }
+}
