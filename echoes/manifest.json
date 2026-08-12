@@ -1,0 +1,57 @@
+{
+  "version": "2026-08-12",
+  "files": {
+    "filters/filter-canyon.png": {
+      "sha256": "a562a11508dcc5b588b4da5ed50b0366466c4af9fef5b7271c94ff9b53c8da11",
+      "bytes": 1418263
+    },
+    "filters/filter-clear_air.png": {
+      "sha256": "fcd6337b87ef1b0c55fd6fb437d4e12b3c9f9b65f277e869c6f09fb54fcbc51a",
+      "bytes": 1414163
+    },
+    "filters/filter-deep_night.png": {
+      "sha256": "20846b7e4ebc5f9d2cfe919e197101e01011470f58304c76e9b1b86af2632073",
+      "bytes": 1346370
+    },
+    "filters/filter-desert.png": {
+      "sha256": "d939e21baeeabd722e6ceaf4296958ec340a7f30181b40df2fe26032e2d10c7d",
+      "bytes": 1366933
+    },
+    "filters/filter-ionosphere.png": {
+      "sha256": "a3b20410cf4a558ddde123d5868c995e3507eedaa90e80668f08808fc59e8b03",
+      "bytes": 1414154
+    },
+    "filters/filter-mountain.png": {
+      "sha256": "901e5f414ccbbea408b6e34ed3c36cf71e73dbf435e7787414455462311add26",
+      "bytes": 1367093
+    },
+    "filters/filter-ocean.png": {
+      "sha256": "2800329ac9deb5610f5cf6f9e1acb8044ec4404ac7a757575fa04834bb7d9b37",
+      "bytes": 1489915
+    },
+    "filters/filter-rainforest.png": {
+      "sha256": "1ae8b874d6994353e57205ac2a551779123b1a2da8b6575eed6beb43badb6a25",
+      "bytes": 1392414
+    },
+    "illustrations/empty-friends.png": {
+      "sha256": "b080519d9a2b8c0ddca1ef31c8303ce110064674048ec1770bf26808209b758e",
+      "bytes": 1332315
+    },
+    "illustrations/empty-journal.png": {
+      "sha256": "db0deaeb5ef2033a62e18e378700354918f85810622d99a81028cff5b2ad6273",
+      "bytes": 1344789
+    },
+    "illustrations/empty-sky.png": {
+      "sha256": "baf61ee26df165335814ba97badd7095114e8264bdc1a34f95f483177a912170",
+      "bytes": 1326338
+    },
+    "share/card-background.png": {
+      "sha256": "803085d23a6d3aac8bd17bfaada3c6fb9569de4aa8f12ec74b0d41450f5e9ba7",
+      "bytes": 1442620
+    },
+    "logo.png": {
+      "sha256": "5db6fa7b7843616cc596266896963ec723fa01119901a4489f92185b4770a09e",
+      "bytes": 1661827
+    }
+  }
+}
