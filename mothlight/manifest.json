@@ -1,0 +1,145 @@
+{
+  "version": "2026-08-12",
+  "files": {
+    "certificate/certificate-bg-dawn.png": {
+      "sha256": "1eb745c0c37e9188c5699a95454ab976b21d7bfc10ae9c7b8f70c35723e8c29d",
+      "bytes": 1937743
+    },
+    "certificate/certificate-bg-polar-day.png": {
+      "sha256": "c79a5e16416a80d64fd98d3c3207e07eda75a91efe083e2c2191aae9b7ad85ec",
+      "bytes": 2295807
+    },
+    "certificate/certificate-bg-polar-night.png": {
+      "sha256": "d2b46b0f58bdee7d6a082e98bb186b4f069d7166e41c08f0a6da98402087cb57",
+      "bytes": 1777887
+    },
+    "garden/cosmetic-firefly.png": {
+      "sha256": "5089e631b23eb6569b807f1c3468fb3142bfd1d167ebe0ac68df10b760250ace",
+      "bytes": 1368141
+    },
+    "garden/cosmetic-lantern.png": {
+      "sha256": "75d1209fd73331004d4962b1f253bf24e8dc91c28fed1fcc3e684f0fabc2e3c7",
+      "bytes": 1414855
+    },
+    "garden/cosmetic-night-flower.png": {
+      "sha256": "680134a7b48b0625310f6bdb1c39cb9768de531dfab8e611e24ff89c0cb87e0a",
+      "bytes": 1384799
+    },
+    "garden/empty-garden.png": {
+      "sha256": "faee7fb549c89f0c0339884ddcdbd3d2f3f9ea9ceae6f2abf545f7bd172586cb",
+      "bytes": 1040034
+    },
+    "garden/garden-bg.png": {
+      "sha256": "9d7a403647c64a21fc554e4f03aab489a4be4404815b853d150df870d07b3ff0",
+      "bytes": 1429870
+    },
+    "moths/atlas-frame1.png": {
+      "sha256": "49097518f56efcd42307a56de8b642fc7467d35a4c8a8eff4038ae00be867293",
+      "bytes": 1608935
+    },
+    "moths/atlas-frame2.png": {
+      "sha256": "f34cf06892bc5b42751c617c5e85fb96b2bacf031281e811f1051d2e150c1d69",
+      "bytes": 1746806
+    },
+    "moths/atlas-frame3.png": {
+      "sha256": "c9a970f541a4e00b9c14e6858b50368b233e8fbe7c8d34dbb5f000ee7b40ec18",
+      "bytes": 1730271
+    },
+    "moths/cecropia-frame1.png": {
+      "sha256": "85129fb59ccd2b9ea3ae8bf992d53e065549fed4ce6bfa218ce71dd2307a6bbf",
+      "bytes": 1706382
+    },
+    "moths/cecropia-frame2.png": {
+      "sha256": "23cabf861bc627c1defb2f37b5728b341843fdbf1e7a57cd9b567637879ae2cb",
+      "bytes": 1677718
+    },
+    "moths/cecropia-frame3.png": {
+      "sha256": "5e1da1b6ad64ea808c6059f23a1dc9e3358659c41a2a61df93f0e79345e877ce",
+      "bytes": 3308003
+    },
+    "moths/deaths-frame1.png": {
+      "sha256": "4fb43352b1ab6757280ed83c25cfe29fb7c723783478a950ad0942c8cf98f70d",
+      "bytes": 1581381
+    },
+    "moths/deaths-frame2.png": {
+      "sha256": "ebf91ef116e632c8f13e75f15560f28fce352cb8a6608c3561695092b0234cbb",
+      "bytes": 1634012
+    },
+    "moths/deaths-frame3.png": {
+      "sha256": "ce743c8160c721ac9d390ad6e50719a0ef9ff37bfe01eeef89d45448ba256c88",
+      "bytes": 1570909
+    },
+    "moths/emperor-frame1.png": {
+      "sha256": "8d69220d569f21d2d3b4de4b96f85c6330f689fa717581ca2337504344e72390",
+      "bytes": 1684701
+    },
+    "moths/emperor-frame2.png": {
+      "sha256": "4a4fb314d85560f1b77b624469577d652a02a2810dfde8252dbd3cb072fd2534",
+      "bytes": 1866348
+    },
+    "moths/emperor-frame3.png": {
+      "sha256": "12844c199409a01db2d4bb2e387b3e470b5e0293a09d2e5b8f3ae66003578e4a",
+      "bytes": 1791946
+    },
+    "moths/hawk-frame1.png": {
+      "sha256": "8b5c13221338a7084d739f97cdbd171cd234bf882f3f2fce435827b410b2d418",
+      "bytes": 1585628
+    },
+    "moths/hawk-frame2.png": {
+      "sha256": "9225839f938caa4c7d592e8c13673455c9cdadea98521a052645d193e6f987a5",
+      "bytes": 1595587
+    },
+    "moths/hawk-frame3.png": {
+      "sha256": "13221c814d540ecf45134e3a227b3e6b3fbf5f6ef2cc1d9a950166c74c8dfe40",
+      "bytes": 1594758
+    },
+    "moths/io-frame1.png": {
+      "sha256": "2897da5bfa2736148250fe9c9b81bb14503960fad1f1a7d646b336994178453f",
+      "bytes": 1671618
+    },
+    "moths/io-frame2.png": {
+      "sha256": "3d06fec9ce0b6df9220e6a9723b791f92f30ff04e1abea9524e9ce52dbb2b7f0",
+      "bytes": 1724567
+    },
+    "moths/io-frame3.png": {
+      "sha256": "1044f97a4cf7793918a4fea1687d4576d5e19f9fd245ecb60d11038353ab7081",
+      "bytes": 1683602
+    },
+    "moths/luna-frame1.png": {
+      "sha256": "fd3223b83739cff1a6eeefb5ec44b90f958235c41a90e8a55a6bb9af09f955f6",
+      "bytes": 1528159
+    },
+    "moths/luna-frame2.png": {
+      "sha256": "4186e1a2ce457d91e4a0d89299705744b7be1b040c7200c07ff65c1eaf78168f",
+      "bytes": 1620856
+    },
+    "moths/luna-frame3.png": {
+      "sha256": "2c8297b59e5e962d64078e0f86f299de2e05a59acbac5b82806a6728890ac05e",
+      "bytes": 1692034
+    },
+    "moths/rosy-frame1.png": {
+      "sha256": "d369ace277875017f587a277be4cb57a8e3b348469f64e29171e418e23db8c06",
+      "bytes": 1596934
+    },
+    "moths/rosy-frame2.png": {
+      "sha256": "62004bc7ee9815c165fe0a35bcc1bf6ca248c279af1f53c2aa40816aeedd0852",
+      "bytes": 1535335
+    },
+    "moths/rosy-frame3.png": {
+      "sha256": "b0fba4c5511d59f3b7dbeac7d9879d67f491d734090b2f8817c3c0047cd7e99a",
+      "bytes": 1496626
+    },
+    "night/hillside.png": {
+      "sha256": "cf84803ccb8d164b768595813ce6e10cee17df42563a0f98f9925a60b8f55118",
+      "bytes": 1177534
+    },
+    "onboarding/welcome-slide-1.png": {
+      "sha256": "2a61e367d582e9a3ab0c380926f945619295f75514880a498edf72a1510fc026",
+      "bytes": 1564998
+    },
+    "share/share-card-bg.png": {
+      "sha256": "b39cc4c0005a09ce7eb4921228b968626f8c6d4e15d2ed5d6ebf82137a9db96c",
+      "bytes": 1070851
+    }
+  }
+}
