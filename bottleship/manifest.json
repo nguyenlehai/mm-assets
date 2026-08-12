@@ -1,0 +1,77 @@
+{
+  "version": "1",
+  "files": {
+    "cosmetics/bottle-amber.png": {
+      "sha256": "e8707ea22fc19dc8f5299ed91f43daa4fa1886fdd92a178e8884f118cb06523b",
+      "bytes": 1365727
+    },
+    "cosmetics/bottle-clear.png": {
+      "sha256": "daa22731a4543ee8e28bd01c152003b44d01222bedf33f0dbd92737920e65fb6",
+      "bytes": 10529
+    },
+    "cosmetics/bottle-dark.png": {
+      "sha256": "34c9a45ebada78a448836c8b55273738e313b87ea361dd4405e01aae68af2c7f",
+      "bytes": 1308634
+    },
+    "cosmetics/bottle-frosted.png": {
+      "sha256": "801731db79b98df0361642e6ce351f31f9ed535093f1d1815a9be51de667a02f",
+      "bytes": 2472071
+    },
+    "cosmetics/bottle-ribbed.png": {
+      "sha256": "5d1319c7090d9b8bf9cc80b379e4bf8c5aadf7837138979059f53e08215542f4",
+      "bytes": 2532002
+    },
+    "cosmetics/bottle-seaglass.png": {
+      "sha256": "63914b394c1de5e13df07c5c85a962cb3d5790253049b3fdd326cb5ca6aa6a16",
+      "bytes": 1637195
+    },
+    "cosmetics/sea-arctic.png": {
+      "sha256": "82552ec1c87cda97de72a9935a8f718f6493686de66b2c39931027dbb02a04af",
+      "bytes": 1798423
+    },
+    "cosmetics/sea-calm.png": {
+      "sha256": "a5b614f44c3e57d3e8db54f2313fc841d2c57a7cddc2de99909d65d04d54d9a9",
+      "bytes": 8777
+    },
+    "cosmetics/sea-moonlit.png": {
+      "sha256": "7ed0baea9fbaa201a9e7a121e9641f5ad49cfc2226a79bbef93c607558f77169",
+      "bytes": 2143541
+    },
+    "cosmetics/sea-storm.png": {
+      "sha256": "385d65b9d62a477437eb54377c4dd22194bb1772d1b833c8d912070f393e86fb",
+      "bytes": 2457272
+    },
+    "cosmetics/sea-sunset.png": {
+      "sha256": "918380e4258c3d73522eba43b10b26c199bd6b4aa087667831469ecb2e372a33",
+      "bytes": 2278575
+    },
+    "cosmetics/sea-tropical.png": {
+      "sha256": "886adefd31b32379ce96bdf163e4823ad6ec0f0146f24146a731e4d73e40d212",
+      "bytes": 2278171
+    },
+    "cosmetics/shelf-driftwood.png": {
+      "sha256": "d3b02b1342258f13d3b1ddb90ee09f13ca532d0c6f6b954da0d28a5dcf8999bd",
+      "bytes": 2666067
+    },
+    "cosmetics/shelf-ebony.png": {
+      "sha256": "d0a180c2ef66fa5947ce0c4a766724025f5a96cd68c95fbce2823d3a6193a0a0",
+      "bytes": 2034600
+    },
+    "cosmetics/shelf-oak.png": {
+      "sha256": "5dffa0198f6c86038390a7409a0c4050b502f9bc1bec66aa6c268856fa985c10",
+      "bytes": 2259
+    },
+    "cosmetics/shelf-walnut.png": {
+      "sha256": "180bca33e792131acacc499596b55b152c2f931b5a0597c0042cf04b1e3b03f8",
+      "bytes": 2397325
+    },
+    "ships/cutty-sark-a.png": {
+      "sha256": "82986f650b5bd1442b9d2ff5387c170d03acb49bea8d201d56a56276dd2dc381",
+      "bytes": 44414
+    },
+    "ships/sloop-a.png": {
+      "sha256": "0099501fa1bc0f6efe15dc6d53f0fe0b17db24980f489f1d8080e7f032c6a622",
+      "bytes": 35501
+    }
+  }
+}

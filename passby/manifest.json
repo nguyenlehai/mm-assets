@@ -1,0 +1,37 @@
+{
+  "version": "1",
+  "files": {
+    "empty-friends.png": {
+      "sha256": "f5bc6b77b4515e9a9cd2dc3a2994577dfa8b736c02a246eedc68f9f80e133ec1",
+      "bytes": 1348040
+    },
+    "empty-logbook.png": {
+      "sha256": "e5be06b0241db9245a93e2ca0d1a68900889c3c7d5d016e9ccee33f921ea82db",
+      "bytes": 1355080
+    },
+    "empty-sky.png": {
+      "sha256": "f2fa3f696b0262cc885d3c680cececefa046c89d9c6878a888a0e1e810c4427e",
+      "bytes": 1333812
+    },
+    "onboarding-first-uplink.png": {
+      "sha256": "fcdb12c5065b917c011d8e4aa60267a1a96292833feb13480348abe02e9d50a6",
+      "bytes": 2022217
+    },
+    "onboarding-how-it-works-bg.png": {
+      "sha256": "4d98b5f56776127c356782944ab14181fb6c184345c654cd76a2674483f09367",
+      "bytes": 1595407
+    },
+    "onboarding-welcome-sky.png": {
+      "sha256": "14836d916c7eae588c72f7ffc448c7d735edadc1e12a1b5b14c0ad9272e38e17",
+      "bytes": 2039715
+    },
+    "satellite-silhouette-placeholder.png": {
+      "sha256": "c6916323786750e9a9e858b9fdb2d0ef736320b4a4a61f47bcee892c743acde0",
+      "bytes": 1332936
+    },
+    "share-card-texture.png": {
+      "sha256": "d360ce663af8200688622e1e82ab0c19cf88c7d195567cca8406f0a96cfab630",
+      "bytes": 1982587
+    }
+  }
+}
