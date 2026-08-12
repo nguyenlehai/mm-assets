@@ -1,0 +1,125 @@
+{
+  "files": {
+    "bottles/glass-amber.png": {
+      "bytes": 1615021,
+      "sha256": "f72fb10e62343348224100f41c6f85b63084e2842f0fd1cf04d619a032a01e94"
+    },
+    "bottles/glass-black.png": {
+      "bytes": 1456023,
+      "sha256": "d7f4c3ef83eed7c15b624bde59f2c9bcd6f39fa92dc74d201c61256f148f1c99"
+    },
+    "bottles/glass-classic.png": {
+      "bytes": 1623648,
+      "sha256": "90e1195ba6a029bcf03a9eaf9bb5deb00ce300d96d1384a1c59233d72298d6e8"
+    },
+    "bottles/glass-crystal.png": {
+      "bytes": 1713466,
+      "sha256": "3f9837ac0c97f15c297bedd5b26b9a423a1ded8067eae61c4b55e6427be3d7df"
+    },
+    "bottles/glass-deep-teal.png": {
+      "bytes": 1429562,
+      "sha256": "753a93b8e0975dc2cdf7c1404cb34597a9a692b309b701f500949ae8aea0f415"
+    },
+    "bottles/glass-frosted.png": {
+      "bytes": 1536668,
+      "sha256": "650e4acd5ff66485ed75e6f1cabeaa91e08bfda286855cf317dceaa45255780f"
+    },
+    "bottles/glass-sea-green.png": {
+      "bytes": 1605040,
+      "sha256": "b83499d93dc03aa63bea8552059e815cbb6cc6f7f037269eefe94b41e21a9406"
+    },
+    "bottles/glass-swirl-blue.png": {
+      "bytes": 1727181,
+      "sha256": "24bb62328b19c7e06f3512b7e97bddf390e30579cfd88bd942b1a68c7446ed94"
+    },
+    "corks/cork-brass-cap.png": {
+      "bytes": 1642252,
+      "sha256": "0025057800e957132d860cd48dec6770aaf96395048a355a62eb509bc8825c33"
+    },
+    "corks/cork-natural.png": {
+      "bytes": 1691942,
+      "sha256": "147120d2845c08f138772d0cc7ea18f0d63de6e32eb02f347e64f4b23a5c53f4"
+    },
+    "corks/cork-rope-wrapped.png": {
+      "bytes": 1820374,
+      "sha256": "b852ef114a18d5c974897f5c9149f3ce33a92249c01312b0bfbe7a81f24a3b37"
+    },
+    "corks/cork-shell-topped.png": {
+      "bytes": 1620534,
+      "sha256": "1b5cea849d356bd2b05f3ab1d2f41797dd087f63dc29ae337bc8baf7d639e3f5"
+    },
+    "corks/cork-wax-gold.png": {
+      "bytes": 1625553,
+      "sha256": "b37a08dda20bf4cdac52320ccd49c973c26fe03de71a57842bf51a1999f3b7f3"
+    },
+    "corks/cork-wax-red.png": {
+      "bytes": 1652521,
+      "sha256": "3490fe491ebfb13850a31929355862d517a71082ce80e8f72fd9656dbb29ca11"
+    },
+    "empty/empty-ocean.png": {
+      "bytes": 1679219,
+      "sha256": "6af353c1842ff9d95889e128e1ab681244cf29cb89f0465dc30d29dfd0a883e7"
+    },
+    "empty/empty-passport.png": {
+      "bytes": 1582447,
+      "sha256": "8a9ff121dd58b4052d2f635b276bcf293959ace40c58baf2e0d3234048ff239d"
+    },
+    "empty/empty-shore.png": {
+      "bytes": 1637424,
+      "sha256": "9388c930f77f5c1721185fa162b98905a2b0439156a6c34ff52df16744c3ec8c"
+    },
+    "paper/paper-blush.png": {
+      "bytes": 2258500,
+      "sha256": "38c2592a96cf940bb923cff11071bae6a6caa3c1f591dbd04a94baae2f729baa"
+    },
+    "paper/paper-linen.png": {
+      "bytes": 2289965,
+      "sha256": "8141387cd4c9a39311e5ab029598364afa3c5d9796a6c4aac704d63b5ebc6f51"
+    },
+    "paper/paper-midnight.png": {
+      "bytes": 1973391,
+      "sha256": "3e035d3625910a5922bb735c703ebee3dd2203a82e44d153d869ffba0f262403"
+    },
+    "paper/paper-parchment.png": {
+      "bytes": 2132481,
+      "sha256": "3a568e058bee70d5da5e245f810c56a1f2acb4ca330057bd4ec5c365db9d7012"
+    },
+    "paper/paper-sea-mist.png": {
+      "bytes": 2202913,
+      "sha256": "21eb050fc3cb0560f09e701f5c7bf7a6ea5e550305981b1a3770c1ec563e6b87"
+    },
+    "paper/paper-sepia.png": {
+      "bytes": 2571364,
+      "sha256": "01392dfba2e9fa831a3609c1d864565482ebd948ac0d03fb56b54e7a71e65045"
+    },
+    "share/frame.png": {
+      "bytes": 1995173,
+      "sha256": "6519a78b2b04120e65d3e440a17239efdb3c70fcb2a2e12150be6238d3ad23dc"
+    },
+    "shore/sand-day.png": {
+      "bytes": 3122660,
+      "sha256": "c609de46c80894aeaf2e0a5325a2036bf1881063c7bb4a5f1b4370df88f1cbfe"
+    },
+    "shore/sand-night.png": {
+      "bytes": 3643373,
+      "sha256": "cbc026579d24832397919bceb84493dbffe28858515d3c4c3cda6d8875a40011"
+    },
+    "shore/sea-day.png": {
+      "bytes": 3692540,
+      "sha256": "8a8f105f070f8faf73bf499c950aa4aa84e9cf102cb6ea606c59a99a514c6196"
+    },
+    "shore/sea-night.png": {
+      "bytes": 2406048,
+      "sha256": "ce6e4e3080e1ca412342a7f23801c6baa1264204f88c52e9f70bca871e03d76c"
+    },
+    "shore/sky-day.png": {
+      "bytes": 2461248,
+      "sha256": "76dce5e3ea901f463253623f907f3905d289fc428152b488d075603571390b52"
+    },
+    "shore/sky-night.png": {
+      "bytes": 3117273,
+      "sha256": "d63f2c4c0749a847f405c9f1ca6396bbeeb6315d087540c4cd0675d9e34b5fa5"
+    }
+  },
+  "version": "v1"
+}
