@@ -1,0 +1,105 @@
+{
+  "version": "v1",
+  "files": {
+    "backgrounds/bg-01-thumb.jpg": {
+      "sha256": "f89344e2bde50751bd7fdfa5fd6f7e5dcda22f40b760522cc8309cbf9a6f667f",
+      "bytes": 1808
+    },
+    "backgrounds/bg-01.jpg": {
+      "sha256": "2074daf9632b70ba90d8f13257b936d22bc20235ee6de9d819855ca9e68bdbed",
+      "bytes": 25717
+    },
+    "backgrounds/bg-02-thumb.jpg": {
+      "sha256": "454d870bf0a58c385a1bd8a38e629ad5052d335c9db39d5396d110e86e83ce1e",
+      "bytes": 1680
+    },
+    "backgrounds/bg-02.jpg": {
+      "sha256": "064680713adacac56560327f1ff571833d57e9eb9da68bc3bedce13d47b3a426",
+      "bytes": 24785
+    },
+    "backgrounds/bg-03-thumb.jpg": {
+      "sha256": "994432c41563d9688f8a0d6f70b02d7094fff7761060b4adfdeefeec09f3d591",
+      "bytes": 1807
+    },
+    "backgrounds/bg-03.jpg": {
+      "sha256": "d3a2fb3a3670d4320841ab0e449fb774b50c496e68a489bdbaea44fdaf00d1b4",
+      "bytes": 25080
+    },
+    "backgrounds/bg-04-thumb.jpg": {
+      "sha256": "9726efd56a5f933e215e104600216e3154b753860b839af2579bc19463b30cbb",
+      "bytes": 1777
+    },
+    "backgrounds/bg-04.jpg": {
+      "sha256": "b6a559efab0f70207fe9f88f68d46c162c1d6dd807552a77c0e107d0b1eb3aaf",
+      "bytes": 25034
+    },
+    "backgrounds/bg-05-thumb.jpg": {
+      "sha256": "6669d841a91266628e29b80782cefe3a799f4bf123ec8b7b0b2c4816e88ff530",
+      "bytes": 1676
+    },
+    "backgrounds/bg-05.jpg": {
+      "sha256": "bd6138c6f5a38a42ca0b4d1cf9d7d7d3c1e2c3a00587076fdc1406afb361c5ba",
+      "bytes": 24705
+    },
+    "backgrounds/bg-06-thumb.jpg": {
+      "sha256": "bd565496af138a1659458d4a2b15bd7f3fc865e96d98036661cc40bb8f798489",
+      "bytes": 1931
+    },
+    "backgrounds/bg-06.jpg": {
+      "sha256": "632831a6de020591184b0c85806de6b23e5425513d39ab266263c25932aed1d0",
+      "bytes": 26233
+    },
+    "backgrounds/bg-07-thumb.jpg": {
+      "sha256": "c8486b5c8d37e0319e61f065a1981955aed9845a2c469d9532ccc8779f2fa1ab",
+      "bytes": 1704
+    },
+    "backgrounds/bg-07.jpg": {
+      "sha256": "2ffacee51ffd4ca6f0edbf4c25777df791e9fe8bc479d7864d71a0c287c09477",
+      "bytes": 25589
+    },
+    "backgrounds/bg-08-thumb.jpg": {
+      "sha256": "8595c1bb1324118a3ed9d251b538ff9dd640c2ecac53d3b3467cba1ba4798ded",
+      "bytes": 1827
+    },
+    "backgrounds/bg-08.jpg": {
+      "sha256": "19bea3ce8299bc9db64b87dc97f11e03b43a8a88620c4376476234afa99545e6",
+      "bytes": 25337
+    },
+    "backgrounds/bg-09-thumb.jpg": {
+      "sha256": "a3195e4d5d70141ab87cfe3d4dac0fb35187ba1c5833fe2b6c63fb005d911f81",
+      "bytes": 7006
+    },
+    "backgrounds/bg-09.jpg": {
+      "sha256": "40ffcf3497836092e9110ad8aa875ea73eaeea0c246cdb888101fba273373b33",
+      "bytes": 313407
+    },
+    "backgrounds/bg-10-thumb.jpg": {
+      "sha256": "6a5beefdd776850d313ed76fc0ac0bf7e631446c9b3c0d5ad9141426ac787052",
+      "bytes": 3050
+    },
+    "backgrounds/bg-10.jpg": {
+      "sha256": "d2eac28d44e2eb6552f8df1d36d196aea91912458169a716226c6194d8f84614",
+      "bytes": 159613
+    },
+    "backgrounds/bg-11-thumb.jpg": {
+      "sha256": "b499eb57eb315f53aef868af8ea9d85c78570515b5275838e2b92879e27d0211",
+      "bytes": 5253
+    },
+    "backgrounds/bg-11.jpg": {
+      "sha256": "e5efdc07139276e482507aad473c29fc180316ef4b8db52cf45176a00ee53c62",
+      "bytes": 319838
+    },
+    "backgrounds/bg-12-thumb.jpg": {
+      "sha256": "50c7c26fba7f34d8c5d808588f64ec055f73e26a9109744ce1c319dba557e4b8",
+      "bytes": 3440
+    },
+    "backgrounds/bg-12.jpg": {
+      "sha256": "359a46c9a1f43ea3eeb3a22ff780ee9e2cdee219e240b28eb0cda835138c9e3b",
+      "bytes": 157415
+    },
+    "empty-states/empty-favorites.png": {
+      "sha256": "87aa8948cbed619f0d15cb4f9f85015b84851ca2844cfe9e3b83bc47e68d7a40",
+      "bytes": 531692
+    }
+  }
+}
