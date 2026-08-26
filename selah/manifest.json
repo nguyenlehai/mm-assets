@@ -1,0 +1,65 @@
+{
+  "version": "1",
+  "files": {
+    "backgrounds/photo-00.webp": {
+      "sha256": "f804e95173dd5a4c4a2aae0d071b306bd93fc9d4e8edd6f578b5b5371c9125ec",
+      "bytes": 1522934
+    },
+    "backgrounds/photo-01.webp": {
+      "sha256": "b8fffbe6c2d2ff29cf610cb48852f866453dc3808e16de6b1df43919988d93ef",
+      "bytes": 2354972
+    },
+    "backgrounds/photo-02.webp": {
+      "sha256": "0031ce0e3b412908e82c11da67654fd7626c4de0ebc0e1098729c20d43346503",
+      "bytes": 1557174
+    },
+    "backgrounds/photo-03.webp": {
+      "sha256": "657825b59c2b812098f1776c0de9bc9da82386b66b3aa094c6f0d5190af31982",
+      "bytes": 1897453
+    },
+    "backgrounds/photo-04.webp": {
+      "sha256": "45ceca1013f97d23e8b36016378c0b6d9837d40b6e40377b51e7444b8f687550",
+      "bytes": 1111362
+    },
+    "backgrounds/photo-05.webp": {
+      "sha256": "ccdc33d96f5d6a9e5caeded75ed7efc87326f4a3e2494c555393dc88e9d104f3",
+      "bytes": 1184340
+    },
+    "backgrounds/photo-06.webp": {
+      "sha256": "7647a01cd301adc799908edddd9e1e08bbb790bc454dd3ab6152b08c96b4bc9c",
+      "bytes": 1403780
+    },
+    "backgrounds/photo-07.webp": {
+      "sha256": "f5865964b369ffe6698be9e7ebc5090c904bf5b242f8f9a1ff48dfa181a404cd",
+      "bytes": 1228334
+    },
+    "backgrounds/photo-08.webp": {
+      "sha256": "6495f2605cbd8dbbc98f6084800093e46c267d25fb93ef5b220330948a61b806",
+      "bytes": 2959589
+    },
+    "backgrounds/photo-09.webp": {
+      "sha256": "8f7d2bafd8ba616c507ad501ad4b8092e891223b73a20cdaf99f9d079a81a40b",
+      "bytes": 1356606
+    },
+    "backgrounds/photo-10.webp": {
+      "sha256": "f5ab158d33694ffa6221b5411ce5435f0a9b451a33e821ff7c572f8a4bde8544",
+      "bytes": 1931950
+    },
+    "backgrounds/photo-11.webp": {
+      "sha256": "8e99a7148e102740823df040c2e43ab055d60b8620f8bd8221d50aedeebd523e",
+      "bytes": 1355282
+    },
+    "empty/empty-error.png": {
+      "sha256": "178c37ac77a0ca7b74c2f4dab93d499f1dfa6db82e0656d4699948b1703195fb",
+      "bytes": 551732
+    },
+    "empty/empty-prayers.png": {
+      "sha256": "299bcf829fff204e897a5cd5adb03df1ecf6dc952ccd066d51d0a668a2662759",
+      "bytes": 805200
+    },
+    "empty/empty-search.png": {
+      "sha256": "0ce6c915f2b782188c83806beddc458f559aa6432afd0469e4b4dcfa46c51cc9",
+      "bytes": 803634
+    }
+  }
+}
