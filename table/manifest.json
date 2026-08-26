@@ -1,0 +1,201 @@
+{
+  "version": "v1",
+  "files": {
+    "illustrations/week-04.png": {
+      "sha256": "f9f03311ae6b78a08619e53eae344ee75f68ab75c9d500c087525138abe6ed69",
+      "bytes": 2585600
+    },
+    "illustrations/week-05.png": {
+      "sha256": "895fb4c65a06c15c53eff95d5915290d00adb1501a8be8936641b3052b173a93",
+      "bytes": 2598738
+    },
+    "illustrations/week-06.png": {
+      "sha256": "5380c29e590c086462c2ba969c5f3b542cefa8bbd99f0d85450adf8b88b01040",
+      "bytes": 2577556
+    },
+    "illustrations/week-07.png": {
+      "sha256": "58874e45184fc14b59a999a29a7bfdd2bcea03a882d4df4c4826f06d012b4c51",
+      "bytes": 2640840
+    },
+    "illustrations/week-08.png": {
+      "sha256": "0873417ff2c83a0b1578ee08dc746e5fe731fc7192a67cd189bc7749336ea8b7",
+      "bytes": 2421102
+    },
+    "illustrations/week-09.png": {
+      "sha256": "0c8aac0f29d95c62beaaee8a7fd8aa1027749cc1aac6375563af8c8d63b70a9f",
+      "bytes": 2616000
+    },
+    "illustrations/week-10.png": {
+      "sha256": "e206e9ff85fb170551dc5f740fb03f81662298de3ef8ce13c8c940e959742797",
+      "bytes": 2642757
+    },
+    "illustrations/week-11.png": {
+      "sha256": "846423237a7efb74da4cfb9dcc178bf9ac833bb8b24689fc043c5f75fdcaf553",
+      "bytes": 2459088
+    },
+    "illustrations/week-12.png": {
+      "sha256": "ac0e3ae005891523b2804ce7ae73c7bb1688eeb59b8773dfec97657615ed2a01",
+      "bytes": 2640691
+    },
+    "illustrations/week-13.png": {
+      "sha256": "85f5257e90f0ed2eaa594019780127262e3826f5fee6e6b998da18282c032110",
+      "bytes": 2602893
+    },
+    "illustrations/week-14.png": {
+      "sha256": "373be6f8001b928acfcc16fec674d9af402bcf5190800c952fe1ef82ea6551d3",
+      "bytes": 2321863
+    },
+    "illustrations/week-15.png": {
+      "sha256": "bae35979520442278eb45061a95b8b6deedb01b2af07ac734119f8aa116a7fac",
+      "bytes": 2608450
+    },
+    "illustrations/week-16.png": {
+      "sha256": "ffbbe694047f0be34a8feaa5e0f667b9d8add2b71020b32048a49f655121ae98",
+      "bytes": 2439506
+    },
+    "illustrations/week-17.png": {
+      "sha256": "a5c2a87c66be3b08ec9321a5e3cc225e1785658e22ce5be3aee77006d35d44ce",
+      "bytes": 2386588
+    },
+    "illustrations/week-18.png": {
+      "sha256": "585fd8af6dbe81eca40a955368f7daf88447ed0edb83eaf8aad00f773d4820b1",
+      "bytes": 2404404
+    },
+    "illustrations/week-19.png": {
+      "sha256": "d5fe82c9859319b84e6ade157836b2b24c9b0dc62a01c7be125474c0d03dbf84",
+      "bytes": 2708304
+    },
+    "illustrations/week-20.png": {
+      "sha256": "b4067e651512d7714665ebb615959ce80fe791a1bb81eaeff5fffc062efa8e30",
+      "bytes": 2355879
+    },
+    "illustrations/week-21.png": {
+      "sha256": "e0165ceba632ab4974e0ac8ab6e4f814d30f5f6bfd9bcc8fdd8595b6dd747e30",
+      "bytes": 2452636
+    },
+    "illustrations/week-22.png": {
+      "sha256": "9931b600b51b8dcf29b853cd9b30115b79f0cf9595c3fb8e8ded2f28f70ac077",
+      "bytes": 2695056
+    },
+    "illustrations/week-23.png": {
+      "sha256": "0833cbb74d02a16438396814e6da3523afec865fa8320f9a608c3b403c973c12",
+      "bytes": 2475401
+    },
+    "illustrations/week-24.png": {
+      "sha256": "2a04f4fc179b1c2560f2f5912ad7435e870d916d06904cae4832f0b83eb143ea",
+      "bytes": 2462806
+    },
+    "illustrations/week-25.png": {
+      "sha256": "ef355216c6a42c432ff6a6c95f987297477ba90d1fffda7f31596769bb870e1d",
+      "bytes": 2382645
+    },
+    "illustrations/week-26.png": {
+      "sha256": "12001d8be24797e8a7ec139213b15da03fc524f4b7f36440d8a7fda540fdc0e3",
+      "bytes": 2568261
+    },
+    "illustrations/week-27.png": {
+      "sha256": "d76b863b335663675cedc09acd20ae1c63969dd20e46679754528e8a24113c38",
+      "bytes": 2501437
+    },
+    "illustrations/week-28.png": {
+      "sha256": "e51e406e5daa2202a89442587ef438cded27dce12de8c0e2d2320c56e8b2e761",
+      "bytes": 2299783
+    },
+    "illustrations/week-29.png": {
+      "sha256": "f30bf2c8240fd2e05daec779edcb00b787456d5c660e767a6aff4cd0f55538a3",
+      "bytes": 2684060
+    },
+    "illustrations/week-30.png": {
+      "sha256": "fe3b633d732ddad66ceac3d906a22beea6a151f0e3f917caf6c366a059b29066",
+      "bytes": 2297714
+    },
+    "illustrations/week-31.png": {
+      "sha256": "d51103da4005b595547aa2fdf7b87cb458cbfa02c2bfb068183ff4ed14646acf",
+      "bytes": 2489582
+    },
+    "illustrations/week-32.png": {
+      "sha256": "9a7ca39411480aa1843dc1cb83711c9b39a1ddfc631c27d50429f629e8b019d7",
+      "bytes": 2733685
+    },
+    "illustrations/week-33.png": {
+      "sha256": "cba6404b5e78318ba12f1a88dd522e4ab9828d9118bdf0485eb54c8910e52b5c",
+      "bytes": 2472637
+    },
+    "illustrations/week-34.png": {
+      "sha256": "47ab00028b800eb4e85f322e5041b32353f4a39906e57799e3c9b426841ba4d8",
+      "bytes": 2389193
+    },
+    "illustrations/week-35.png": {
+      "sha256": "45ecc00058ddeb28f2cd73ac75a773cf3492b07a12efb1399e5c1d3c4d6e901c",
+      "bytes": 2747514
+    },
+    "illustrations/week-36.png": {
+      "sha256": "1a19a94e4ccb9dd08df2dc1423d3b447db59ed4cccedd0538a7c5388ac21262d",
+      "bytes": 2443485
+    },
+    "illustrations/week-37.png": {
+      "sha256": "d07c970c4218ce8d3b169580abec0bd79a80c6faa600e153afe1bb5f2d4665f7",
+      "bytes": 2626946
+    },
+    "illustrations/week-38.png": {
+      "sha256": "08bb70fabbe9671ba52c1b0766b7daa837d18c7158cfb80da45a086138c339e6",
+      "bytes": 2395196
+    },
+    "illustrations/week-39.png": {
+      "sha256": "998c4e6a407975f2af8e3409e8ec35e7e8e8c16074ee770d9875ea33334b77a7",
+      "bytes": 2677556
+    },
+    "illustrations/week-40.png": {
+      "sha256": "8e19c6db057b81aef3b2d64e126005a644073c429de89af5f5bc5d4d1aa55c58",
+      "bytes": 2523710
+    },
+    "illustrations/week-41.png": {
+      "sha256": "5032c84451043a19680c178500beb7293af147950fc4693dc21e6e3e68241f1a",
+      "bytes": 2687135
+    },
+    "illustrations/week-42.png": {
+      "sha256": "bc8b4a193f92c4262ad6389418e2d52f6b4dccc66a79e612468dab2a1ca92441",
+      "bytes": 2443669
+    },
+    "illustrations/week-43.png": {
+      "sha256": "fa90429090ef3cb87e12e97b8d235c08fa0d3de28ec8271daf568bddf74bbb08",
+      "bytes": 2577460
+    },
+    "illustrations/week-44.png": {
+      "sha256": "cfcb76c4419be884fbea208e9339561a4d145521df3929adc8c666e35f71b49c",
+      "bytes": 2446118
+    },
+    "illustrations/week-45.png": {
+      "sha256": "b60fe15ed4ebc5ff74ab62b8b25a08965a2faec3edd3242329bdc01a3a3adebd",
+      "bytes": 2416690
+    },
+    "illustrations/week-46.png": {
+      "sha256": "d3f49754b0a785252b9869457ee1d6696dda116083db498f1001517f14b84fc6",
+      "bytes": 2552318
+    },
+    "illustrations/week-47.png": {
+      "sha256": "2843d336f6ce0aabfb2bd8c6edc4cb594fa8d8817eb0a66c7cfb1c35f47c2c7a",
+      "bytes": 2725553
+    },
+    "illustrations/week-48.png": {
+      "sha256": "f6eb7a3d69cd15634035ec6e713035391256c205a94f05056e581416001f0123",
+      "bytes": 2692467
+    },
+    "illustrations/week-49.png": {
+      "sha256": "497a820d87dfebd15d6f6513705426e7a1a2c663919e41f98947a5625fbffb93",
+      "bytes": 2798333
+    },
+    "illustrations/week-50.png": {
+      "sha256": "04703901c6662839fd81b9693cb8d43e522207f023c6944a05a3372671e07a9b",
+      "bytes": 2390131
+    },
+    "illustrations/week-51.png": {
+      "sha256": "8080acf9d366f597b291ec631bea84c59ce2306661591c0770cf945b74a443d4",
+      "bytes": 2632709
+    },
+    "illustrations/week-52.png": {
+      "sha256": "1959692d79f5e5d977ab90cababeb04bd7e428d4df6802a3f5ff6a5317a7d283",
+      "bytes": 2319066
+    }
+  }
+}
