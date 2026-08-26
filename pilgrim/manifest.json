@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "files": {
+    "paywall/paywall_bg.png": {
+      "sha256": "b344785bddca0c53ad90352fe62acce7c8f0f6186b08843c554ce66ba3f9d6ab",
+      "bytes": 1436540
+    },
+    "paywall/premium_banner.png": {
+      "sha256": "3b49944e9de12a91dddd6aca656d245129423850b72f76c5b78d75acc7a76ef3",
+      "bytes": 1404253
+    }
+  }
+}
