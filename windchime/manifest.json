@@ -1,0 +1,33 @@
+{
+  "files": {
+    "empty/empty-no-porches.png": {
+      "bytes": 819583,
+      "sha256": "b459423877b4da86dac619f045993de86a05e2d064579be1d6f70060d286f27e"
+    },
+    "empty/empty-no-recordings.png": {
+      "bytes": 512415,
+      "sha256": "e3bbdb9226e78ea2bb58333b094b1724262bfb9da87350925a886ca94eec63eb"
+    },
+    "scenes/frame-beach.png": {
+      "bytes": 814749,
+      "sha256": "b09c1f13f559bfb603d2d7b7c3b4373516781d3c610c2702a0e0de18eb7d8a35"
+    },
+    "scenes/frame-city_balcony.png": {
+      "bytes": 550685,
+      "sha256": "3dac03bd414a41af5c0c26b71db8ee1182e8c78ba7513d24cb046bdb36ab0a23"
+    },
+    "scenes/frame-garden.png": {
+      "bytes": 955300,
+      "sha256": "11b1102f198c23c17ecc6188fcd1773a493879589d11350a615cfc254f03ce99"
+    },
+    "scenes/frame-mountain.png": {
+      "bytes": 949653,
+      "sha256": "aa47c7748c037f52d3fd683aca9c8ca2c11223f4c8624c19ab84302b5ef96163"
+    },
+    "scenes/frame-tile_roof.png": {
+      "bytes": 778905,
+      "sha256": "08f9877d908b8ef8f6a8d570a2ddb18f1cf91f1aeeae30eb0b29e4a508c40def"
+    }
+  },
+  "version": "v1"
+}
