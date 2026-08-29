@@ -1,13 +1,15 @@
 {
-  "version": "v1",
   "files": {
     "paywall/paywall_bg.png": {
-      "sha256": "a2896f547f07e12fd30b3f1cdff1ea63a792a5e16c9276b3f7e95b2de78014b9",
-      "bytes": 1339076
+      "bytes": 1339076,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAMAAAD6fQULAAAAYFBMVEUGFDECDiYVJUgBCx0yO1iFamRSNSx2ZWlQS1k5QV3Xm3EvJy89RWDrq3N+Y1xtX2Y8MzilfnCFTzNeQTezhnJjQjcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApgmywAAAAIHRSTlP/////////////////////////////AAAAAAAAAAAAAJ0wL0oAAABXSURBVHjalY5JDoAwDANNE5Ju7PD/r9IFQeHGnDyyohhdCx7e9g/T8rEYHd+A7aR9RTUdstPdD35Ryyj/jR3Z5ECUPMx1G8rY7cgziZAqWaXkbBCRcNkJn8ECJNaAangAAAAASUVORK5CYII=",
+      "sha256": "a2896f547f07e12fd30b3f1cdff1ea63a792a5e16c9276b3f7e95b2de78014b9"
     },
     "paywall/premium_banner.png": {
-      "sha256": "abfec1a2517f650083940dd23aa4a76b90a88b65bfb920b827c642a96c75662b",
-      "bytes": 1351702
+      "bytes": 1351702,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAICAMAAADHqI+lAAAAYFBMVEUMFy4qKTVIOTp8VD5ZQjsbIjTupk+2dkLCfUPll0aiaT/7uVfLgUFaRkGLXD6VYDz4vWD/ymU0MDhuTj+lbUPShD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABicxk2AAAAIHRSTlP/////////////////////////////AAAAAAAAAAAAAJ0wL0oAAAA7SURBVHjaY2BABoyMjKh8JiYWVL4wHz8Kn5mLgwdZgIVLlJMNwWdl5BXh5BZE1cLOJoAkwCrEwszOAQA5/gEz8xJqqAAAAABJRU5ErkJggg==",
+      "sha256": "abfec1a2517f650083940dd23aa4a76b90a88b65bfb920b827c642a96c75662b"
     }
-  }
+  },
+  "version": "v1"
 }
