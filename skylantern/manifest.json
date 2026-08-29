@@ -1,0 +1,13 @@
+{
+  "files": {
+    "onboarding/rehearsal-sky.png": {
+      "bytes": 2413572,
+      "sha256": "bc56ade39e8dc862ffc3a4f232243fdf3839137f4713489add24048eb3d210af"
+    },
+    "share/frame.png": {
+      "bytes": 998257,
+      "sha256": "d695ca4a39fb397b12cc443d43c3d9190215a0a5252dccd71ad484fb2dcb75e0"
+    }
+  },
+  "version": "v1"
+}
