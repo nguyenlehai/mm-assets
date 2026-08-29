@@ -1,0 +1,29 @@
+{
+  "version": "1",
+  "files": {
+    "empty/collection-empty.png": {
+      "sha256": "05b69c3b8ee1688ec0c7a00a98578d2e843e8c779c3b273090248214e87dca14",
+      "bytes": 1293593
+    },
+    "empty/friends-empty.png": {
+      "sha256": "823f3b12ef2d389368a1d92e9787286b9c2a8abc2348a34233d0dbbf06f50bf1",
+      "bytes": 918054
+    },
+    "empty/sky-empty.png": {
+      "sha256": "38bbdcadd89632c1a69b01af3ac0dd1501fabd09eb7cead02d60249a98c5cec4",
+      "bytes": 1343942
+    },
+    "paywall/paywall_bg.png": {
+      "sha256": "637c7432a8fdcacca6ead83f41570cc9a61edd37ef1e72b4dd1a50f4d440a4fb",
+      "bytes": 1605110
+    },
+    "paywall/premium_banner.png": {
+      "sha256": "8536711c73d0fb0469ada3710576d8b0ea79b68b69cd903078332833f5d815f1",
+      "bytes": 1713334
+    },
+    "sky/milkyway.png": {
+      "sha256": "bcc3660d87cf7531689f79cca93c59bdcf4a329c474e45e8b898f3f3b6b0dc1a",
+      "bytes": 1726636
+    }
+  }
+}
