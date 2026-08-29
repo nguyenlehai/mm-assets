@@ -2,12 +2,12 @@
   "version": "v1",
   "files": {
     "paywall/paywall_bg.png": {
-      "sha256": "b344785bddca0c53ad90352fe62acce7c8f0f6186b08843c554ce66ba3f9d6ab",
-      "bytes": 1436540
+      "sha256": "a2896f547f07e12fd30b3f1cdff1ea63a792a5e16c9276b3f7e95b2de78014b9",
+      "bytes": 1339076
     },
     "paywall/premium_banner.png": {
-      "sha256": "3b49944e9de12a91dddd6aca656d245129423850b72f76c5b78d75acc7a76ef3",
-      "bytes": 1404253
+      "sha256": "abfec1a2517f650083940dd23aa4a76b90a88b65bfb920b827c642a96c75662b",
+      "bytes": 1351702
     }
   }
 }
