@@ -1,0 +1,97 @@
+{
+  "files": {
+    "empty/empty-between-races.png": {
+      "bytes": 1387917,
+      "sha256": "bfd92b22df393a0e58341eb4cc695ff588fa6cc767afc92761cc983b2a6a7ee8"
+    },
+    "empty/empty-medals.png": {
+      "bytes": 1230900,
+      "sha256": "211b460e11bb11b817bf26f902f7e2592d43d0d9d24e60689d7b71ac1fd97753"
+    },
+    "empty/empty-offline.png": {
+      "bytes": 1260748,
+      "sha256": "a48baa86c724e1a839e6fccbf8b966965245b6f51757f83858cb189e393b97de"
+    },
+    "empty/empty-pen.png": {
+      "bytes": 1760214,
+      "sha256": "133f86ae02667ce04c14be0a29d07e76f5fec13c43a8314416649600bedd183e"
+    },
+    "landmarks/eiffel-tower.png": {
+      "bytes": 2172646,
+      "sha256": "e4d35b843030fd9e2a68522dc8d759642f1cbd03b607e97e6ddc09d9b1ffd38f"
+    },
+    "landmarks/giza-pyramids.png": {
+      "bytes": 2390126,
+      "sha256": "ce60f7e56939d3cf8a27bf05429e1d0f4f211c7613d70d04e5f2afeef82e3c4b"
+    },
+    "landmarks/golden-gate-bridge.png": {
+      "bytes": 2304507,
+      "sha256": "721f64748c48bfbc477c362054775ffe8d7665bbdb4f50f1ba770f3e7f03a0d7"
+    },
+    "landmarks/great-wall-mutianyu.png": {
+      "bytes": 2757093,
+      "sha256": "2f3f55e10368f61bc0c5c069a90c1877fe27ee01e08b63e19da77e18c9b99f88"
+    },
+    "landmarks/machu-picchu.png": {
+      "bytes": 3119123,
+      "sha256": "f9e2bc26bce1386becd152c5e4e6a6b46e21e5cc67644178d32daffe0dd1f3a8"
+    },
+    "landmarks/sydney-opera-house.png": {
+      "bytes": 2186294,
+      "sha256": "88ee4104b581275de4b4d1dc1b5942b0ba2c014f0c55be4b5890744a762dfb30"
+    },
+    "medals/bronze.png": {
+      "bytes": 1279214,
+      "sha256": "15bd9c24683c407289801879554d4e8a984ae4ba7c0e08838d9b29cfb0add678"
+    },
+    "medals/ceremony-backdrop.png": {
+      "bytes": 2121260,
+      "sha256": "641ab12d35c7b4107aa65a288f35eae8483ceb4916b1f803b34669a938568706"
+    },
+    "medals/finisher.png": {
+      "bytes": 1323604,
+      "sha256": "127e41ac979ee821c3df20f81b073c5f1962ced3e97f24bdbcb2ca35b0f1637c"
+    },
+    "medals/gold.png": {
+      "bytes": 1248322,
+      "sha256": "ceaae2e7993fa2e94ba9179be27fda2e4dfcbc8716ba34ea08db9e29852f5353"
+    },
+    "medals/laurel.png": {
+      "bytes": 1203443,
+      "sha256": "c34a79e5b9a8fa87fea80e39c81a6d547004406e91c2a82b91b83a9b76bb9b06"
+    },
+    "medals/silver.png": {
+      "bytes": 1420843,
+      "sha256": "07c2999a0b785ce57096f459764b53a29e3762850c2c17eed7e59f3fdd1a2eea"
+    },
+    "share/share-frame.png": {
+      "bytes": 955318,
+      "sha256": "1ddb0ca7ae2097b084af994df6af4e1299832262a02d2b2aee0de682358991d1"
+    },
+    "share/year-card-frame.png": {
+      "bytes": 1166773,
+      "sha256": "9b1632c30dbc6524b8b5b2b793b79a9186de3f35fb769b40fbf8601b6085b252"
+    },
+    "turtles/box_eastern-atlas.png": {
+      "bytes": 786520,
+      "sha256": "2ffb3bf570d96cfb35356d9a825c5c323462331b295e4802de8b2d990fe455d6"
+    },
+    "turtles/galapagos-atlas.png": {
+      "bytes": 1985009,
+      "sha256": "c2d007e640ef404accb5ab1170ab37f00cef70d8cd766a4b59d47be7fb3ed0ac"
+    },
+    "turtles/indian_star-atlas.png": {
+      "bytes": 981723,
+      "sha256": "baf2b9cb4d40e43ee8a81db9da05ae0abd15b7afa754695e1ba246623f82e301"
+    },
+    "turtles/leopard-atlas.png": {
+      "bytes": 2110555,
+      "sha256": "9c4f008cdfb557c69d329caab635e571dcd782be314912513a16cd87078bbb2b"
+    },
+    "turtles/red_footed-atlas.png": {
+      "bytes": 808003,
+      "sha256": "5839c49b8d5a6c654e5c2972d75ea1ff5f313d29a7387d585f0d0e8c9746b3d2"
+    }
+  },
+  "version": "2026-08-29"
+}
