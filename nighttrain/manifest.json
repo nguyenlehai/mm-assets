@@ -1,0 +1,113 @@
+{
+  "files": {
+    "decor/brass_compass.png": {
+      "bytes": 1298906,
+      "sha256": "c311e7085fa69f3e213f80bf0d7d2ca53fc8ef0c520cf688ddbeab234321a4e9"
+    },
+    "decor/gramophone.png": {
+      "bytes": 1324020,
+      "sha256": "5a4deb4a9c8511df9e97b013e7628010f76ca3032721e1cbbb84bac4c3e95de8"
+    },
+    "decor/lantern_string.png": {
+      "bytes": 513916,
+      "sha256": "623e0fb5b51f0db55c48b5dc2e837ea1eb287b2243ce15cee3e2604328117c26"
+    },
+    "decor/oil_lamp.png": {
+      "bytes": 760142,
+      "sha256": "a17bc84ecc2723a393e3c04c321f8991e400e03e923c84145cfff8a26796b551"
+    },
+    "decor/postcard_rack.png": {
+      "bytes": 1510172,
+      "sha256": "04d298b9753add65b475c3769d6445d08dca209fb491a1459c2f74545356e702"
+    },
+    "decor/potted_fern.png": {
+      "bytes": 1662253,
+      "sha256": "c88df3b1f7be86da364a5347682c23d8c2d5d2c2515ad6d3b14847d1891cec8c"
+    },
+    "decor/pressed_flowers.png": {
+      "bytes": 1695987,
+      "sha256": "64eb97dda59724ec7049ac82ca716d3c8991a0d371e8e565704c8bb51bff62bc"
+    },
+    "decor/timetable_board.png": {
+      "bytes": 1024019,
+      "sha256": "23f339528d5f33538243fce3a268219ecdc25addc52bf5bfae4ec1ccd0b06369"
+    },
+    "decor/travel_trunk.png": {
+      "bytes": 1682629,
+      "sha256": "b19bed6a19413b8a99cdf791c7ec03c21946446c1fa0b7f0dd27079b5b70f2ea"
+    },
+    "decor/velvet_cushion.png": {
+      "bytes": 1500467,
+      "sha256": "4ce0726123fbaa6469915e0d2684ee49fa5718e02c8f08fa46a520527857a82f"
+    },
+    "decor/wagon-interior.png": {
+      "bytes": 1710143,
+      "sha256": "e84bc1cdb9250e7fe8e3c241cdad3ccacf02d393cd5e15da25ae32ab10be5cb6"
+    },
+    "decor/wall_map.png": {
+      "bytes": 1658311,
+      "sha256": "1a3ec35b199f9cb54089631bb7e5b504e629a0e95c702f051fb56f5f37148b03"
+    },
+    "decor/wool_blanket.png": {
+      "bytes": 1607373,
+      "sha256": "394d87925110da759a83f253f3c0836b96126ff46b92f33b0fd0b8b151d71f56"
+    },
+    "empty/empty-friends.png": {
+      "bytes": 1233356,
+      "sha256": "18dfa873d0081df2b826a2dfaf2d46be3edb4f28de25305f56adcafccbfc79a1"
+    },
+    "empty/empty-inbox.png": {
+      "bytes": 1028372,
+      "sha256": "1e776868d9915b346c9f2b65f86a94d0351fd000c8daac81ace25793935b04f2"
+    },
+    "empty/empty-map.png": {
+      "bytes": 1866761,
+      "sha256": "9454aaa930af06a3a4f5864ffc8a551772f2e26e56a641d086e31bcecf0a5cf9"
+    },
+    "empty/empty-postmarks.png": {
+      "bytes": 1203214,
+      "sha256": "e8c778f18a1d71a162cf9ea24431091cfe87377a65d3ea7127ddf777ab55caea"
+    },
+    "onboarding/first-letter-departure.png": {
+      "bytes": 1502036,
+      "sha256": "402b2b7079d7c10128b72e749335dff263fd87a08e790c722d5c1bf01f7dac5c"
+    },
+    "onboarding/how-it-works-postmarks.png": {
+      "bytes": 1797512,
+      "sha256": "1b40ffb065451eedbc0d9c5f097480650120757b52ea918fc08358fa5ea09b45"
+    },
+    "onboarding/how-it-works-routes.png": {
+      "bytes": 1833552,
+      "sha256": "483c21369d3159b022260c7c0147694a225afcfdaf4e5dcf05f7591d1f13d5a2"
+    },
+    "onboarding/how-it-works-transfers.png": {
+      "bytes": 1920586,
+      "sha256": "1b5707fac8c2b532908b6298573da7db709b143b2fa9f600c10583223492d1b3"
+    },
+    "share/ticket-frame.png": {
+      "bytes": 2529357,
+      "sha256": "8dc1314f43ba0807b9f16abf40e7894dc7e834579f8a626d6721e84c433238c3"
+    },
+    "stamps/autumn_amber.png": {
+      "bytes": 2874161,
+      "sha256": "d51b8ac854c98519e0ccef54b834fe49e4d6f70e7429a55df3a868368f24bbde"
+    },
+    "stamps/classic.png": {
+      "bytes": 2436427,
+      "sha256": "15be45c0f806a2fc8f009cd35eedc037a40e72d7960c9363805dba41ff331a46"
+    },
+    "stamps/spring_bloom.png": {
+      "bytes": 2780620,
+      "sha256": "dab389341c2d26ac6cc4d826b14ca424c848c965653a1ff4c9fc5877f8bc57ea"
+    },
+    "stamps/summer_gold.png": {
+      "bytes": 2983833,
+      "sha256": "cdc914b57048e23d3e541b106c299dd68fecddf4e15882b39e5e74c46182b756"
+    },
+    "stamps/winter_frost.png": {
+      "bytes": 2818927,
+      "sha256": "ca7b83cf3d7435bca08525a3268ff34d6052a44c210c9c30b34945c8f5578ece"
+    }
+  },
+  "version": "v1"
+}
