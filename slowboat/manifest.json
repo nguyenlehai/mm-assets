@@ -1,0 +1,45 @@
+{
+  "files": {
+    "empty-states/no-fleet.png": {
+      "bytes": 291560,
+      "sha256": "e641ff1ff2d6dbb0664bf9a728b9a1255ab116f74d896331294c90e052dd04fe"
+    },
+    "empty-states/no-friends.png": {
+      "bytes": 357511,
+      "sha256": "5d33b648faefec3150a84359b117940df8992f17bc3c73df60dac1acbf58bddc"
+    },
+    "paywall/paywall_bg.png": {
+      "bytes": 1598837,
+      "sha256": "aa13b94e88d890e09ec7e229b1f22aab67917babd2ac7bf8e7477b327ad3e90a"
+    },
+    "paywall/premium_banner.png": {
+      "bytes": 1401684,
+      "sha256": "96a44055be6841eda81e7a3e0b6a9bafdc6b1f0b0e74e7cd7bf92d73802d78f6"
+    },
+    "ships/cargo.png": {
+      "bytes": 1155971,
+      "sha256": "83b25b88c6d90e64b689684af37c8bdab98c50e7e8fe310cf3d9140d06a6f773"
+    },
+    "ships/fishing.png": {
+      "bytes": 653420,
+      "sha256": "76c0684d7dcafbea934c0637cfbd0c2c046a40caa671e8a8c054e4fc02625295"
+    },
+    "ships/passenger.png": {
+      "bytes": 1088676,
+      "sha256": "d32bf4f120a7b342b483aa2bb8251ff47933af6a5187ebdf3d8617b4b15ea8c6"
+    },
+    "ships/special.png": {
+      "bytes": 1277800,
+      "sha256": "f68c0dbc0560f6ed515bdb4e74c0bbd5c1b54d60c9fd181ef2c66fcd449215cb"
+    },
+    "ships/tanker.png": {
+      "bytes": 1047913,
+      "sha256": "e682fd643e87b1bc740f1e85e9220d26f72530b494a95e38d57a6e6287426974"
+    },
+    "ships/unknown.png": {
+      "bytes": 411717,
+      "sha256": "a56467f1a3058e553d50609467d13e32258d24407a4dd11c13cbe3d742e971db"
+    }
+  },
+  "version": "v1"
+}
