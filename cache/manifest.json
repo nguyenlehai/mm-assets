@@ -1,0 +1,105 @@
+{
+  "files": {
+    "chests/chest-coral-buried.png": {
+      "bytes": 1754040,
+      "sha256": "81f44211aa475be421c070971aba61c4aa92e34c64a041dbb2d33ff880a92f80"
+    },
+    "chests/chest-coral-open.png": {
+      "bytes": 2086146,
+      "sha256": "88cf2bbc76a7292861638211a42f1ced7e047c6189d58a9f4458a5ad8c5c3fc1"
+    },
+    "chests/chest-coral-peeking.png": {
+      "bytes": 1747297,
+      "sha256": "84d75413a1af552848f3ed05623ee63d9674aa0e60f48e5293b71ce626855534"
+    },
+    "chests/chest-coral-revealed.png": {
+      "bytes": 2312182,
+      "sha256": "89bf95e29b7f4baaa3fca6893971c9d913294d7eafd4863821a53a30291e1cd1"
+    },
+    "chests/chest-iron-buried.png": {
+      "bytes": 1857333,
+      "sha256": "6a5835c3599c80f93a1a3deae6afb696ad4e568c150056beb13db79c2cd46fb1"
+    },
+    "chests/chest-iron-open.png": {
+      "bytes": 1856960,
+      "sha256": "03743b3e860d9c0e17035b289578bcc31897ebebe69ee6845635f74fd1fcc53d"
+    },
+    "chests/chest-iron-peeking.png": {
+      "bytes": 1870123,
+      "sha256": "de978517d72560fb0c8ac1fa02163de20f8a531715a12cead25edc54d40f7a7e"
+    },
+    "chests/chest-iron-revealed.png": {
+      "bytes": 2032559,
+      "sha256": "5b5fcfdf73081ac58384e85d0347e32ebf179def89dd88d366667aae146bf9d3"
+    },
+    "chests/chest-lacquer-buried.png": {
+      "bytes": 1394541,
+      "sha256": "43e870fd2daf8067c615e1096f89f19daefe10a742293c7eacc668e499858f68"
+    },
+    "chests/chest-lacquer-open.png": {
+      "bytes": 1874531,
+      "sha256": "1c037695a57637272771db8a34d3de3b3a559a7b7afa3ac9b96d1206519c4c0e"
+    },
+    "chests/chest-lacquer-peeking.png": {
+      "bytes": 1904556,
+      "sha256": "546f3145711fde8225cb56584a83ecf87996a07e862bc09ee1917d1cc57491d4"
+    },
+    "chests/chest-lacquer-revealed.png": {
+      "bytes": 1924281,
+      "sha256": "95fd7671c1760b77ba888f6858028073f0dc62e0ca7dde2d50be29bee6bf6df1"
+    },
+    "chests/chest-oak-buried.png": {
+      "bytes": 1980188,
+      "sha256": "95521a9fed0639ea3d14e0b6a8fd1852bffd3b37ad4c31e87d7a4f082c7cc7d4"
+    },
+    "chests/chest-oak-open.png": {
+      "bytes": 1895862,
+      "sha256": "ed01061890c80f296757c08d126e28529717589eca45f2c6f08edf0d180c6cd5"
+    },
+    "chests/chest-oak-peeking.png": {
+      "bytes": 2106065,
+      "sha256": "323bfe41aecd8acd70422e8c23d7b20fe2cae93df12e6107356a393c3789aa87"
+    },
+    "chests/chest-oak-revealed.png": {
+      "bytes": 2063418,
+      "sha256": "ec4b34c9b5aa0c184d392171b66630554f31577d05b66f1b9e6e06e4a95f717f"
+    },
+    "paper/paper-parchment.png": {
+      "bytes": 2255674,
+      "sha256": "073df7e6eb04eb0217461af216a3473fa35bfb26cd1cae3804dfa83691d062ce"
+    },
+    "share/card-background.png": {
+      "bytes": 2372662,
+      "sha256": "723cc7a0de7713aa10eacf4976622ec3383bd2d5eb84c61d4982adc63a012f63"
+    },
+    "stamps/stamp-africa.png": {
+      "bytes": 1657319,
+      "sha256": "0dd5e0db43fadab39dd73e855f8f541a15b0fc69b9ae473bff93143c825c71a2"
+    },
+    "stamps/stamp-antarctica.png": {
+      "bytes": 1223119,
+      "sha256": "e38948ac0edf3fdd625ec372de6d913de1301f01486c48adf8d463c1c36ee210"
+    },
+    "stamps/stamp-asia.png": {
+      "bytes": 1477660,
+      "sha256": "8f8995221c910042a7bf0906abdb2310234189c777f313266e8cf1606fa38468"
+    },
+    "stamps/stamp-europe.png": {
+      "bytes": 1164624,
+      "sha256": "83bcae2a93ecfebb7aac5ff8f9eb450eb9f95603c47ffde24a1d717752a8ff1b"
+    },
+    "stamps/stamp-north_america.png": {
+      "bytes": 1613705,
+      "sha256": "c6db6d05681229beaf5a212e4c7158a7a7a5297146cb533315ab3de717f207a3"
+    },
+    "stamps/stamp-oceania.png": {
+      "bytes": 1838308,
+      "sha256": "957af3ddecadf015e299ec2b5df1b6161382f1e7ba96d5082da9d178ab6efd98"
+    },
+    "stamps/stamp-south_america.png": {
+      "bytes": 1409594,
+      "sha256": "dfafb3718b938026cf77df7e1bf16c82977d4fc019930e996c8611cad9ef4aee"
+    }
+  },
+  "version": "v1"
+}
