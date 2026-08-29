@@ -1,0 +1,13 @@
+{
+  "files": {
+    "empty-states/album-empty.png": {
+      "bytes": 1065005,
+      "sha256": "b56386a9ff16e6e11e760db1445002167255d5b50cbe354742f843ea6273adc7"
+    },
+    "empty-states/deck-empty.png": {
+      "bytes": 532702,
+      "sha256": "80b17b1066f672445fcde5f2ffba117a58cc50f7ad10dcbf4b6ce35da8606f02"
+    }
+  },
+  "version": "v1"
+}
