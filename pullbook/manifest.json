@@ -1,0 +1,21 @@
+{
+  "files": {
+    "empty-states/empty-history.png": {
+      "bytes": 1179231,
+      "sha256": "c9dcb8e31c2cda3cb0087e04646cc66d76da18d0655a6bc647055270eb1fdefd"
+    },
+    "paywall/paywall_bg.png": {
+      "bytes": 1869358,
+      "sha256": "0c10de5c596b51c59a7de5ba74648d4442b1dca4a3c3a7f64ed72a957fabe02f"
+    },
+    "paywall/premium_banner.png": {
+      "bytes": 1849938,
+      "sha256": "dc5783c5d9c476c2096d73f14bf617167ff12f7dbab990c5cbd4e30d387c84e7"
+    },
+    "wrap/wrap-frame.png": {
+      "bytes": 424361,
+      "sha256": "a73ed1bbb837772af04ade54f85583ad188e3f617908046c244974da846231d9"
+    }
+  },
+  "version": "v1"
+}
