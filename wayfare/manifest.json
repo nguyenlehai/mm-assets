@@ -1,0 +1,101 @@
+{
+  "files": {
+    "covers/camino-frances.webp": {
+      "bytes": 2356599,
+      "sha256": "577b04265cbe2e8600453101f30f319d11ea5adde246b44c913c470a3da38fe9"
+    },
+    "covers/camino-ingles.webp": {
+      "bytes": 2166897,
+      "sha256": "2afb934de7469c635037958fc20473ae2e493bf68aa30ade68548c2938c81327"
+    },
+    "covers/cotswold-way.webp": {
+      "bytes": 2183231,
+      "sha256": "aeb2b9c5415e1e3eb0140ad91b5a0e07f677f5bca1dde7f82a08bb705b64d823"
+    },
+    "empty/no-fellowship.webp": {
+      "bytes": 1082815,
+      "sha256": "5be13125ea070b49809f22e7e14d5cd9ecb08236a50b0bfefd0b179ade9471f5"
+    },
+    "empty/no-stamps.webp": {
+      "bytes": 1370477,
+      "sha256": "95cf8ace7099f61c7e3c0c61f1bf9518ddc20513ac110df3b4e92dde4eba0014"
+    },
+    "empty/no-trail.webp": {
+      "bytes": 2052262,
+      "sha256": "d0274a6576a0c6215ad8375d5226bbbe95ecfc6bf21e4a3fda54fcd2cdce0b4a"
+    },
+    "paper/paper-credencial-dark.webp": {
+      "bytes": 2041128,
+      "sha256": "ee0811c13bb1ed7b384e19c09448dffe7834478a6301e5b496b15aeaf150af9d"
+    },
+    "paper/paper-credencial-light.webp": {
+      "bytes": 2194690,
+      "sha256": "7e2d594002f19ec9c891de1c118e0a527d8566d0d39c933df94d3a82101901e5"
+    },
+    "paper/signpost-scallop.webp": {
+      "bytes": 380635,
+      "sha256": "1adb7810c378351bb70b8b57dc40d77d9cf4c69bb71a7513baaf2ed5df47d66a"
+    },
+    "paper/wax-seal.webp": {
+      "bytes": 1686763,
+      "sha256": "c415f67ef8b1e1b18e862729cff73e4d2782fc15707b5cd06dbac2c4d6671297"
+    },
+    "share/frame.webp": {
+      "bytes": 734036,
+      "sha256": "17123dc6e058c45bf417408f94bee51081811ad189c2f44390902510d8ce6f87"
+    },
+    "stamps/camino-ingles/betanzos.webp": {
+      "bytes": 1244003,
+      "sha256": "028d2e3dd9d1f282e5092c2f3c548f74817852ceaef34da6fa5399e88e2b86bc"
+    },
+    "stamps/camino-ingles/bruma.webp": {
+      "bytes": 1490043,
+      "sha256": "eb95f8fdc7aff9dde28d06d9430461e9c716ace4296eabf99d8f2a67d8cf0a75"
+    },
+    "stamps/camino-ingles/cabanas.webp": {
+      "bytes": 1392014,
+      "sha256": "9723d9b0d54bc26fc069bbee6c72722cc0bb1b21f781a9fb10e129399e7f8786"
+    },
+    "stamps/camino-ingles/ferrol.webp": {
+      "bytes": 1198309,
+      "sha256": "55a6a7c99123644f1815fa78f79b32a51fa5374b0d5e8cf8323bf0cc42574d81"
+    },
+    "stamps/camino-ingles/meson-do-vento.webp": {
+      "bytes": 1129706,
+      "sha256": "6995f722e1c587c9a58cd366af6b84c4cb7c108c48f5879e18bc1e87f702b09e"
+    },
+    "stamps/camino-ingles/mino.webp": {
+      "bytes": 1232386,
+      "sha256": "38c4442e304d21efb0328a5cd1d7d44530e179708e5c0af62b4aff7b509a93f0"
+    },
+    "stamps/camino-ingles/neda.webp": {
+      "bytes": 1384512,
+      "sha256": "1b7c43d0a0254c8eb8fe7bafd9f82f31ed67d36159a5afbf6f20ea9003e93188"
+    },
+    "stamps/camino-ingles/pontedeume.webp": {
+      "bytes": 1611973,
+      "sha256": "3c3563ee10a40e4322e228639df2c9f4c3d02d4b3d6f27c7cd3d813ed5c8ddee"
+    },
+    "stamps/camino-ingles/presedo.webp": {
+      "bytes": 1457795,
+      "sha256": "ab9b45a67ebdb72e5efead3b3cbc66dc4fc262891abe7bb98bf512db9ea43f43"
+    },
+    "stamps/camino-ingles/santiago.webp": {
+      "bytes": 1324141,
+      "sha256": "7323acfce73233c407fe67134c0f76d4cebce0b5b7fcdb5956a1bc2e2daf9edb"
+    },
+    "stamps/camino-ingles/sigueiro.webp": {
+      "bytes": 1122402,
+      "sha256": "8b850455e127f6eb5e2d4a0be207259756cfe94bff347d6163e2c5f6ec86248e"
+    },
+    "stamps/camino-ingles/xubia.webp": {
+      "bytes": 1298155,
+      "sha256": "d39fa5d56b34128bb5d0b7a55bfd54adb2bfb6f1fa051842c478220121178b50"
+    },
+    "stamps/frame-template.webp": {
+      "bytes": 1017287,
+      "sha256": "fe768f479ecb9e8270942f437cffcf40537a370abdf4cf970dc54da851c25841"
+    }
+  },
+  "version": "v1"
+}
