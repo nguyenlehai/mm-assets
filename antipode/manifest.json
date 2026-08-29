@@ -1,0 +1,81 @@
+{
+  "files": {
+    "earth-cross-section/texture-crust.png": {
+      "bytes": 3449447,
+      "sha256": "817b5647718ee2c6b5c892748ca75623e6497647033f233e94751e61611ec539"
+    },
+    "earth-cross-section/texture-innerCore.png": {
+      "bytes": 3792901,
+      "sha256": "90c4c946538d8b3d0c4b6fb799dbc3587286c37a1aeabed5282a3bb3b1c669a5"
+    },
+    "earth-cross-section/texture-lowerMantle.png": {
+      "bytes": 3898415,
+      "sha256": "049d7fc1e1945260001ee9dc6de321e7133f494f265736b36fbe6292848fbb1d"
+    },
+    "earth-cross-section/texture-outerCore.png": {
+      "bytes": 2913962,
+      "sha256": "731ee908c2a17f9110d1bbc5e573a9927083ff7fe4acde9917678b76f6d102f6"
+    },
+    "earth-cross-section/texture-transition.png": {
+      "bytes": 3523769,
+      "sha256": "e31dec983f97cb5d2939a2c14a42455bc1e7f180073f47a2844e928b335e1882"
+    },
+    "earth-cross-section/texture-upperMantle.png": {
+      "bytes": 3507265,
+      "sha256": "0399924d1a11340b2b07ead9d7c9e5210d4a5f064fc1fe2192a5c3032624707d"
+    },
+    "empty-states/empty-friends.png": {
+      "bytes": 916778,
+      "sha256": "e21518e06680dc254a864793db9e8ef6d8910b1ef5d760be22a36782a0295088"
+    },
+    "empty-states/empty-passport.png": {
+      "bytes": 1060571,
+      "sha256": "f1251159b1da276039382af799ae73fa5a53ac0a220e00943cc7fe5dbf1a6606"
+    },
+    "passport-stamps/stamp-crust.png": {
+      "bytes": 2177929,
+      "sha256": "1e4661793daa5da2ce4ce300bf2a922039128e077a82bd3324463954dc97f091"
+    },
+    "passport-stamps/stamp-innerCore.png": {
+      "bytes": 1707206,
+      "sha256": "47c544db59bc85fba171dab5955d0419d9279147a7a746afd3338dfcf903e7d3"
+    },
+    "passport-stamps/stamp-lowerMantle.png": {
+      "bytes": 2655331,
+      "sha256": "9ce1948134cd257c4aa3e06546cbfe2cad7fbd02d0b6aeeb6088a556bfbec327"
+    },
+    "passport-stamps/stamp-outerCore.png": {
+      "bytes": 2336385,
+      "sha256": "ef9b52cab1f42c80ad9bd49de91d8f23585e2945616c4b3a7eab4b538a7b5d9d"
+    },
+    "passport-stamps/stamp-rare-ghostParticle.png": {
+      "bytes": 1168004,
+      "sha256": "28ea12e6bdbb55060408e86fc9cba6486b4b0e3b26ffd2cd26c47b3e02c8fc03"
+    },
+    "passport-stamps/stamp-rare-icbParadox.png": {
+      "bytes": 1767192,
+      "sha256": "6525199e9fcf65a9eae205fc5d94a8b204de70e0f931ebd569224ace91a74383"
+    },
+    "passport-stamps/stamp-rare-mostEfficientRoute.png": {
+      "bytes": 1739600,
+      "sha256": "c10594f777a07ded3b2c8725ef51fb0b902c285d7734a4e7f880b7eea427836a"
+    },
+    "passport-stamps/stamp-rare-perfectAntipode.png": {
+      "bytes": 1992283,
+      "sha256": "91f514fb0fd2c351b021e9a92dea556cdcfc2f45411c5d5d3101a79e72ea13b3"
+    },
+    "passport-stamps/stamp-transition.png": {
+      "bytes": 2074959,
+      "sha256": "279a5cb7cfa6463733776c6c1b7aeab5d18678091b828a810f9d5378fd51934f"
+    },
+    "passport-stamps/stamp-upperMantle.png": {
+      "bytes": 1834559,
+      "sha256": "bf0632f022c2ebb4908a5d812015c1aa74ca312614a93125c6bca923ebec2b6f"
+    },
+    "share-card-frames/frame.png": {
+      "bytes": 650402,
+      "sha256": "2608785046d7fe990e0b85969abb1db37d16f5010c70bf192e508fb8252d5bcb"
+    }
+  },
+  "version": "v1"
+}
