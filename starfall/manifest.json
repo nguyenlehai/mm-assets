@@ -1,0 +1,17 @@
+{
+  "version": "2026-08-13",
+  "files": {
+    "share-cards/frame-night.png": {
+      "sha256": "2de7f92bc273c8dad93aadba7f42c264b8652a180b25426a0d9e28f99a48f9a1",
+      "bytes": 326898
+    },
+    "share-cards/frame-year.png": {
+      "sha256": "2a6aec63f00b4b066413edc5ae40a26fc5770db2bc609eb6a4f9f917e9bc3aff",
+      "bytes": 893837
+    },
+    "share-cards/frame-shower-year.png": {
+      "sha256": "1d5c34ca6fba9d4260bfc1dce8b8facbe90088e8290469c672a27fb83707a65a",
+      "bytes": 622314
+    }
+  }
+}
