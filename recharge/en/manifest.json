@@ -1,0 +1,98 @@
+[
+  {
+    "id": "nsdr_10_reset",
+    "bytes": 4913807,
+    "sha256": "37168f40578f5ae62b3cf76ff9903cc9ff45905a162ff7510706a88794fd5c00",
+    "durationSec": 600.0,
+    "codec": "aac",
+    "profile": "LC",
+    "sampleRate": 48000,
+    "channels": 1,
+    "bitRate": 64001,
+    "lufs": -20.0
+  },
+  {
+    "id": "nsdr_20_bodyscan",
+    "bytes": 9826339,
+    "sha256": "5fe19fbd100966ec2b15592389fa43ed05168975bb05df5da7195f6f4c7a4a3e",
+    "durationSec": 1200.0,
+    "codec": "aac",
+    "profile": "LC",
+    "sampleRate": 48000,
+    "channels": 1,
+    "bitRate": 64000,
+    "lufs": -20.0
+  },
+  {
+    "id": "nsdr_20_breath",
+    "bytes": 9826327,
+    "sha256": "ea198e9a596508451a5972b7131270c9ef44484a846c606ce179ca687d8a14bf",
+    "durationSec": 1200.0,
+    "codec": "aac",
+    "profile": "LC",
+    "sampleRate": 48000,
+    "channels": 1,
+    "bitRate": 64000,
+    "lufs": -20.0
+  },
+  {
+    "id": "nsdr_20_evening",
+    "bytes": 9826339,
+    "sha256": "cc53001c98e89dd0c99e908874a6fe1a512be31fe3f30d29618f94bb1b9d0183",
+    "durationSec": 1200.0,
+    "codec": "aac",
+    "profile": "LC",
+    "sampleRate": 48000,
+    "channels": 1,
+    "bitRate": 64000,
+    "lufs": -20.0
+  },
+  {
+    "id": "nsdr_30_deep",
+    "bytes": 14738843,
+    "sha256": "c77c9ca7ba7f52ac6d075eb154beafbd0c5166fc31f044741bbecfb7ad349264",
+    "durationSec": 1800.0,
+    "codec": "aac",
+    "profile": "LC",
+    "sampleRate": 48000,
+    "channels": 1,
+    "bitRate": 64000,
+    "lufs": -20.0
+  },
+  {
+    "id": "amb_ocean",
+    "bytes": 738472,
+    "sha256": "86da47b2165e65c443e402db3fa5c83c7ba8696c7f85830adf22c82e593ef395",
+    "durationSec": 90.0,
+    "codec": "aac",
+    "profile": "LC",
+    "sampleRate": 48000,
+    "channels": 1,
+    "bitRate": 64034,
+    "lufs": -20.2
+  },
+  {
+    "id": "amb_fan",
+    "bytes": 738411,
+    "sha256": "6d90898bf9f8f964e769e5b6f463cd28907679bf200784d7469e0f49773eacf9",
+    "durationSec": 90.0,
+    "codec": "aac",
+    "profile": "LC",
+    "sampleRate": 48000,
+    "channels": 1,
+    "bitRate": 64028,
+    "lufs": -20.1
+  },
+  {
+    "id": "amb_forest",
+    "bytes": 738494,
+    "sha256": "0335891fb509cd0c1c8ea440796f8f41fb5d4c09bfdfc39ce4ea2d864637b0f6",
+    "durationSec": 90.0,
+    "codec": "aac",
+    "profile": "LC",
+    "sampleRate": 48000,
+    "channels": 1,
+    "bitRate": 64036,
+    "lufs": -20.3
+  }
+]
