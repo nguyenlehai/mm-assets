@@ -1,9 +1,93 @@
 [
   {
-    "key": "illustrations/paywall-bg.png",
-    "url": "illustrations/paywall-bg.png",
-    "sha256": "2bf1180cdaaaa7275aff809e06293369bb2ad394de3cdac4c231df7a2bfed6e3",
-    "bytes": 2384086,
+    "key": "illustrations/paywall-bg.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/paywall-bg.webp",
+    "sha256": "c561bb4d0d46bb39f0f780a69d661c416b69a1ac2bda21c2d71c3b0912becaa3",
+    "bytes": 46296,
+    "critical": false
+  },
+  {
+    "key": "illustrations/premium-banner.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/premium-banner.webp",
+    "sha256": "bd09d9c4d0f89e873e5893f665272f7f7b68e62faf77aafab04f08e508098d25",
+    "bytes": 38670,
+    "critical": false
+  },
+  {
+    "key": "illustrations/empty-journal.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/empty-journal.webp",
+    "sha256": "ac2141994dd479400c92b1c421cf8dafb06e5d2b615ed06d5677ff6794fa5ada",
+    "bytes": 57550,
+    "critical": false
+  },
+  {
+    "key": "illustrations/empty-mystery.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/empty-mystery.webp",
+    "sha256": "78c987b51423cff56eac31ec05e22b04589e861e76f23833401e264ed0520017",
+    "bytes": 93320,
+    "critical": false
+  },
+  {
+    "key": "illustrations/recap-classic.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/recap-classic.webp",
+    "sha256": "6d315d68865b9d41bb1fe1c4b7bf988c9a1c35fd8c778ca4756e59f1efe05be3",
+    "bytes": 144570,
+    "critical": false
+  },
+  {
+    "key": "illustrations/recap-night.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/recap-night.webp",
+    "sha256": "9286feb845927c8edcba7c09fa1894a0b366603f59ec7ac89efc22c80b740a24",
+    "bytes": 146764,
+    "critical": false
+  },
+  {
+    "key": "illustrations/recap-map.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/recap-map.webp",
+    "sha256": "111fdd9f1f5f6b37e15cb013313f9a02f772c13b264ddd83aaa0d8d96e681d75",
+    "bytes": 19950,
+    "critical": false
+  },
+  {
+    "key": "illustrations/category-food.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/category-food.webp",
+    "sha256": "bc3ce6075c4df2d5bc3e3bd502f9b0f700f84e05802d54eaa3bf3a150b218347",
+    "bytes": 115326,
+    "critical": false
+  },
+  {
+    "key": "illustrations/category-outdoors.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/category-outdoors.webp",
+    "sha256": "a5c3c91a2a920daec55586c8a34a025857b5e0f730de3e8659dac797c5c7a39e",
+    "bytes": 99272,
+    "critical": false
+  },
+  {
+    "key": "illustrations/category-culture.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/category-culture.webp",
+    "sha256": "d84841c2546eb1a9b2b661561ab85190727f1bc8f482db4b83b52f104e43ee1d",
+    "bytes": 58368,
+    "critical": false
+  },
+  {
+    "key": "illustrations/category-playful.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/category-playful.webp",
+    "sha256": "3ef793c4498a829cc922d283029bb22f03c32a2b8495c83cabce67792d727968",
+    "bytes": 67786,
+    "critical": false
+  },
+  {
+    "key": "illustrations/category-home.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/category-home.webp",
+    "sha256": "56e55aeea84a2b8a7f82cd5fcf90a005640a3a22551221f557f8367251d501c1",
+    "bytes": 119538,
+    "critical": false
+  },
+  {
+    "key": "illustrations/category-conversation.webp",
+    "url": "https://raw.githubusercontent.com/nguyenlehai/mm-assets/main/tonight/illustrations/category-conversation.webp",
+    "sha256": "280536a8006c513012e43da15d0695f6cc8be9f9b43d4421f5f3c30b7f180bb1",
+    "bytes": 62310,
     "critical": false
   }
 ]
