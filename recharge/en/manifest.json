@@ -1,63 +1,63 @@
 [
   {
     "id": "nsdr_10_reset",
-    "bytes": 4913807,
-    "sha256": "37168f40578f5ae62b3cf76ff9903cc9ff45905a162ff7510706a88794fd5c00",
+    "bytes": 4772539,
+    "sha256": "5323b6913eed2f11036288cc76180182006b231d55274dab092b5a4c72a301db",
     "durationSec": 600.0,
     "codec": "aac",
     "profile": "LC",
     "sampleRate": 48000,
     "channels": 1,
-    "bitRate": 64001,
+    "bitRate": 62120,
     "lufs": -20.0
   },
   {
     "id": "nsdr_20_bodyscan",
-    "bytes": 9826339,
-    "sha256": "5fe19fbd100966ec2b15592389fa43ed05168975bb05df5da7195f6f4c7a4a3e",
+    "bytes": 9959505,
+    "sha256": "94f21e9dcf29c082220876726234dfe76e6c7a580d17db0afe83a4c969ad9c58",
     "durationSec": 1200.0,
     "codec": "aac",
     "profile": "LC",
     "sampleRate": 48000,
     "channels": 1,
-    "bitRate": 64000,
-    "lufs": -20.0
+    "bitRate": 64889,
+    "lufs": -20.2
   },
   {
     "id": "nsdr_20_breath",
-    "bytes": 9826327,
-    "sha256": "ea198e9a596508451a5972b7131270c9ef44484a846c606ce179ca687d8a14bf",
+    "bytes": 9779056,
+    "sha256": "0aca6db39eb0d3990124e4ca730c530f9c29ec4897e63b2b1eb28a1da207e190",
     "durationSec": 1200.0,
     "codec": "aac",
     "profile": "LC",
     "sampleRate": 48000,
     "channels": 1,
-    "bitRate": 64000,
-    "lufs": -20.0
+    "bitRate": 63686,
+    "lufs": -20.3
   },
   {
     "id": "nsdr_20_evening",
-    "bytes": 9826339,
-    "sha256": "cc53001c98e89dd0c99e908874a6fe1a512be31fe3f30d29618f94bb1b9d0183",
+    "bytes": 9674692,
+    "sha256": "8a6588973e172ef1bc78156a121ce5da29209e907799bf454811b2b748229877",
     "durationSec": 1200.0,
     "codec": "aac",
     "profile": "LC",
     "sampleRate": 48000,
     "channels": 1,
-    "bitRate": 64000,
-    "lufs": -20.0
+    "bitRate": 62990,
+    "lufs": -20.2
   },
   {
     "id": "nsdr_30_deep",
-    "bytes": 14738843,
-    "sha256": "c77c9ca7ba7f52ac6d075eb154beafbd0c5166fc31f044741bbecfb7ad349264",
+    "bytes": 14390680,
+    "sha256": "d0053018540f8475d4ac3b1f39c9bd53aee6f0d4e4160c72173e6eb0fef4a641",
     "durationSec": 1800.0,
     "codec": "aac",
     "profile": "LC",
     "sampleRate": 48000,
     "channels": 1,
-    "bitRate": 64000,
-    "lufs": -20.0
+    "bitRate": 62453,
+    "lufs": -20.3
   },
   {
     "id": "amb_ocean",
