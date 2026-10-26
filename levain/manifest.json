@@ -1,5 +1,25 @@
 {
   "files": {
+    "bake/knead.webp": {
+      "bytes": 71344,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEWkl453SyqQa1TOjWWcXjR3ZFju17RrPCLq2MDPtaDCfFSXgnPVtIutelPHmHHnzKeyhFnt1bGKVzOxiWSMaEnIqIriw5e4k3Dbw6ilaTuxmYXJi2V3SCaac1PLo3n3582f33DgAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAAC5SURBVHjaFY9XssQwCARRsPcFgRAoOPv+t1w0f9PVUAASEXdlRGXGMwQQ/IuMStRaGxwI8IxsLVu2X+IAwROltOVc1pK3dpqB+hgppbyFiODcRdNMLu+bG8Hubx6p99Tzz5vpgerQgNXS81qeBvGqqtCM2N6SCC5X7YzjSautzVsCqRXZ65hOT+mAeldT7klmBRC/mGNh1eNYDIhzyyVSb9RqAlxR5BJfb7vS/c+Rj9t3HIPtRf745QuHtg/FMh72pgAAAABJRU5ErkJggg==",
+      "sha256": "cee34c64535720d9471385e1cec84bf07f9dd6f3e074fefcc1785384a2714681"
+    },
+    "bake/oven.webp": {
+      "bytes": 77158,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEXeomSgViNXLxhuXlGZdVvFZyLvzKFxRiSbkIzhu5PWhTXDe0dhbog4LCqGPg1+gIU8UHP3w3izlXuseVBtRy2viGqQaUmvZzLMeDKTWC7Rh0qrWidxNxK1glRWRDXJrJNyqSdsAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAAC6SURBVHjaFY9XgsUwCAOFW5y2Ddwd5/63fOzvoAEEED3cGHh35D3sKE0B55yYH5GU/gdMm2Ruk9kYIMQ/mg7q0CR+Aq7vtJUzD4Tf05Q34A2NdI+HhsuWItLbPDMdOBRNtrhiqQpQx9n7dAk/kSqX2j2Nio13SBQapVYi6kncBWvzrMehgbPPrEpaVr589aNw0/eA5KwVQ+TLENeVqCf3MsbIsp3to8A4u637NkavLEbMsrRqFtPwZJEPiZcOgg7JDd8AAAAASUVORK5CYII=",
+      "sha256": "dd83f4893156ebcedf4c1d111e0c577a242fd332903b093a26da4471f46907a4"
+    },
+    "bake/proof.webp": {
+      "bytes": 64278,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEVgTSrjw5mimXbbvJjz4cWHfWKJZD1SNxfCnHBlXUM2MBJ/gF61l3LPxKnRtpNwZkiOeFWNhmTIqoaxpYR6dFXq1risjGashVvkzKy5tJlYVjdKNheLbUjLp31vWDWCgV57Kha7AAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAAC7SURBVHjaFY/bsoQwCAQn8bp7SIDc1Ojq///lwXmja7oABItTFvH+6U8IeIGX6wbzoepfcPzaDCzLt5AWwOYkbQhRF2iXP3h1RGGvteZTci/g37ClGAyN7dT8gN265RSHUMd6n0+GuK0ZiNEqdKKD960RGbFKxMy4B9qIvIF9TBBFpziv7a3sVeaLwbdrsr5SoItOReHLkZhlSfe3GPjYKelnTrpgp0+TmGeLKGct/EAnmcqn83TYm0fO/x+ID28yLB86AAAAAElFTkSuQmCC",
+      "sha256": "b4b5ca7e6242b149b0bbcc19e8897e4db0bbd601cf80016eddc79b7a1fd84903"
+    },
+    "benefit/history-notebook.webp": {
+      "bytes": 4566,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEVTOxm3e0KOVybzwX3zvIOUg1R5gFh7cDndoF4wKyJNXFlja0NcZ0JbZD1QKAdvdk9UWjWVZS4wRkp5RRnGiE2wdDqRWipwZjjUnGPYpWj3xInquHfNllnkqmm5g05ORCGfKDQKAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAACiSURBVHjaNc5ZEsQgCARQzDKbEjVx15j733IgzvDHq24KmLx3vTvnztaz6wlC8FFKqbWWn7W3BYQHo8bsOtUCImxGIWcI5iWDPRgUidofcztvQMQbdE5lAB2IK8NCMHFCGvskqOUPxkaFBHO6KxGtRb5RX/dRxEg7QzsLBAJz4YBcR8UYlKNyCgiw8RP0qaSE81wBnuu63rF5RwDbbw7nRfoClowP8ikhG74AAAAASUVORK5CYII=",
+      "sha256": "7418bc7ea1148d546246fa35073c7839191b609044e039b021ce48c77d02606d"
+    },
     "bread/balanced.png": {
       "bytes": 118648,
       "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEXPk1ugbkWpXSquaTOzjGB6KBj/AAAuBQVxcRVmJg3EdjjfbxyyOxWyZzT//wCpcFGUWDXguYl/f3++ooO5ekmKVUrRezsAAADQtZTIqoe5l3HIo3qHWDQMAADaxKerd06RnXabAAAAIHRSTlP08qfm+wQBIgNjxBgEZQFPK/oC+60YawD7+/v9+yb7+94bvwsAAACiSURBVHjaTY+JDsMgDEPN0dJz3Q2Grvz/Xy4pmjRLCMd5iRRE0bAsQ7x0aiPk9bGp71vQxdHaCdMoqAZLHB2IAmdf0sQcV9xSYjIZZot3XGYUJhG517rJiNX6SDnREC5grto+sieZvFvxxlEEUEioYmGzWp1ilsDBMbGeO8n8oMHE3Hgva0sGVqgRrAhV/BOdNdXsp+RzV7klhPD5qV37r/4Lw+4TgvcyUzoAAAAASUVORK5CYII=",
@@ -19,6 +39,11 @@
       "bytes": 114774,
       "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEWiXS3NlFmpcUa2iljWtISiXFakVCf/f39mXmZ+cw+ba1b/AADIZiTJekTsYh+pWzDeiC/YnHjHs6XFez3Hc0x0PSh/Pz97NBWqVQD/36/G//+uclAAAADNpnPFm2i8k2RpL6sOAAAAIHRSTlPl/vP8+hKcAgkMTgFe7RZR/6Ul/0lwBOoDIAmrAfv7+ztpcIEAAACVSURBVHjaVY8JDsMgDATXnCFn79PG//9lTaJW6UggPLArAW50j9m29QhbJa6SedhEZj4tI+5X5lsTkcvR4UCEd8eFkfnp4MipVKDnjBKns1ZR9aKEaJEEm4KTICJwL8wQqdJQS7keIwWpm7EbSkhV/DZ5da34lxD4qt4EfRMarBe4TCLUXlGT1sELdiTGwP+0v+zI/AFv6xO+RoUKwgAAAABJRU5ErkJggg==",
       "sha256": "f23ab625c085544d2e05332b9b62b4b3734d8e60f5d2de04dd5d8eabbe078bc9"
+    },
+    "celebrate/feed-done.webp": {
+      "bytes": 26138,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEVbLQ+eaTmbc1TToHB5WEL05c48IhJbRyrit5Dbwaa8oYfz16/YtY62h1bsxZeqeUvSpXTJmW3OqIVsRy13VjO8k2zmuY3qzKy4jGPFilj747iSZ0aMWTRwORPIlFzkqHdv1q+UAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAADASURBVHjaFY5XbgUxDAPl9b6SqFhyt7fd/5ZxBvwiCGIgZ9bevelj7oTzho8LrJHMb5fbLrjArUmNJVJIvYQEsHUmCyEitsLRHLTYqDAXFQmBLQL9NDIlG8rrjRtsLySZU2+vgwPHVbxwNjUVrDeHCDtO0R7u6hG1BIL8q1bMbi+Cwh0BUiSqIitI5dsA3jninPiPUq1wpHfelihRLL0Kwp4W53Esq/HIY/DJ55FgVcGNx1uFPad8pAvgOsf4ivwBOtEP+TXO/04AAAAASUVORK5CYII=",
+      "sha256": "124f85a9521e69811e7866a3531bd33a799214c876993fe6ba74b5c621852826"
     },
     "empty/lineage-tree.png": {
       "bytes": 344938,
@@ -145,15 +170,40 @@
       "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEWdVizQi1elbEZxNxvcmGJeMRn/f3+dURG0alzHfE9/dCrRi1uuoV13EQl/f3/NeDt6RyefWTLTi18TEwB0QyZ7TTD/fwC1cECEOhy+hFBxPSDfv5+VXj7/AAAAAACQVTTOW9rHAAAAIHRSTlP69Pj3Hl4CDxXmBFIEEwL8+ZWbDYVfAmv8+44IQQEA+7i1oOkAAACgSURBVHjaLZCHDsQgDENNGJ3X9vZ2/v8vz9ALEsHWswiAe/Wp7jOJJr+FTJO8cTcWEScz2MRSjZ7jafCIALtXYmYKFrfnCjPvwCIdoocAl/HBwjQE4esKwEWUflAgDFVqzeCkgIl38+hX4q3wtueBFxckA6p2RFx0A3rA8FA6bpm3OvpRAKIqs9OUOIzHpjObbm855JzPavwbpR26/z/8AFw4D5dpvy1ZAAAAAElFTkSuQmCC",
       "sha256": "e4c724464d77cf53f7129ad7245374c9c5de108b1b204e5655af8d14f20b0b89"
     },
+    "revive/wheat-sunrise.webp": {
+      "bytes": 23732,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAYFBMVEVZLxNyVy+ykW6UWyvLklehdlp4W0o1IQ/v0qT/zX2LNAu7moHIo5GrgTjy2sH0xZCWdVGthVb31K6od0qLZjbJmmzMlFGtiGtrSCrRp3eOakfQqIbkuo7as46NWjP91Jo2DavlAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAAC5SURBVHjaLYwJDsMwCATxlaNpC8TGd5z//7KO1EEI7QiAMELVgt/zD2QVapF+nhviPQGYQgreONn3fXsEtX6JvNvxbhZhVYYKHj7qRC45CzkEf8Vio7ZMpAiYp3hyjERVKSAO3NDEGHm+pwwpHancc4HZVxU+kOTkcoq1z+3HEGTqWhcDL9dKkZSA2pZcn8L4icmgl9SuPuDl/RjDAKxLZdELONwusQkA8tO+I17YuT55nTXnkObqkn/c3w/8PhTUfQAAAABJRU5ErkJggg==",
+      "sha256": "1bdc25bd2e1b7999297697fed24dcdc70226bb57264855835cfd527b0fcbc864"
+    },
+    "scenes/fridge-shelf-clean.png": {
+      "bytes": 916474,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAYFBMVEXs3sh0ZFPUsZVsUCeTjo771qSeclhUOxjgq1+aZzq4hl/IuLC5tbPJqZO4p5itm4quiGvSxLesra6KaU7nyayTdVTYs5mlfmLPxcDLm3WahXbt07eukXlURyuwdErFpX1xhJicAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAACVSURBVHjaJYzZDoQgFEMLgjpz2UE2Rf//L4eJTfpwktOiNaO5lICUXGu9ImuinNN5ppxbuSPcNQ1600qMOJZD/8HPppMs2GIsV6+RvO343NoYolorqZSMQHHOWjMVFcKz7wS2Tg7kvVfKzT+w47KGPHB68k+3CEHNVKCqORICY4m9u4vrS7g4xgBjnyOWr3NljfeybT9Qngr/4sEXcwAAAABJRU5ErkJggg==",
+      "sha256": "b8a7658ee4b482bcbfa173a73122afdb7b78ded2cf9432e6e10a8c9371a1ff6c"
+    },
     "scenes/fridge-shelf.png": {
       "bytes": 969687,
       "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAYFBMVEXLzM7EuaxuamCMYUbCn3W8sJ64oWt4e4CGh4dsameVlZR2dXOPhXRtZVlWVk6mm4o6NS5QRTpkV0mzppEkJRpLSEPj3NDMwbNDPTS6uLGLfGusqqYZGRCkknl+gISFcUynAjdmAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAACSSURBVHjaHY1FEsMwEMA21C6aHYb//7JOr9KMBAcw+25h3i9PZgREX0RkRhSingScyP0HYjGmSlCcoL6A3BrTSnAWIm2eXDVSZ1CEBRtoBe2mZDDsyn7bTKflyku7DGMyP8/q85LVux229snz3Gv21/jZFZSq6XY4Z/boYwo34/1W+ThaWRBCWGuK6xmFQgjl/AHqmAqdnlPR+gAAAABJRU5ErkJggg==",
       "sha256": "50766e735e95e8ff149e5e8e7d968bc6fa2ed2ac02d72e1f10af71788972f7ba"
     },
+    "scenes/kitchen-counter-clean.png": {
+      "bytes": 1094613,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAYFBMVEXPs36tnYrsy5yagmd+SyKCSRl0WkDRp3iVc1XFmWfYxrLQq4HYtYvkzLKJWC9bJwCoelGxhFdyQha6lnGSbEqriWVnNw1hLQPKuaSXZTfv1LF4WDhMGwCUfWK+p46+kF8ec+a+AAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAAB8SURBVHjaTctZEgIxCARQXIEJg9nN7Pe/pYlRy1fFB00DBzvHzNgYlBGC8w4/u5F5BpvzhJ2InAHU51p53+uHICS9qsVvBxkK+V/AKQikYG+Rm4N1mjZQxRRME9Li7QloH+exG4QWgstehj8FdKMYiahNZWG9x/XRPav8AqyWCdQ9vKX6AAAAAElFTkSuQmCC",
+      "sha256": "4e814035c945e3c5945ff410e2c5c762e4669a22d4797b4a2373b72c6b0a0780"
+    },
     "scenes/kitchen-counter.png": {
       "bytes": 1031911,
       "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAYFBMVEXn4+AsGg5cOBnNn3WQdFqXYjWxgldmWE7IqIycj4Lw07KHak+3ppWchm+tmompim7UxbRROSJbRTDPvKnW1dSRdll2VzlOKgxvWUaylHNlSjK9sqZ6ZVHYtZKKWCyrek7GelEYAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAACVSURBVHjaHcpHEsMwDARBkFSyF2AUk+L/f2nJt6muIWa2RQSAJZzrSpYZNbsHmIYXhv2jN42MzHSfK9G2RZSq8cL03R3VMHjUWuAS3QaaQjz2sUCSMW4ygj9c8J6n+3bJd1LxsO4pe43j1XsmHeZtQOmiqr6QhXDEWAK6f74WmyWlVGgQT2vyPM/tgSZWbFrMspws4Qd2Swsz43ps7gAAAABJRU5ErkJggg==",
       "sha256": "512d7d26f225b9b35dc44ba1c8af0e43c90ab10b9f890918e79e1d3dc383dc19"
+    },
+    "scenes/paywall-pantry.webp": {
+      "bytes": 55220,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAYFBMVEVnTCOYZTbvtnbSlVjnq2zbomjUnGTKiUv2x4iCSRivai15RBX71pVsPBC0dDnGfThHNhehWx5uXDewhljhmlNuYj1zakSNdUmPakzDrp+lXSCqYR2rf1fKgjPnoVhXSSbCyq1MAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAACDSURBVHjaRY4JDsMwCAQpYONgO05z98z/f1loKnUlhGY5tHDpRYRMMYSAmKCO9OdSEgyj0zk2NmOZ4skJU0GCYf0azG5ge8GxbjEyohtI+oBls7GzFZOqPWUH32B57hNksHtm2yLt6n4D9WCWZH7PZB1Br6a7at9ak14Faq055+6nnD9OLgZ033n9mwAAAABJRU5ErkJggg==",
+      "sha256": "f38050b31cdc857a107b2cfeb235696b13ea2014d682ad0662d1bb4563ae3c90"
+    },
+    "scenes/trial-bake-board.webp": {
+      "bytes": 95594,
+      "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAYFBMVEV1UChGNxv51aPVo28wLRemazRzblCdiWWobEnNmWvVo3TSlFjGilO3hFOLWC3jqW3RqYiKd1SweEbmuIpvZUaSZDbuxZhZJgZTSzG2jWYwKhOBTSWRZkZuOArpxqazlG6yTQqPAAAAIHRSTlP//////////////////////////////////////////3Fe9GAAAACYSURBVHjaFY5ZEoQgEEODok5DN8gq7ve/5WD+kqq8BCEUFGHbNY6DBcy7KzdFEfaDt9OG8JIrzpVpYuZIK1QIuIQMGcNjdD+0eRZaqfv0JNl6BQuNbL8g1YEutBBpF+6B93WoEUd+DTETWZ+ep+5QKnfGB0k1eU+Ym85wYsna2FdXHDovTW33feOU1RC0PnJxJ0539f/e/AHxzgpiFBamIQAAAABJRU5ErkJggg==",
+      "sha256": "199db2cdfe48c65993dea11a6de061fdae6bfe735c77f536e3d0f042e40f9917"
     },
     "share/bake-frame.png": {
       "bytes": 1610962,

@@ -1,0 +1,2865 @@
+{
+  "schema_version": 1,
+  "batch": "redesign-missing129-2026-10-26",
+  "created_at": "2026-10-26T02:20:00.746330+00:00",
+  "owner_accepted": true,
+  "files_count": 143,
+  "counts": {
+    "requested129": 129,
+    "meterparcel_correction": 1,
+    "previously_approved": 3,
+    "levain_pack": 10
+  },
+  "files": [
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-junk",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-junk.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-junk.png",
+      "sha256": "b72c32e3a5f99b8a90693499af9fa756708c3d0fd1c9f759430ac6069e0e6b49",
+      "bytes": 263962,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-gondola",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-gondola.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-gondola.png",
+      "sha256": "74b26fc98ee22282ecba8a6153c4068319a735fccbfded9afd3c8e48703cf490",
+      "bytes": 139356,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-lugger",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-lugger.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-lugger.png",
+      "sha256": "349ebad69e95f4e2c6bbe52ab6ff57ed0b67cfd7d8f3b86650c0939569679e07",
+      "bytes": 285687,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-felucca",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-felucca.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-felucca.png",
+      "sha256": "2ffba3be3b9177db6462cbea45e51d7a6ce3057955755c18827a37e32b1bb559",
+      "bytes": 182772,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-washi-wave",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-washi-wave.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-washi-wave.png",
+      "sha256": "ef0def7be66a153bdbdecb39bc870018dee41a0755b1148ba68849f90a27606e",
+      "bytes": 372419,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-marbled-ink",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-marbled-ink.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-marbled-ink.png",
+      "sha256": "2c69645f3db75d22d1ffc22fafde06a94d5adc1e428db0aef0946bdddcdc8650",
+      "bytes": 590917,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-linen-cream",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-linen-cream.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-linen-cream.png",
+      "sha256": "33749f3ef0514deaf45b9dbdff103accdc21903fecf64dce623eff6615d849ad",
+      "bytes": 292951,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-star-chart",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-star-chart.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-star-chart.png",
+      "sha256": "ccf8605617b605081b01d338620ec920fbcb7ed72405ea416ed6c6096d35bf19",
+      "bytes": 323569,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-pressed-leaf",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-pressed-leaf.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-pressed-leaf.png",
+      "sha256": "98ba2ea51e82bb1745378464ada7240cf8254f65d5a818be10064ae7e3c090a2",
+      "bytes": 518431,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-red-triangle",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-red-triangle.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-red-triangle.png",
+      "sha256": "e308511a521877fe55c376fe553dab9c63675f34ebdaa2378230da0fbc424d04",
+      "bytes": 114800,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-teal-swallow",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-teal-swallow.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-teal-swallow.png",
+      "sha256": "6fd03db1a1ed4ca9fc043bb68525097bdd8cfe6638374133bdf7866c0a916b1e",
+      "bytes": 178186,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-gold-thread",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-gold-thread.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-gold-thread.png",
+      "sha256": "598860effc3b0c36ac3bf3e0fecd4b85276435e23263f9da4afd562c7b9294b9",
+      "bytes": 128654,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-shop-star-flag",
+      "family": "B",
+      "asset_dest": "out/iap/iap-shop-star-flag.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-shop-star-flag.png",
+      "sha256": "3ff3a14d0ab8fe838ab5401162f4c0e14f7da0d27e9351955c14ca451f2f9802",
+      "bytes": 144365,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed) + Pillow composition (approved reuse in B notes)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "play-feature",
+      "family": "B",
+      "asset_dest": "out/play-feature/feature-graphic.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/play-feature/feature-graphic.png",
+      "sha256": "7312d70d5097ebe8b390eb11118aaa47634ed07ff7ada3e3bb6eab1d0debba86",
+      "bytes": 665301,
+      "size": [
+        1024,
+        500
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-weekly",
+      "family": "B",
+      "asset_dest": "out/iap/iap-weekly.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-weekly.png",
+      "sha256": "d3e911f30ded2198f38401012a5deab3bbee2c687f459d3253dd415e18509594",
+      "bytes": 1513368,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-yearly",
+      "family": "B",
+      "asset_dest": "out/iap/iap-yearly.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-yearly.png",
+      "sha256": "4daaf4e3e14a3438fca773fd1b9a1dcca0106acb0f285fa2f41814127670121a",
+      "bytes": 1731588,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "iap-lifetime",
+      "family": "B",
+      "asset_dest": "out/iap/iap-lifetime.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/out/iap/iap-lifetime.png",
+      "sha256": "0479efe5c0cfa2af6791f611b376be8b34a8da4441756c22a6977c66199d2ffa",
+      "bytes": 1589566,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "endcard-iphone",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/endcard-iphone.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/endcard-iphone.png",
+      "sha256": "0d10d00ff933ce4619f2d2fa06ec8fa8ad446c364900a967170dcc512041bfcd",
+      "bytes": 1973562,
+      "size": [
+        886,
+        1920
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "endcard-ipad",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/endcard-ipad.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/endcard-ipad.png",
+      "sha256": "2848e445c51f91f35bcdaf8f659769d98485d8d89f991faaccb39c5eedfc9331",
+      "bytes": 2305896,
+      "size": [
+        1200,
+        1600
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-shop-dinghy-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/shop/dinghy.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/shop/dinghy.webp",
+      "sha256": "5ad5643d272a714bbd12a85e153277e134a860d6c899e94b041d722895696614",
+      "bytes": 20062,
+      "size": [
+        420,
+        420
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-shop-sampan-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/shop/sampan.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/shop/sampan.webp",
+      "sha256": "26a4d227b6eadad18775c26799f24aa39425375ae27ef1c917583bc410c08754",
+      "bytes": 20540,
+      "size": [
+        420,
+        420
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-shop-kraft-plain-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/shop/kraft-plain.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/shop/kraft-plain.webp",
+      "sha256": "bca75d359d0747ffbf3252db6fa446ca1521271580d44f1d7594a0cc91ce1ba2",
+      "bytes": 30926,
+      "size": [
+        420,
+        420
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-shop-rice-cream-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/shop/rice-cream.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/shop/rice-cream.webp",
+      "sha256": "58f3bfda1a4b876234205803f1f998deca3eefdff91b72dfa3ab2a88eca0658e",
+      "bytes": 44310,
+      "size": [
+        420,
+        420
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-shop-newsprint-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/shop/newsprint.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/shop/newsprint.webp",
+      "sha256": "743b42d0a8ec272e4ffb85d010b26ead361ba63bb1823d1a354d4cc1dbfc6f64",
+      "bytes": 34912,
+      "size": [
+        420,
+        420
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-shop-plain-white-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/shop/plain-white.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/shop/plain-white.webp",
+      "sha256": "bf66111703927767ec803ded37241be9f8e151bf20a6f143906aed0c255bfdb4",
+      "bytes": 20106,
+      "size": [
+        420,
+        420
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-shop-kraft-brown-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/shop/kraft-brown.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/shop/kraft-brown.webp",
+      "sha256": "6298c6d02489a5117e6da51effb02b2a9144cc51068d6b52d0d63658c07452bc",
+      "bytes": 21010,
+      "size": [
+        420,
+        420
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-share-frame-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/share-frame.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/share-frame.webp",
+      "sha256": "cbd443dee4d2a7570e5ff5a3b30737acd392287d35125dd367ded8259b5956e2",
+      "bytes": 83582,
+      "size": [
+        1080,
+        1350
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-iphone-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-03.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-iphone-03.png",
+      "sha256": "c23a2347f552eddc0bc96dcbcb07eb99d6d3f2389ab7ec35652396e541ef7566",
+      "bytes": 3537989,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-iphone-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-04.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-iphone-04.png",
+      "sha256": "c59089c25d214505e6319566f9323f760910ad38f98c0083b81ba16e5f8ba70d",
+      "bytes": 4068665,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-iphone-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-05.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-iphone-05.png",
+      "sha256": "23766b58dcfcfbadaa731fb2637915655cd784994bd780cc573104f3056530bc",
+      "bytes": 3527916,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-iphone-06",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-06.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-iphone-06.png",
+      "sha256": "f90cb3adb958056731cf75c33c87e418312128fb85f9c7c9692c3c80ab6d6f68",
+      "bytes": 3957696,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-ipad-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-01.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-ipad-01.png",
+      "sha256": "bb748baf4c5b6b6d894db67b26684fc3f5fd17046ce71b2eb61dcfbf7d28bf5f",
+      "bytes": 5498412,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-ipad-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-02.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-ipad-02.png",
+      "sha256": "9784d6a4da38349d10c789e0c05ed1e83136236125ba8ffddeb5df74d293fba7",
+      "bytes": 6040569,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-ipad-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-03.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-ipad-03.png",
+      "sha256": "5cc5ec844cf3d815caae07ba19df7e7b9e6922460bbe8c684c19ed1813841748",
+      "bytes": 4883707,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-ipad-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-04.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-ipad-04.png",
+      "sha256": "eea2293c47fa695683f1e4b9e2bc1336b00cf5f2233ad1bf66654f04fbd7e3ff",
+      "bytes": 5704721,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-ipad-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-05.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-ipad-05.png",
+      "sha256": "f60d8909dbd0fca3bd35ab28c064bec678362481a13855c816e1303bc2869fe3",
+      "bytes": 4625202,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-play-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-01.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-play-01.png",
+      "sha256": "87655f1225f79345b93bbf50ccef9b6b6486c932381dedda2c1abe873c3c62de",
+      "bytes": 2427258,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-play-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-02.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-play-02.png",
+      "sha256": "93feac3100e932df5de290fd9a7386a33b599a2ac672d44b90bf9648ec1475b6",
+      "bytes": 3100609,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-play-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-03.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-play-03.png",
+      "sha256": "7e95d433fc3d65fca2e106e08c4dfc47883c74bc2fca827f06bd1a46bee42208",
+      "bytes": 2566876,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-play-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-04.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-play-04.png",
+      "sha256": "54d0a14f8288c20d18d9020265ec72ff08749f70cc2382ab15feb2ee4755816c",
+      "bytes": 3178012,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-play-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-05.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-play-05.png",
+      "sha256": "844111973ffa69d783cbdb8cc8de83145dd29b67c25d44e2ed467aadcd4dad1c",
+      "bytes": 2140962,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-play-06",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-06.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-play-06.png",
+      "sha256": "785c118fe3b5f3a0306cf3c3d2898542d126d7e4f0cf389c86afa6c71c7a8bc3",
+      "bytes": 3086502,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "scene",
+      "family": "B",
+      "asset_dest": "scene/scene-16x9.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/scene/scene-16x9.png",
+      "sha256": "d1591b2a5249203cfa91240ee24b720eef6ef171fc8df762b612c0d693757bde",
+      "bytes": 7583732,
+      "size": [
+        5244,
+        2950
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-dinghy-step1-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/dinghy/step-1.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/dinghy/step-1.webp",
+      "sha256": "50d3a9bed3e0a776709c059920a25c509f27066ed52e364f5a8cac05d342f849",
+      "bytes": 30876,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-dinghy-step2-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/dinghy/step-2.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/dinghy/step-2.webp",
+      "sha256": "05a48b74d1be84337b56f76d3cd86a354117aae41765cc72095864b170970274",
+      "bytes": 25512,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-dinghy-step3-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/dinghy/step-3.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/dinghy/step-3.webp",
+      "sha256": "a3d9038de1f68fef134d043ea21b2b2c6688d693ed7a040c87d68b97a15ccec2",
+      "bytes": 28306,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-dinghy-step4-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/dinghy/step-4.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/dinghy/step-4.webp",
+      "sha256": "b70c69948aac78c49d523c354aa74d90d7ed0bd1d8362ab05fa2f84d3756e83d",
+      "bytes": 32838,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-dinghy-step5-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/dinghy/step-5.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/dinghy/step-5.webp",
+      "sha256": "09a924b012d08f46df689b6d9af34415fe3ae1ad4cb5c68062110291642f7e63",
+      "bytes": 26786,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-sampan-step1-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/sampan/step-1.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/sampan/step-1.webp",
+      "sha256": "9bde6628b59350be18d1f439be024654f38607946882df703c5c882776ca3aa4",
+      "bytes": 22282,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-sampan-step2-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/sampan/step-2.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/sampan/step-2.webp",
+      "sha256": "34b4a97ec17adad57eb507435000f0480d996854872f26cf4b8368532a394cf7",
+      "bytes": 25648,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-sampan-step3-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/sampan/step-3.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/sampan/step-3.webp",
+      "sha256": "d80c62a25af0be40c5180cf93646d168dd3a44cbb06e2d621fa08f78aad8b67c",
+      "bytes": 28828,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-sampan-step4-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/sampan/step-4.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/sampan/step-4.webp",
+      "sha256": "38ef15142d532984d3b0f38785b2af94eb2ab2bf0b57b60f8407f64c04899b19",
+      "bytes": 31026,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-sampan-step5-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/sampan/step-5.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/sampan/step-5.webp",
+      "sha256": "61376391409ea028118cec4c09e6491b9b090f955548ad672d985aada3eedd44",
+      "bytes": 21842,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-junk-step1-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/junk/step-1.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/junk/step-1.webp",
+      "sha256": "c69fc08a783303db7621c9996948ab96e50d5bae0d9e2e87ad42cb1266b0ea29",
+      "bytes": 32984,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-junk-step2-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/junk/step-2.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/junk/step-2.webp",
+      "sha256": "a62caf5c334a1d5e99e7c213da1ee1c82f016a6f8a7931e5fe240d7e010c490a",
+      "bytes": 32396,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-junk-step3-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/junk/step-3.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/junk/step-3.webp",
+      "sha256": "76fe1134caa21baa1d2232f8c4267861b670e5535f9646a757584a374e769458",
+      "bytes": 32246,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-junk-step4-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/junk/step-4.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/junk/step-4.webp",
+      "sha256": "a3c009f4fdd48db3b03ee5bb6588535e7a67248b6688dbdac1ffafc8130bb58f",
+      "bytes": 32620,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-junk-step5-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/junk/step-5.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/junk/step-5.webp",
+      "sha256": "d823acabc8a08e0b48eba1286cd55be8eb74e3975bd0e313afcb46eb4fd86cd6",
+      "bytes": 32850,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-gondola-step1-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/gondola/step-1.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/gondola/step-1.webp",
+      "sha256": "a4d9a28d9e906d216394a0f8ed5af4e3f183c106507a85efd4cce0fb1238b3f0",
+      "bytes": 25548,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-gondola-step2-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/gondola/step-2.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/gondola/step-2.webp",
+      "sha256": "fc77a5e9ebd46cc698aea15164ea93a4e8973c3dbd41e4c32f1b289d7c7ad555",
+      "bytes": 23552,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-gondola-step3-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/gondola/step-3.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/gondola/step-3.webp",
+      "sha256": "a906cbe3691526785e6f7e7a3cc8a2b5fbb51b4dffe2bc3325e40db5ed1b6768",
+      "bytes": 21446,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-gondola-step4-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/gondola/step-4.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/gondola/step-4.webp",
+      "sha256": "fcd497c8f839d6cdd8a9725da98db9cc4a5f0b396acc152949e1ad24ce3e8885",
+      "bytes": 26564,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-gondola-step5-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/gondola/step-5.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/gondola/step-5.webp",
+      "sha256": "95de855e23660883d4dd5abd4f9ee5e184b360cb492128516d5d13305d56f271",
+      "bytes": 36866,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-lugger-step1-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/lugger/step-1.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/lugger/step-1.webp",
+      "sha256": "c724789bea764275fa5b6eee8c272a658c3ad564ce0c13934f082f6710a1d1ce",
+      "bytes": 32730,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-lugger-step2-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/lugger/step-2.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/lugger/step-2.webp",
+      "sha256": "80cd1bc523c77c22a59963f3327bbdecfa20f7e4b90da83b8b1c01a6265b05bf",
+      "bytes": 22550,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-lugger-step3-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/lugger/step-3.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/lugger/step-3.webp",
+      "sha256": "c4427cbad5d21fb8589f71462aac2a3f54b993c85fc4a477be7ffe24e94c0ee7",
+      "bytes": 25818,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-lugger-step4-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/lugger/step-4.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/lugger/step-4.webp",
+      "sha256": "94e065f4ac645eebf7a11f8978e7aa84902ef9b1c47fb343a8cff7e7bce99bc8",
+      "bytes": 27156,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-lugger-step5-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/lugger/step-5.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/lugger/step-5.webp",
+      "sha256": "bae01743fef1446cc3a71f5493c9f00304b4f83130e77798a2d61e0b9f72a027",
+      "bytes": 27604,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-felucca-step1-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/felucca/step-1.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/felucca/step-1.webp",
+      "sha256": "056c22e6938e54174f7fc167f4d1555c1d471bd1d3d491ee18132b6b4676bcb1",
+      "bytes": 21616,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-felucca-step2-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/felucca/step-2.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/felucca/step-2.webp",
+      "sha256": "f972e26605cea6082b06362e9571c6a4eeedfeb536c8e41ebb703bf041b818d3",
+      "bytes": 22340,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-felucca-step3-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/felucca/step-3.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/felucca/step-3.webp",
+      "sha256": "d0e684ba5a46eee9c8f0ceb4470e723dae789ce2b73a0a3b5e44428793b0547a",
+      "bytes": 25850,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-felucca-step4-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/felucca/step-4.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/felucca/step-4.webp",
+      "sha256": "451ae2fda8e056a1936cf296cc277f0ac212cea5bcc34c46508c470b6945c3e3",
+      "bytes": 27778,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "paperboat-fold-felucca-step5-01",
+      "family": "A",
+      "asset_dest": "src/assets/redesign/folds/felucca/step-5.webp",
+      "repository_path": "redesign/2026-10-26/Paperboat/A/src/assets/redesign/folds/felucca/step-5.webp",
+      "sha256": "7b67a2d516baac3d874e073acfb4a41eca82ce0fbc4dc4856e5008d082335330",
+      "bytes": 28574,
+      "size": [
+        612,
+        612
+      ],
+      "mode": "RGBA",
+      "format": "WEBP",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-iphone-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-01.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-iphone-01.png",
+      "sha256": "bbdfd4e6af8df6eae0f3b6ce71c6cff8db9e998cf89698710e45a9b9265e5303",
+      "bytes": 3379413,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Paperboat",
+      "id": "bg-iphone-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-02.png",
+      "repository_path": "redesign/2026-10-26/Paperboat/B/layers/redesign-2026-10-26/bg-iphone-02.png",
+      "sha256": "07606b04f250e117dd8473ba464f26f5356e89cbc97890831c1b6392191e70fc",
+      "bytes": 4404903,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "image_gen (built-in; model version not exposed)",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-iphone-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-01.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-iphone-01.png",
+      "sha256": "22c5ac7d4101ea4addc453c863edcc871b1279b86dc4189811e1b95737ccecd6",
+      "bytes": 3870130,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-iphone-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-02.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-iphone-02.png",
+      "sha256": "3e511e37b7ab237e7c1055cf95f7edaa6ba66d2031c46a7986927afdc4acd586",
+      "bytes": 3888112,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-iphone-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-03.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-iphone-03.png",
+      "sha256": "853a32fa63ff9a4636036e96c1fbbd9e5e8b1c9a0a27b1632b391dd327f5b62c",
+      "bytes": 3454452,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-iphone-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-04.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-iphone-04.png",
+      "sha256": "c16d2f49440f8b2136321b28fa0c3ada0ff669b942514ca5056c2798d7191d57",
+      "bytes": 3458633,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-iphone-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-05.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-iphone-05.png",
+      "sha256": "ce0a1bf5ecfb1de75dc5361b54a6e094e8f9c3ab16c6974c2232e29b66314258",
+      "bytes": 4137050,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-iphone-06",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-06.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-iphone-06.png",
+      "sha256": "c74e857c69f3edb2526b7a96c04196712e2570f71bee4f4d3d12395918668776",
+      "bytes": 3601911,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-ipad-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-02.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-ipad-02.png",
+      "sha256": "ad6fd89def0cef806522236f88ebbd24f5b05a3ce525199fb365ebba8a008109",
+      "bytes": 4575055,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-ipad-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-03.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-ipad-03.png",
+      "sha256": "c86af9624bc32376a8901ef5047937b54a7c82ed2a529ed5e3b2d57143280fd8",
+      "bytes": 4408818,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-ipad-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-04.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-ipad-04.png",
+      "sha256": "d16c3e55b7f786a05a9514682df6d9bb9343fc6e553e3038127edd210f2bd096",
+      "bytes": 4850479,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-ipad-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-01.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-ipad-01.png",
+      "sha256": "0437c358ed987dd2977b86817e5c3573b762e1403352686da9d07760e0e9015f",
+      "bytes": 4950097,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-ipad-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-05.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-ipad-05.png",
+      "sha256": "fc4cc27d5152bdcf5d95d0672e9bb6dda0ace3c6ca6607fa7a6935ab17d94a73",
+      "bytes": 5458199,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-play-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-01.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-play-01.png",
+      "sha256": "b41dbe2253b3469320256330a2baed56767a0b4cdab85246fee11213021d81b6",
+      "bytes": 2220843,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-play-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-02.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-play-02.png",
+      "sha256": "f23b80e0b39c9a3ea7ad30c9f512f7fff76628a0b544511957cf51f24c914b01",
+      "bytes": 2496946,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-play-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-03.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-play-03.png",
+      "sha256": "85be4063915e9b433552550d845c201288e758227459a358df92fb89ff21efdc",
+      "bytes": 2333380,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-play-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-04.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-play-04.png",
+      "sha256": "5bfda2180e53311baf58856d4b027250a637dd30f07245b4ec86314319d67f2b",
+      "bytes": 1993242,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-play-06",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-06.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-play-06.png",
+      "sha256": "ea0cb2d6d333e97a085c9a65c7b7052074c2b227ce455366be3972d5d08c0c54",
+      "bytes": 2509757,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "bg-play-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-05.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/bg-play-05.png",
+      "sha256": "ebccc427828d8b870fb8b3fdca8017a304f95e81f2ad8b851c160b733a2912fe",
+      "bytes": 2498738,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "scene",
+      "family": "B",
+      "asset_dest": "scene/scene-16x9.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/scene/scene-16x9.png",
+      "sha256": "321f60f45b2d86c06075be8819acc7751573ec4e6cd1b4c9f08bc82a659c5865",
+      "bytes": 3026813,
+      "size": [
+        5244,
+        2950
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "play-feature",
+      "family": "B",
+      "asset_dest": "out/play-feature/feature-graphic.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/play-feature/feature-graphic.png",
+      "sha256": "3173c2e291d2fc66a3316a15ac7952971c0e7a083e3b2e458a9b2b3b21a8c74f",
+      "bytes": 577590,
+      "size": [
+        1024,
+        500
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-weekly",
+      "family": "B",
+      "asset_dest": "out/iap/iap-weekly.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-weekly.png",
+      "sha256": "53bf6a9b498772592ada1e44668dc04321fc03c6f0f2d9bd1204505dbaaafe9a",
+      "bytes": 1489466,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-yearly",
+      "family": "B",
+      "asset_dest": "out/iap/iap-yearly.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-yearly.png",
+      "sha256": "bd660e2beb82a52dfcd955177fa2a8813c02f028733f448396f4cd2da7f02702",
+      "bytes": 1248330,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-sat-terra",
+      "family": "B",
+      "asset_dest": "out/iap/iap-sat-terra.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-sat-terra.png",
+      "sha256": "e41a3c3dfc4468eb2d16877507ea70b75a07f6fc8efdb39845c6a439bc4f71d5",
+      "bytes": 1451721,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-lifetime",
+      "family": "B",
+      "asset_dest": "out/iap/iap-lifetime.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-lifetime.png",
+      "sha256": "c5e9758a779e2ab5ecc73d6bfd282e3c4216a9a33f494b233387be80ba337204",
+      "bytes": 1254329,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-sat-hubble",
+      "family": "B",
+      "asset_dest": "out/iap/iap-sat-hubble.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-sat-hubble.png",
+      "sha256": "290793b7fd996c33c7b088ea3f1db1bf87aa818e8f0a578002b44f6e917653eb",
+      "bytes": 1744215,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-sat-vanguard1",
+      "family": "B",
+      "asset_dest": "out/iap/iap-sat-vanguard1.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-sat-vanguard1.png",
+      "sha256": "ad5096f127dd651f68e079827353c7535043f055fd273be8fa90a4a5d3ef203b",
+      "bytes": 1531762,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-sat-oscar7",
+      "family": "B",
+      "asset_dest": "out/iap/iap-sat-oscar7.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-sat-oscar7.png",
+      "sha256": "e9ad4933010f274e2d7128eb14b8739351094f1ae95f7a9789f15d2320aa646e",
+      "bytes": 1440504,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-theme-amber",
+      "family": "B",
+      "asset_dest": "out/iap/iap-theme-amber.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-theme-amber.png",
+      "sha256": "5c722703956ae551d9864499bf9c2f27afa07ece83d8de7c2c45139d17cc5491",
+      "bytes": 1186316,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-theme-blueprint",
+      "family": "B",
+      "asset_dest": "out/iap/iap-theme-blueprint.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-theme-blueprint.png",
+      "sha256": "cf6b74ecf7a23e212df3f156203b6b2ec5065dcb74ed7f531a52826ac141b85f",
+      "bytes": 1244371,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "iap-theme-telemetry",
+      "family": "B",
+      "asset_dest": "out/iap/iap-theme-telemetry.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/out/iap/iap-theme-telemetry.png",
+      "sha256": "f75a1c99ef4717686716fdcde61e5a37b78e86b869649d63ebab460f2c48f9c3",
+      "bytes": 1290271,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "endcard-iphone",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/endcard-iphone.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/endcard-iphone.png",
+      "sha256": "4d8f50b73abd4c019bb0fd2880b7b3f100dfb57a53e270c7e9f06a52cfbf43b1",
+      "bytes": 1895123,
+      "size": [
+        886,
+        1920
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Passby",
+      "id": "endcard-ipad",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/endcard-ipad.png",
+      "repository_path": "redesign/2026-10-26/Passby/B/layers/redesign-2026-10-26/endcard-ipad.png",
+      "sha256": "0ec3629f1f184818cd0123cd6d9b64c2c65836f3ac81bd6611a0d056d76e6e3a",
+      "bytes": 1906512,
+      "size": [
+        1200,
+        1600
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow technical PNG export and Google Fonts typography",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-iphone-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-01.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-iphone-01.png",
+      "sha256": "20ad448446effa7380fbe62e7e8a8ef84ea951784ce9c4a62ed92680523383a0",
+      "bytes": 3689983,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-iphone-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-02.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-iphone-02.png",
+      "sha256": "928dd56fca52bf37c692f0bce98a150f90c0f833d44f9f728ae23dcf2e658410",
+      "bytes": 3741078,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-iphone-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-03.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-iphone-03.png",
+      "sha256": "cf0477f2b9654abdca24153d64375e4e58306883d73506e9687a48bc4b6f2bea",
+      "bytes": 3172218,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-iphone-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-04.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-iphone-04.png",
+      "sha256": "e579bde7fd954e015cd1be601a2cc52ff5f9f5898d9bf402b59195540b215f32",
+      "bytes": 3304826,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-iphone-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-05.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-iphone-05.png",
+      "sha256": "822ae1641e66d3a5ed7586ae6a363a8079999ec53a59a04a18d4170f4bf686b1",
+      "bytes": 3378794,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-iphone-06",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-iphone-06.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-iphone-06.png",
+      "sha256": "c902ae46b678674881f86a0f293621e8e91ce202ddb822aed0184c885af4da26",
+      "bytes": 2617938,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-ipad-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-01.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-ipad-01.png",
+      "sha256": "f0382c2c147b3d504b76e384ac927bde57f98a5c0e6426dc1d5aa76bd98b8f2d",
+      "bytes": 4388467,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-ipad-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-02.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-ipad-02.png",
+      "sha256": "7b41b62209bd4718ab95f652bf7cd616277ef230daf6a9378e676946af064c18",
+      "bytes": 4370526,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-ipad-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-03.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-ipad-03.png",
+      "sha256": "edf64499b81175c3fdbb74997fc02e48fa75697c3e16ba746d292f38112dea9d",
+      "bytes": 4651144,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-ipad-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-04.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-ipad-04.png",
+      "sha256": "b57c75c00350234b37de7fff7d0809b302a4d6bf9b14bdf332eea5e6350a741d",
+      "bytes": 3657931,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-ipad-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-ipad-05.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-ipad-05.png",
+      "sha256": "7c3bc0cbb641950315b334a19bc8508ece37dbc586b063fe3326c9dc750231de",
+      "bytes": 4952429,
+      "size": [
+        2064,
+        2752
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-play-01",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-01.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-play-01.png",
+      "sha256": "05061394d66c7ed2181cd9586303ee08808266deffdf47e41f3af582743bef09",
+      "bytes": 2195084,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-play-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-02.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-play-02.png",
+      "sha256": "f38b3822ed415915bd8e7471d01cd8e9d670678f876b6ef7050c32a1bd8c5d64",
+      "bytes": 2773860,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-play-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-03.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-play-03.png",
+      "sha256": "ee93dadcb15c511ffd2db6b1520e3b95f7f877fe1d1701d44607147bcbfcd589",
+      "bytes": 2257288,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-play-04",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-04.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-play-04.png",
+      "sha256": "cdbcc4b3de705d7e276142486f99957cb9043289befa32c00d109fe22551d807",
+      "bytes": 2245203,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-play-05",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-05.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-play-05.png",
+      "sha256": "1c8ffcc5274d9ae586d42d5b96c6c75844cdcd6f47dbbab779448a53d2ef6ec1",
+      "bytes": 2328126,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "bg-play-06",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/bg-play-06.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/bg-play-06.png",
+      "sha256": "c97193ccd6be6f89804a00bebb71b582bf1c5164f5031a8d191bfd8f14e474a0",
+      "bytes": 2388137,
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "scene",
+      "family": "B",
+      "asset_dest": "scene/scene-16x9.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/scene/scene-16x9.png",
+      "sha256": "135aae2f83fd647dcf44eb22831fe78098a67d62708ef73ec1752ca1496b7638",
+      "bytes": 8747175,
+      "size": [
+        5244,
+        2950
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "play-feature",
+      "family": "B",
+      "asset_dest": "out/play-feature/feature-graphic.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/out/play-feature/feature-graphic.png",
+      "sha256": "dae5da20f7624c7b2726f727b4bfbbe8de58eec966f075fdecebb66038b1582a",
+      "bytes": 521707,
+      "size": [
+        1024,
+        500
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export; code typesetting Bitter 900 + Inter 600",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "iap-premium-lifetime",
+      "family": "B",
+      "asset_dest": "out/iap/iap-premium-lifetime.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/out/iap/iap-premium-lifetime.png",
+      "sha256": "d52810261997fde4c15a9d17ad19d68e4a81700e456473485f514049a7051088",
+      "bytes": 1319152,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "iap-premium-yearly",
+      "family": "B",
+      "asset_dest": "out/iap/iap-premium-yearly.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/out/iap/iap-premium-yearly.png",
+      "sha256": "3a29bb17284f077d76fc27c896a9530d5c9b63765caea717a222fb5ed0009747",
+      "bytes": 1336140,
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "endcard-iphone",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/endcard-iphone.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/endcard-iphone.png",
+      "sha256": "c1f15512525d7c0bb9037580686121ce79476ca2717c1aae42328fcb4881c44c",
+      "bytes": 837899,
+      "size": [
+        886,
+        1920
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export; code typesetting Bitter 900 + Inter 600",
+      "attempts": 1
+    },
+    {
+      "app": "Patchgraph",
+      "id": "endcard-ipad",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/endcard-ipad.png",
+      "repository_path": "redesign/2026-10-26/Patchgraph/B/layers/redesign-2026-10-26/endcard-ipad.png",
+      "sha256": "06f5e2bac5240b368ca930c77ee3465df921bebfc86eef548011c544a6f45c6b",
+      "bytes": 1020808,
+      "size": [
+        1200,
+        1600
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "requested129",
+      "tool": "built-in image_gen; Pillow exact-size sRGB export; code typesetting Bitter 900 + Inter 600",
+      "attempts": 1
+    },
+    {
+      "app": "MeterParcel",
+      "id": "bg-iphone-03",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-25/bg-iphone-03.png",
+      "repository_path": "redesign/2026-10-26/MeterParcel/B/layers/redesign-2026-10-25/bg-iphone-03.png",
+      "sha256": "0854bf4a944d8bed38e936a3f437239d9b3f1ce7cd2b25abeefcf274d5190a96",
+      "bytes": 1976279,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "correction-or-approved",
+      "tool": "image_gen (model version not exposed); Pillow export; Pillow code-color correction (cyan ridge mask)",
+      "attempts": 4
+    },
+    {
+      "app": "MeterParcel",
+      "id": "scene",
+      "family": "B",
+      "asset_dest": "scene/scene-16x9.png",
+      "repository_path": "redesign/2026-10-26/MeterParcel/B/scene/scene-16x9.png",
+      "sha256": "e6d3745c96b7ab1556cf0a02706398a99e5dee049750d3ffeb0f15e69d8ef0b6",
+      "bytes": 912932,
+      "size": [
+        5244,
+        2950
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "correction-or-approved",
+      "tool": "image_gen (model version not exposed); Pillow export",
+      "attempts": 4
+    },
+    {
+      "app": "MotifSplice",
+      "id": "bg-iphone-02",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-25/bg-iphone-02.png",
+      "repository_path": "redesign/2026-10-26/MotifSplice/B/layers/redesign-2026-10-25/bg-iphone-02.png",
+      "sha256": "7221637391cc181739a8108f751d53d802d248f815a71c63e12368fde5a29443",
+      "bytes": 5645631,
+      "size": [
+        1320,
+        2868
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "correction-or-approved",
+      "tool": "image_gen (model version not exposed); Pillow export",
+      "attempts": 4
+    },
+    {
+      "app": "NegativeIndex",
+      "id": "scene",
+      "family": "B",
+      "asset_dest": "scene/scene-16x9.png",
+      "repository_path": "redesign/2026-10-26/NegativeIndex/B/scene/scene-16x9.png",
+      "sha256": "539d35256813ba639d3f6662a756067849642295673dea1b60045bf449e10a74",
+      "bytes": 6797245,
+      "size": [
+        5244,
+        2950
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "redesign-archive",
+      "accepted": true,
+      "batch_part": "correction-or-approved",
+      "tool": "image_gen (model version not exposed); Pillow export",
+      "attempts": 4
+    },
+    {
+      "app": "Levain",
+      "id": "levain-paywall-hero-01",
+      "family": "A-pack",
+      "asset_dest": "scenes/paywall-pantry.webp",
+      "repository_path": "levain/scenes/paywall-pantry.webp",
+      "sha256": "f38050b31cdc857a107b2cfeb235696b13ea2014d682ad0662d1bb4563ae3c90",
+      "bytes": 55220,
+      "size": [
+        1024,
+        768
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-trial-hero-01",
+      "family": "A-pack",
+      "asset_dest": "scenes/trial-bake-board.webp",
+      "repository_path": "levain/scenes/trial-bake-board.webp",
+      "sha256": "199db2cdfe48c65993dea11a6de061fdae6bfe735c77f536e3d0f042e40f9917",
+      "bytes": 95594,
+      "size": [
+        1024,
+        768
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-feed-done-01",
+      "family": "A-pack",
+      "asset_dest": "celebrate/feed-done.webp",
+      "repository_path": "levain/celebrate/feed-done.webp",
+      "sha256": "124f85a9521e69811e7866a3531bd33a799214c876993fe6ba74b5c621852826",
+      "bytes": 26138,
+      "size": [
+        360,
+        360
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-scene-counter-clean-01",
+      "family": "A-pack",
+      "asset_dest": "scenes/kitchen-counter-clean.png",
+      "repository_path": "levain/scenes/kitchen-counter-clean.png",
+      "sha256": "4e814035c945e3c5945ff410e2c5c762e4669a22d4797b4a2373b72c6b0a0780",
+      "bytes": 1094613,
+      "size": [
+        1024,
+        768
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-scene-fridge-clean-01",
+      "family": "A-pack",
+      "asset_dest": "scenes/fridge-shelf-clean.png",
+      "repository_path": "levain/scenes/fridge-shelf-clean.png",
+      "sha256": "b8a7658ee4b482bcbfa173a73122afdb7b78ded2cf9432e6e10a8c9371a1ff6c",
+      "bytes": 916474,
+      "size": [
+        1024,
+        768
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-bake-knead-01",
+      "family": "A-pack",
+      "asset_dest": "bake/knead.webp",
+      "repository_path": "levain/bake/knead.webp",
+      "sha256": "cee34c64535720d9471385e1cec84bf07f9dd6f3e074fefcc1785384a2714681",
+      "bytes": 71344,
+      "size": [
+        504,
+        504
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-bake-proof-01",
+      "family": "A-pack",
+      "asset_dest": "bake/proof.webp",
+      "repository_path": "levain/bake/proof.webp",
+      "sha256": "b4b5ca7e6242b149b0bbcc19e8897e4db0bbd601cf80016eddc79b7a1fd84903",
+      "bytes": 64278,
+      "size": [
+        504,
+        504
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-bake-oven-01",
+      "family": "A-pack",
+      "asset_dest": "bake/oven.webp",
+      "repository_path": "levain/bake/oven.webp",
+      "sha256": "dd83f4893156ebcedf4c1d111e0c577a242fd332903b093a26da4471f46907a4",
+      "bytes": 77158,
+      "size": [
+        504,
+        504
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-benefit-history-01",
+      "family": "A-pack",
+      "asset_dest": "benefit/history-notebook.webp",
+      "repository_path": "levain/benefit/history-notebook.webp",
+      "sha256": "7418bc7ea1148d546246fa35073c7839191b609044e039b021ce48c77d02606d",
+      "bytes": 4566,
+      "size": [
+        168,
+        168
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    },
+    {
+      "app": "Levain",
+      "id": "levain-revive-01",
+      "family": "A-pack",
+      "asset_dest": "revive/wheat-sunrise.webp",
+      "repository_path": "levain/revive/wheat-sunrise.webp",
+      "sha256": "1bdc25bd2e1b7999297697fed24dcdc70226bb57264855835cfd527b0fcbc864",
+      "bytes": 23732,
+      "size": [
+        336,
+        336
+      ],
+      "mode": "RGB",
+      "format": "WEBP",
+      "delivery": "runtime-pack",
+      "accepted": true,
+      "batch_part": "levain10",
+      "tool": "Existing accepted image_gen master + unchanged Levain pack builder"
+    }
+  ]
+}
