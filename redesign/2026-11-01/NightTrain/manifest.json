@@ -1,0 +1,217 @@
+{
+  "app": "NightTrain",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "NightTrain",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/NightTrain/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:50:22.605988+00:00",
+      "sha256": "e536cf6d9df308b0fbb6213e3a860277cbfbaa946baa618ed692120ad54a86b9",
+      "bytes": 262171,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T10:50:22.605988+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/NightTrain/scene/scene-16x9.png",
+        "source_sha256": "9bef9aa6a363b1ea6add3c30f8b9d517c0d504108828af53a5f857d0758e0f47",
+        "source_generation_provenance": {
+          "at": "2026-10-25T17:38:39.554827+00:00",
+          "sha256": "9bef9aa6a363b1ea6add3c30f8b9d517c0d504108828af53a5f857d0758e0f47",
+          "tool": "image_gen (model version not exposed); Pillow export",
+          "attempts": 1,
+          "source": "/Users/hainguyen/NguyenLeHai/!MM/MM-ASSETS-REDESIGN/_work/NightTrain/scene-composed.png",
+          "source_sha256": "782d9e266de88f5d7bb65eaa1b9b8823d370d600b13b0716a0d844956a0dd465",
+          "review": "Generated decor group reviewed: correct objects, no text/people/UI; composited in exact requested box with coded backdrop, exact palette and quiet zones. Original prompt included verbatim, production separation used for precise geometry. Alpha source retained.",
+          "quality": null,
+          "backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/NightTrain/scene/scene-16x9.png",
+          "generation_source": {
+            "path": "/Users/hainguyen/.codex/generated_images/01a173c1-6e79-70f0-abaa-82156f9257c3/exec-dc19b8dd-88c0-4fb3-a84c-df8da887ab06.png",
+            "sha256": "68cf88974c09fec5e1ca4007b7b029c0e54216c7a021d06d9cacdc3bd694e72d"
+          },
+          "alpha_source": {
+            "path": "/Users/hainguyen/.codex/generated_images/01a173c1-6e79-70f0-abaa-82156f9257c3/exec-dc19b8dd-88c0-4fb3-a84c-df8da887ab06.png",
+            "sha256": "68cf88974c09fec5e1ca4007b7b029c0e54216c7a021d06d9cacdc3bd694e72d"
+          }
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/BarlowSemiCondensed-ExtraBold.ttf",
+        "font_sha256": "a8096d0dc3ff22ea015d63f436a6856a69e402c12da9991f4a40f2c0bedf44ee",
+        "font_size": 330,
+        "requested_font_size": 330,
+        "weight": 800,
+        "tracking": 13.200000000000001,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "N",
+            "line": 1,
+            "x": 1036,
+            "y": 154,
+            "box": [
+              1036,
+              253,
+              1231,
+              484
+            ],
+            "colour": "#FBF1DD",
+            "minimum_background_contrast": 16.041562107595457
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 1244,
+            "y": 154,
+            "box": [
+              1244,
+              253,
+              1327,
+              484
+            ],
+            "colour": "#FBF1DD",
+            "minimum_background_contrast": 16.041562107595457
+          },
+          {
+            "char": "G",
+            "line": 1,
+            "x": 1340,
+            "y": 154,
+            "box": [
+              1340,
+              250,
+              1519,
+              487
+            ],
+            "colour": "#FBF1DD",
+            "minimum_background_contrast": 15.992950150572652
+          },
+          {
+            "char": "H",
+            "line": 1,
+            "x": 1532,
+            "y": 154,
+            "box": [
+              1532,
+              253,
+              1714,
+              484
+            ],
+            "colour": "#FBF1DD",
+            "minimum_background_contrast": 16.041562107595457
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1727,
+            "y": 154,
+            "box": [
+              1727,
+              253,
+              1904,
+              484
+            ],
+            "colour": "#FBF1DD",
+            "minimum_background_contrast": 16.041562107595457
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1918,
+            "y": 154,
+            "box": [
+              1918,
+              253,
+              2095,
+              484
+            ],
+            "colour": "#F2B544",
+            "minimum_background_contrast": 9.823345440039377
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 2108,
+            "y": 154,
+            "box": [
+              2108,
+              253,
+              2289,
+              484
+            ],
+            "colour": "#F2B544",
+            "minimum_background_contrast": 9.823345440039377
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 2302,
+            "y": 154,
+            "box": [
+              2302,
+              253,
+              2500,
+              484
+            ],
+            "colour": "#F2B544",
+            "minimum_background_contrast": 9.823345440039377
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 2513,
+            "y": 154,
+            "box": [
+              2513,
+              253,
+              2596,
+              484
+            ],
+            "colour": "#F2B544",
+            "minimum_background_contrast": 9.823345440039377
+          },
+          {
+            "char": "N",
+            "line": 1,
+            "x": 2609,
+            "y": 154,
+            "box": [
+              2609,
+              253,
+              2804,
+              484
+            ],
+            "colour": "#F2B544",
+            "minimum_background_contrast": 9.823345440039377
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 9.823345440039377,
+        "minimum_contrast": 9.823345440039377,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:50:22.605988+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: cream and brass uppercase wordmark clear on wine field, rail/steam focal scene retained; no UI/tagline."
+      }
+    }
+  ]
+}
