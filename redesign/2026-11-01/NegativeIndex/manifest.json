@@ -1,0 +1,264 @@
+{
+  "app": "NegativeIndex",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "NegativeIndex",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/NegativeIndex/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:49:18.915192+00:00",
+      "sha256": "71c3a6bbf8244ec96744043aff7ed64d8c1ea81baf4b11e1bd6ceb6a4affab0e",
+      "bytes": 3743849,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 4,
+      "production_provenance": {
+        "at": "2026-11-01T10:49:18.915192+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/NegativeIndex/scene/scene-16x9.png",
+        "source_sha256": "539d35256813ba639d3f6662a756067849642295673dea1b60045bf449e10a74",
+        "source_generation_provenance": {
+          "at": "2026-10-25T17:36:58.205015+00:00",
+          "sha256": "539d35256813ba639d3f6662a756067849642295673dea1b60045bf449e10a74",
+          "tool": "image_gen (model version not exposed); Pillow export",
+          "attempts": 4,
+          "source": "/Users/hainguyen/NguyenLeHai/!MM/MM-ASSETS-REDESIGN/_work/NegativeIndex/scene-resume-export.png",
+          "source_sha256": "7087e53eb7e7a13678c9bc42a1cd4618ca5b1354944b0332580019fc99eddd89",
+          "review": "Đã xem nguồn và bản xuất: đúng nhóm cyanotype, không chữ sinh bởi AI, không UI/người/nhãn giá; kiểm biên, quiet zone và vòng amber ở nút cuối. Chữ Saira được typeset bằng code theo yêu cầu. QA độc lập: wall sáng hơn bound #0E3A63 tại vùng wordmark; needs_owner sau4attempts.",
+          "quality": null,
+          "backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/NegativeIndex/scene/scene-16x9.png",
+          "generated_source": "/Users/hainguyen/.codex/generated_images/01a173c1-a9a9-7861-aafd-4425ad831894/exec-5273232e-4b4b-466f-bb97-faf301f8f497.png",
+          "generated_source_sha256": "917905339169a3b4719d0150d1c0d70da19ee67d1bb01dfdf516a43b5efa1f3b",
+          "typesetting_checks": [],
+          "palette_grain_reduction_colours": null
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/SairaCondensed-Black.ttf",
+        "font_sha256": "3edf5f2f027e2d5203218f5b56cda652b2af9258c0c08be7fb874f3f8cf266ae",
+        "font_size": 330,
+        "requested_font_size": 330,
+        "weight": null,
+        "tracking": 6.6000000000000005,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "N",
+            "line": 1,
+            "x": 919,
+            "y": 105,
+            "box": [
+              919,
+              252,
+              1093,
+              480
+            ],
+            "colour": "#F2F8FF",
+            "minimum_background_contrast": 7.954568954246528
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1100,
+            "y": 105,
+            "box": [
+              1100,
+              252,
+              1241,
+              480
+            ],
+            "colour": "#F2F8FF",
+            "minimum_background_contrast": 8.098146775644345
+          },
+          {
+            "char": "G",
+            "line": 1,
+            "x": 1248,
+            "y": 105,
+            "box": [
+              1248,
+              250,
+              1411,
+              483
+            ],
+            "colour": "#F2F8FF",
+            "minimum_background_contrast": 7.893146718068034
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 1417,
+            "y": 105,
+            "box": [
+              1417,
+              252,
+              1588,
+              480
+            ],
+            "colour": "#F2F8FF",
+            "minimum_background_contrast": 8.152921770280402
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1595,
+            "y": 105,
+            "box": [
+              1595,
+              252,
+              1738,
+              480
+            ],
+            "colour": "#F2F8FF",
+            "minimum_background_contrast": 7.835448525936578
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 1744,
+            "y": 105,
+            "box": [
+              1744,
+              252,
+              1830,
+              480
+            ],
+            "colour": "#F2F8FF",
+            "minimum_background_contrast": 8.211427813030983
+          },
+          {
+            "char": "V",
+            "line": 1,
+            "x": 1837,
+            "y": 105,
+            "box": [
+              1837,
+              252,
+              2002,
+              480
+            ],
+            "colour": "#F2F8FF",
+            "minimum_background_contrast": 8.24420042754706
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 2009,
+            "y": 105,
+            "box": [
+              2009,
+              252,
+              2150,
+              480
+            ],
+            "colour": "#F2F8FF",
+            "minimum_background_contrast": 8.097024528166294
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 2156,
+            "y": 105,
+            "box": [
+              2156,
+              252,
+              2242,
+              480
+            ],
+            "colour": "#FFB84D",
+            "minimum_background_contrast": 4.875789458906743
+          },
+          {
+            "char": "N",
+            "line": 1,
+            "x": 2249,
+            "y": 105,
+            "box": [
+              2249,
+              252,
+              2423,
+              480
+            ],
+            "colour": "#FFB84D",
+            "minimum_background_contrast": 4.682812639640522
+          },
+          {
+            "char": "D",
+            "line": 1,
+            "x": 2429,
+            "y": 105,
+            "box": [
+              2429,
+              252,
+              2594,
+              480
+            ],
+            "colour": "#FFB84D",
+            "minimum_background_contrast": 4.897110335962421
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 2601,
+            "y": 105,
+            "box": [
+              2601,
+              252,
+              2742,
+              480
+            ],
+            "colour": "#FFB84D",
+            "minimum_background_contrast": 4.66947404639809
+          },
+          {
+            "char": "X",
+            "line": 1,
+            "x": 2749,
+            "y": 105,
+            "box": [
+              2749,
+              252,
+              2921,
+              480
+            ],
+            "colour": "#FFB84D",
+            "minimum_background_contrast": 4.939620834882693
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 3.51885054049273,
+        "minimum_contrast": 4.66947404639809,
+        "tonal_layer": {
+          "opacity": 0.4,
+          "colour": "#0B3558",
+          "authority_quote": "20 percent #0B3558 soft vignette behind the letters"
+        },
+        "layout_adjustment": "Measured contrast correction: reduce width slightly on the quiet blue field while retaining black-weight Saira, both authored colours, and upper placement.",
+        "specification": {
+          "verified_at": "2026-11-01T10:49:18.915192+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        },
+        "contrast_correction": {
+          "suggested_opacity": 0.2,
+          "actual_opacity": 0.4,
+          "reason": "19 placement/font variants still failed4.5:1 for authored amber type with20percent vignette. Preserve intended font340/cap top250/two colours and increase only the explicitly requested soft navy typesetting layer;no scene objects repainted. Routine measured-contrast correction,not an owner-specific numeric approval. Measured35percent minimum4.2979:1;40percent final preflight."
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: bold white/amber wordmark clear, film and peripheral folders whole, no phone/UI/tagline. Measured tonal-layer departure recorded."
+      }
+    }
+  ]
+}
