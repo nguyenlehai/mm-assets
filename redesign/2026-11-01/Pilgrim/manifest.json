@@ -1,0 +1,22 @@
+{
+  "app": "Pilgrim",
+  "at": "2026-11-01T09:07:13.504327+00:00",
+  "scope": "New header from existing installed scene, explicit code-typesetting and authorised20% soft text vignette. No real screenshots or clips, no ASC/Play upload.",
+  "files": [
+    {
+      "id": "header",
+      "family": "B",
+      "asset_dest": "out/creative/header-21x9.png",
+      "repository_path": "redesign/2026-11-01/Pilgrim/B/out/creative/header-21x9.png",
+      "sha256": "a99c0bc3eb47daa9222016912e29c329b6e34541397246bad768177e2be8d4af",
+      "bytes": 5028088,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "source_scene_sha256": "511d36e3e38eba6050dabeb1e8fa9e34482af17c1af6a21419c992f4594fd673"
+    }
+  ]
+}
