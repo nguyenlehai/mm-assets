@@ -1,0 +1,168 @@
+{
+  "app": "PaperMe",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "PaperMe",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/PaperMe/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:52:33.131042+00:00",
+      "sha256": "726b1d8cbdd98e3a4cafd9a4793002ee6bc8d6118b9357688bbc25f48de92c2d",
+      "bytes": 1478140,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 2,
+      "production_provenance": {
+        "at": "2026-11-01T10:52:33.131042+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/PaperMe/scene/scene-16x9.png",
+        "source_sha256": "a6d45a3c887d70b340929d5323154b56a6748cff3c3e4d7414edfa15d0e2fa62",
+        "source_generation_provenance": {
+          "at": "2026-10-25T18:14:34.058132+00:00",
+          "sha256": "a6d45a3c887d70b340929d5323154b56a6748cff3c3e4d7414edfa15d0e2fa62",
+          "tool": "image_gen (built-in; model version not exposed) + Pillow compositing/typesetting/export",
+          "attempts": 2,
+          "source": "/Users/hainguyen/.codex/generated_images/01a173c0-1cae-7130-8d88-fdd5784ad12c/exec-99ea3cda-9844-4b1b-9ce7-4df5fbddae2f.png",
+          "source_sha256": "26045bc7a17d2048fe33c1de68bde2404ad3ab7707e9b4311c70af369e36fcb4",
+          "candidate": "MM-ASSETS-REDESIGN/_work/PaperMe/scene-candidate.png",
+          "review": "Attempt1 rejected sitting figure. Attempt2 standing paper self; AI focal group repositioned wholly inside x1990..3250,y1560..2420 and quiet wall restored exact cobalt. Side rooftops retained, whole focal group in21:9 and3:2 crops, no text/face/UI. Source preserved.",
+          "grain_palette_colors": null,
+          "backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/PaperMe/scene/scene-16x9.png"
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Jost[wght].ttf",
+        "font_sha256": "6343b70971000b04c5d401c96ae08ce371086135e999d5e1e1413039c0213076",
+        "font_size": 340,
+        "requested_font_size": 340,
+        "weight": 800,
+        "tracking": 6.8,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "P",
+            "line": 1,
+            "x": 1055,
+            "y": 141,
+            "box": [
+              1055,
+              267,
+              1274,
+              505
+            ],
+            "colour": "#FFFBEA",
+            "minimum_background_contrast": 7.177658854246394
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 1281,
+            "y": 141,
+            "box": [
+              1279,
+              250,
+              1540,
+              506
+            ],
+            "colour": "#FFFBEA",
+            "minimum_background_contrast": 7.177658854246394
+          },
+          {
+            "char": "P",
+            "line": 1,
+            "x": 1545,
+            "y": 141,
+            "box": [
+              1545,
+              267,
+              1764,
+              505
+            ],
+            "colour": "#FFFBEA",
+            "minimum_background_contrast": 7.177658854246394
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1770,
+            "y": 141,
+            "box": [
+              1770,
+              267,
+              1980,
+              505
+            ],
+            "colour": "#FFFBEA",
+            "minimum_background_contrast": 7.177658854246394
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 1987,
+            "y": 141,
+            "box": [
+              1987,
+              267,
+              2216,
+              505
+            ],
+            "colour": "#FFFBEA",
+            "minimum_background_contrast": 7.177658854246394
+          },
+          {
+            "char": "M",
+            "line": 1,
+            "x": 2257,
+            "y": 141,
+            "box": [
+              2257,
+              254,
+              2568,
+              505
+            ],
+            "colour": "#FFE177",
+            "minimum_background_contrast": 5.7766296759801214
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 2575,
+            "y": 141,
+            "box": [
+              2575,
+              267,
+              2785,
+              505
+            ],
+            "colour": "#FFE177",
+            "minimum_background_contrast": 5.7766296759801214
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 5.7766296759801214,
+        "minimum_contrast": 5.7766296759801214,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:52:33.131042+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: PAPER ME uppercase legible above paper relief; manuscript, pencil and collage silhouettes retained; no UI or tagline."
+      }
+    }
+  ]
+}
