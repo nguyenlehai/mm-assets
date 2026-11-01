@@ -1,0 +1,193 @@
+{
+  "app": "Breezely",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "Breezely",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Breezely/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:49:47.162136+00:00",
+      "sha256": "13832830cf31e3097a66993df9457fd911c1896befe3e2597a9ac468107a3c69",
+      "bytes": 6630834,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T10:49:47.162136+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Breezely/scene/scene-16x9.png",
+        "source_sha256": "1fd9577ebc59aa5e6dc61bed7c617e0d5c231b067716ea31dae102ba54152c36",
+        "source_generation_provenance": {
+          "source": "MM-ASSETS-REDESIGN/_work/Breezely-batch129/sources/scene.png",
+          "generated_source": "/Users/hainguyen/.codex/generated_images/01a17ded-3d3e-7091-be60-3012ef70c7e9/exec-c6d346a1-dc98-419b-8c8a-f2af876378c9.png",
+          "source_sha256": "942da19ba9236ebdb4ad320645d2da7bd3270d11fe4b087481d8b475152459f0",
+          "tool": "image_gen",
+          "attempts": 1,
+          "prompt_file": "MM-ASSETS-REDESIGN/_work/Breezely-batch129/scene-prompt.txt",
+          "prompt_sha256": "c9bd105d4993e12ff3b1fa862322a0904aab1713499605187498dee57f998ae9",
+          "cached_at": "2026-10-27T16:10:15.527800+00:00",
+          "repair": {
+            "method": "Moved/scaled generated window group to centre-low x1990..3250 y1560..2490, kept upper wordmark zone plain using original wall pixels; removed sun disc with feathered original sky patch.",
+            "script": "MM-ASSETS-REDESIGN/_work/Breezely-batch129/repair.py",
+            "sha256": "ca18767c0d319377998a78d4895b8586d8a5a1ffc6bd6d31b47d4a1aa56ee7c0"
+          },
+          "at": "2026-10-27T17:36:09.833498+00:00",
+          "sha256": "1fd9577ebc59aa5e6dc61bed7c617e0d5c231b067716ea31dae102ba54152c36",
+          "qa": {
+            "accepted": true,
+            "review": "Inspected generated source and exact final at full presentation size and 320 px width; source-preserving geometry/quiet-zone repair documented separately. No simulated app UI.",
+            "technical": "PNG RGB sRGB opaque exact manifest size under 9 MB"
+          },
+          "batch": "batch129"
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Fraunces[SOFT,WONK,opsz,wght].ttf",
+        "font_sha256": "177ff6c0f14e5550a3c624247cd1189611d4eb65d000b14944c63d967958abbb",
+        "font_size": 330,
+        "requested_font_size": 330,
+        "weight": 600,
+        "tracking": 13.200000000000001,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "B",
+            "line": 1,
+            "x": 967,
+            "y": 166,
+            "box": [
+              967,
+              257,
+              1202,
+              489
+            ],
+            "colour": "#2B2233",
+            "minimum_background_contrast": 9.955534494321745
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 1216,
+            "y": 166,
+            "box": [
+              1216,
+              257,
+              1464,
+              489
+            ],
+            "colour": "#2B2233",
+            "minimum_background_contrast": 9.752125338742953
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1478,
+            "y": 166,
+            "box": [
+              1478,
+              250,
+              1700,
+              495
+            ],
+            "colour": "#2B2233",
+            "minimum_background_contrast": 10.03666967483179
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1713,
+            "y": 166,
+            "box": [
+              1713,
+              250,
+              1935,
+              495
+            ],
+            "colour": "#2B2233",
+            "minimum_background_contrast": 9.826680254650295
+          },
+          {
+            "char": "Z",
+            "line": 1,
+            "x": 1948,
+            "y": 166,
+            "box": [
+              1948,
+              250,
+              2163,
+              496
+            ],
+            "colour": "#2B2233",
+            "minimum_background_contrast": 9.660348364766755
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 2176,
+            "y": 166,
+            "box": [
+              2176,
+              250,
+              2398,
+              495
+            ],
+            "colour": "#2B2233",
+            "minimum_background_contrast": 9.931299191277313
+          },
+          {
+            "char": "L",
+            "line": 1,
+            "x": 2412,
+            "y": 166,
+            "box": [
+              2412,
+              257,
+              2624,
+              496
+            ],
+            "colour": "#2B2233",
+            "minimum_background_contrast": 9.752125338742953
+          },
+          {
+            "char": "Y",
+            "line": 1,
+            "x": 2638,
+            "y": 166,
+            "box": [
+              2638,
+              257,
+              2873,
+              489
+            ],
+            "colour": "#2B2233",
+            "minimum_background_contrast": 9.913626309782487
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 9.660348364766755,
+        "minimum_contrast": 9.660348364766755,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:49:47.162136+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: centered dark serif wordmark clear on warm wall; arched window, curtain, plant and fan visible; no UI/tagline."
+      }
+    }
+  ]
+}
