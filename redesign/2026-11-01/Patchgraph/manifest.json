@@ -1,0 +1,218 @@
+{
+  "app": "Patchgraph",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "Patchgraph",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Patchgraph/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:53:37.512219+00:00",
+      "sha256": "f7523150680c624cfb982b1269e4ae13468e6cd2b0216711711412592ff4b6cb",
+      "bytes": 4464825,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T10:53:37.512219+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Patchgraph/scene/scene-16x9.png",
+        "source_sha256": "135aae2f83fd647dcf44eb22831fe78098a67d62708ef73ec1752ca1496b7638",
+        "source_generation_provenance": {
+          "at": "2026-10-26T01:46:44.803978+00:00",
+          "sha256": "135aae2f83fd647dcf44eb22831fe78098a67d62708ef73ec1752ca1496b7638",
+          "tool": "built-in image_gen; Pillow exact-size sRGB export",
+          "attempts": 1,
+          "source": "MM-ASSETS-REDESIGN/_work/Patchgraph/batch129/scene-source.png",
+          "source_sha256": "ae36a5cd29e20b77023b5ffe5aad7f22154e591b51d2f12688f9c134c98fc5fe",
+          "generated_source": "/Users/hainguyen/.codex/generated_images/01a175d8-72d5-7d31-be7c-c8328da96b8f/exec-fcf20223-b98b-47a3-967b-13c0f681073e.png",
+          "batch": "batch129"
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Bitter[wght].ttf",
+        "font_sha256": "ef2b9a711fb02f1e5823b34da1b7450e0fc76793b7d733a8b41006e24916d4a7",
+        "font_size": 300,
+        "requested_font_size": 300,
+        "weight": 900,
+        "tracking": 6.0,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "P",
+            "line": 1,
+            "x": 860,
+            "y": 187,
+            "box": [
+              860,
+              255,
+              1047,
+              468
+            ],
+            "colour": "#F6F8E8",
+            "minimum_background_contrast": 6.225222171731757
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 1053,
+            "y": 187,
+            "box": [
+              1053,
+              254,
+              1270,
+              468
+            ],
+            "colour": "#F6F8E8",
+            "minimum_background_contrast": 6.399051835477402
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1276,
+            "y": 187,
+            "box": [
+              1276,
+              254,
+              1468,
+              468
+            ],
+            "colour": "#F6F8E8",
+            "minimum_background_contrast": 6.008730754985233
+          },
+          {
+            "char": "C",
+            "line": 1,
+            "x": 1474,
+            "y": 187,
+            "box": [
+              1474,
+              250,
+              1660,
+              473
+            ],
+            "colour": "#F6F8E8",
+            "minimum_background_contrast": 6.522175411530639
+          },
+          {
+            "char": "H",
+            "line": 1,
+            "x": 1666,
+            "y": 187,
+            "box": [
+              1666,
+              255,
+              1900,
+              469
+            ],
+            "colour": "#F6F8E8",
+            "minimum_background_contrast": 6.189511145620216
+          },
+          {
+            "char": "G",
+            "line": 1,
+            "x": 1906,
+            "y": 187,
+            "box": [
+              1906,
+              250,
+              2115,
+              473
+            ],
+            "colour": "#D2DAA8",
+            "minimum_background_contrast": 4.576087498745417
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 2121,
+            "y": 187,
+            "box": [
+              2121,
+              255,
+              2324,
+              468
+            ],
+            "colour": "#D2DAA8",
+            "minimum_background_contrast": 4.5735941902694135
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 2330,
+            "y": 187,
+            "box": [
+              2330,
+              254,
+              2547,
+              468
+            ],
+            "colour": "#D2DAA8",
+            "minimum_background_contrast": 4.698730901284941
+          },
+          {
+            "char": "P",
+            "line": 1,
+            "x": 2553,
+            "y": 187,
+            "box": [
+              2553,
+              255,
+              2740,
+              468
+            ],
+            "colour": "#D2DAA8",
+            "minimum_background_contrast": 4.6442272089386485
+          },
+          {
+            "char": "H",
+            "line": 1,
+            "x": 2746,
+            "y": 187,
+            "box": [
+              2746,
+              255,
+              2980,
+              469
+            ],
+            "colour": "#D2DAA8",
+            "minimum_background_contrast": 4.617519932026917
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 2.78392937012931,
+        "minimum_contrast": 4.5735941902694135,
+        "tonal_layer": {
+          "opacity": 0.42,
+          "colour": "#27320F",
+          "authority_quote": "20 percent #27320F soft vignette behind the letters"
+        },
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:53:37.512219+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        },
+        "contrast_correction": {
+          "suggested_opacity": 0.2,
+          "actual_opacity": 0.42,
+          "explicit_owner_approval_of_this_numeric_value": false,
+          "reason": "Original layout and seven narrower/moved variants failed minimum4.5 with the20percent olive vignette;increase only same authored olive typesetting layer,retain originalfont300/top250 and both colours. Record departure from20percent brief;no scene repaint. Measured40percent4.4408;final42percent preflight."
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: cream/olive Bitter wordmark legible above patch bay; four sockets and cords retained.42percent olive vignette departure recorded; no UI/tagline."
+      }
+    }
+  ]
+}
