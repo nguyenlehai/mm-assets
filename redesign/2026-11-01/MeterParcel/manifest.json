@@ -1,0 +1,231 @@
+{
+  "app": "MeterParcel",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "MeterParcel",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/MeterParcel/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:53:32.345780+00:00",
+      "sha256": "c25a6ba3cda96b209e4d97695e84d2e6af043ab73a0f9f60aa94db6bc9687e7a",
+      "bytes": 800764,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 4,
+      "production_provenance": {
+        "at": "2026-11-01T10:53:32.345780+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/MeterParcel/scene/scene-16x9.png",
+        "source_sha256": "e6d3745c96b7ab1556cf0a02706398a99e5dee049750d3ffeb0f15e69d8ef0b6",
+        "source_generation_provenance": {
+          "at": "2026-10-25T17:40:14.459141+00:00",
+          "sha256": "e6d3745c96b7ab1556cf0a02706398a99e5dee049750d3ffeb0f15e69d8ef0b6",
+          "tool": "image_gen (model version not exposed); Pillow export",
+          "attempts": 4,
+          "source": "store-art/MeterParcel/work/session-2026-10-25/scene-composed.png",
+          "source_sha256": "a6d3fe0e4a85b3821cb56efd872c1e0c246eb2f383db423803456930d1d99a5d",
+          "review": "Correction after full-size count review: selected fourth generation has ten distinct cyan ridge blocks instead of the requested eleven. All four sources retained. Geometry, RGB sRGB, quiet wordmark area and crops pass, but hold from final store use until this illustration deviation is accepted. No fifth generation call.",
+          "quality": null,
+          "backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/MeterParcel/scene/scene-16x9.png",
+          "generation_source": {
+            "path": "/Users/hainguyen/.codex/generated_images/01a171fc-2f3f-78c0-a0de-d08f78ab84b8/exec-ee491674-3741-4026-b00d-ae84e7b7455d.png",
+            "sha256": "64654e683f9714a5f8fbd227dc21b53d14e837949cf0c75ce08e3d48fde32004"
+          },
+          "alpha_source": {
+            "path": "/Users/hainguyen/.codex/generated_images/01a171fc-2f3f-78c0-a0de-d08f78ab84b8/exec-edd8b4a2-540b-4a3d-9715-803c7d97e00f.png",
+            "sha256": "97d3ade62ffb6399654749e89327e080193f40b90998c1726dbe05f87b4cc4df"
+          }
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/InterTight[wght].ttf",
+        "font_sha256": "b81b73dcb64df3c230cabade7df6c5773bf863233f24c9ee51087519f1f88b6f",
+        "font_size": 300,
+        "requested_font_size": 300,
+        "weight": 900,
+        "tracking": 6.0,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "M",
+            "line": 1,
+            "x": 784,
+            "y": 181,
+            "box": [
+              784,
+              254,
+              1058,
+              472
+            ],
+            "colour": "#F0F8D8",
+            "minimum_background_contrast": 12.675351087948997
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1064,
+            "y": 181,
+            "box": [
+              1064,
+              253,
+              1244,
+              472
+            ],
+            "colour": "#F0F8D8",
+            "minimum_background_contrast": 12.664947504633453
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1250,
+            "y": 181,
+            "box": [
+              1250,
+              253,
+              1450,
+              472
+            ],
+            "colour": "#F0F8D8",
+            "minimum_background_contrast": 12.675351087948997
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1456,
+            "y": 181,
+            "box": [
+              1456,
+              253,
+              1636,
+              472
+            ],
+            "colour": "#F0F8D8",
+            "minimum_background_contrast": 12.675351087948997
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 1642,
+            "y": 181,
+            "box": [
+              1642,
+              253,
+              1836,
+              472
+            ],
+            "colour": "#F0F8D8",
+            "minimum_background_contrast": 12.675351087948997
+          },
+          {
+            "char": "P",
+            "line": 1,
+            "x": 1842,
+            "y": 181,
+            "box": [
+              1842,
+              253,
+              2032,
+              472
+            ],
+            "colour": "#D5F03F",
+            "minimum_background_contrast": 10.838047744377919
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 2038,
+            "y": 181,
+            "box": [
+              2038,
+              253,
+              2268,
+              472
+            ],
+            "colour": "#D5F03F",
+            "minimum_background_contrast": 10.846950626339746
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 2274,
+            "y": 181,
+            "box": [
+              2274,
+              253,
+              2468,
+              472
+            ],
+            "colour": "#D5F03F",
+            "minimum_background_contrast": 10.717976696069437
+          },
+          {
+            "char": "C",
+            "line": 1,
+            "x": 2474,
+            "y": 181,
+            "box": [
+              2474,
+              250,
+              2698,
+              475
+            ],
+            "colour": "#D5F03F",
+            "minimum_background_contrast": 10.846950626339746
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 2704,
+            "y": 181,
+            "box": [
+              2704,
+              253,
+              2884,
+              472
+            ],
+            "colour": "#D5F03F",
+            "minimum_background_contrast": 10.838047744377919
+          },
+          {
+            "char": "L",
+            "line": 1,
+            "x": 2890,
+            "y": 181,
+            "box": [
+              2890,
+              253,
+              3056,
+              472
+            ],
+            "colour": "#D5F03F",
+            "minimum_background_contrast": 10.846950626339746
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 10.717976696069437,
+        "minimum_contrast": 10.717976696069437,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:53:32.345780+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: cream/lime wordmark clear above an open amber parcel holding upright cyan shapes; dark grid backdrop retained, no UI or tagline."
+      }
+    }
+  ]
+}
