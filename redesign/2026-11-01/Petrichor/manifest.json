@@ -1,0 +1,194 @@
+{
+  "app": "Petrichor",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "Petrichor",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Petrichor/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:45:00.859245+00:00",
+      "sha256": "2099a546ffc0507c4e701e9edd0eaee3f49f8c2fb9707b54ff0d77417474e807",
+      "bytes": 5958677,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T10:45:00.859245+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Petrichor/scene/scene-16x9.png",
+        "source_sha256": "2c33eeb0ea709d77b08e6c9a5f3a7cefae542cf677cc20e19f17b93b4cfb623b",
+        "source_generation_provenance": {
+          "at": "2026-10-26T14:04:32.381973+00:00",
+          "sha256": "2c33eeb0ea709d77b08e6c9a5f3a7cefae542cf677cc20e19f17b93b4cfb623b",
+          "tool": "image_gen",
+          "attempts": 1,
+          "source": "/Users/hainguyen/.codex/generated_images/01a17874-13aa-7710-994d-0db6e436f836/exec-1b9eb6d6-c530-4d38-8845-d5c04a24e85e.png",
+          "source_sha256": "7fac07ea0b0436c819f5f98511c462d0fc8e00be4ca60c4ed21e5eb73f881612",
+          "cached_source": "MM-ASSETS-REDESIGN/_work/petrichor-batch127/scene-source.png",
+          "prompt_sha256": "abbda9fac5f3ab4741252a2cf0cd3ae90d705adae022248b872b840ed4a06214"
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Jost[wght].ttf",
+        "font_sha256": "6343b70971000b04c5d401c96ae08ce371086135e999d5e1e1413039c0213076",
+        "font_size": 260,
+        "requested_font_size": 260,
+        "weight": 300,
+        "tracking": 31.2,
+        "cap_top": 260,
+        "text_regions": [
+          {
+            "char": "P",
+            "line": 1,
+            "x": 1155,
+            "y": 166,
+            "box": [
+              1155,
+              263,
+              1290,
+              445
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 11.81526070498695
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1321,
+            "y": 166,
+            "box": [
+              1321,
+              263,
+              1460,
+              445
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 12.27409288134945
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1492,
+            "y": 166,
+            "box": [
+              1492,
+              263,
+              1610,
+              445
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 12.94812089210251
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 1641,
+            "y": 166,
+            "box": [
+              1641,
+              263,
+              1777,
+              446
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 12.986173241210373
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 1808,
+            "y": 166,
+            "box": [
+              1808,
+              263,
+              1864,
+              445
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 13.118045871855415
+          },
+          {
+            "char": "C",
+            "line": 1,
+            "x": 1895,
+            "y": 166,
+            "box": [
+              1895,
+              260,
+              2073,
+              447
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 13.118045871855415
+          },
+          {
+            "char": "H",
+            "line": 1,
+            "x": 2104,
+            "y": 166,
+            "box": [
+              2104,
+              263,
+              2283,
+              445
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 13.428975376369287
+          },
+          {
+            "char": "O",
+            "line": 1,
+            "x": 2315,
+            "y": 166,
+            "box": [
+              2315,
+              261,
+              2518,
+              447
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 13.809440399957634
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 2549,
+            "y": 166,
+            "box": [
+              2549,
+              263,
+              2685,
+              446
+            ],
+            "colour": "#EDE8DE",
+            "minimum_background_contrast": 13.809440399957634
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 11.81526070498695,
+        "minimum_contrast": 11.81526070498695,
+        "tonal_layer": null,
+        "layout_adjustment": "OriginalJostLight300/cap top260 fails4.5:1 at left rain-glass highlights with20percent vignette;fit font260/top260 on quiet wall,keep fontweight300/tracking12percent andcolour unchanged.",
+        "specification": {
+          "verified_at": "2026-11-01T10:45:00.859245+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: legible centered wordmark, rain-glass scene and envelope intact, no UI or tagline."
+      }
+    }
+  ]
+}
