@@ -1,0 +1,432 @@
+{
+  "app": "Overnights",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "Overnights",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Overnights/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:34:15.411955+00:00",
+      "sha256": "2ba648a36d801afe665f2094588ff7b068d720c8de95cce8aed6860882313eb2",
+      "bytes": 120341,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T10:34:15.411955+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Overnights/scene/scene-16x9.png",
+        "source_sha256": "e1d9662a53309875205f8bfd10df7f1b6664c61b71fbfcb404d457304825f481",
+        "source_generation_provenance": {
+          "at": "2026-10-25T18:05:57.452592+00:00",
+          "sha256": "e1d9662a53309875205f8bfd10df7f1b6664c61b71fbfcb404d457304825f481",
+          "tool": "image_gen (model version not exposed); Pillow export",
+          "attempts": 1,
+          "source": "/Users/hainguyen/NguyenLeHai/!MM/MM-ASSETS-REDESIGN/_work/Overnights/scene-composite.png",
+          "source_sha256": "bee2aba6a76a15dbf80f3d91c992a85369848971b250c0e670ffc46bb877597a",
+          "review": "Artwork gồm glyph paper-cut do image_gen tạo thật, cropped/contain nguyên hình và ghép đúng count/position trong brief. Code đặt quiet paper fields, glow nhỏ, hill layers nếu yêu cầu và SourceSerif4/Inter OFL nếu có. Không UI hay capture giả. Mỗi hộ cân bằng số lights, ring/dashed/faint được đếm trong production_sources, không nhà/người/moon/chữ baked-in. Đã kiểm toàn ảnh và320px; title/device zone trống; sRGB RGB PNG đúngsize <9MB. Attempts ghi số lượt trực tiếp cho iPhone (2plate sai +1glyph), output tái dùngglyph1lượt nguồn.",
+          "quality": null,
+          "backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/Overnights/scene/scene-16x9.png",
+          "production_sources": {
+            "id": "scene",
+            "prompt_ref": "MM-ASSETS-REDESIGN/Overnights/store-requests.json#scene",
+            "sources": [
+              {
+                "path": "/Users/hainguyen/.codex/generated_images/01a173c1-8bf1-7381-bb89-4bdc6dd9dcb4/exec-e071a3a1-12ce-4327-8ea1-7b2442ea1565.png",
+                "sha256": "823efc115c8dbd242787ce927a5f472641ee27aa817f6f967d19ca12e887a5a6"
+              }
+            ],
+            "processing": "Generated transparent paper-cut glyphs cropped without repainting, then code compositing exact counts/placement, quiet fields, typography; no fabricated runtime UI. Direct generated plates failed with extraneous leaves/beads so source parts are used instead.",
+            "counts": {
+              "0": 13,
+              "1": 13,
+              "2": 2,
+              "3": 1,
+              "4": 5
+            },
+            "glyph_order": [
+              "disc",
+              "square",
+              "ring",
+              "dashed",
+              "faintdot"
+            ],
+            "placed_bounds": [
+              [
+                1990,
+                2396,
+                2014,
+                2420
+              ],
+              [
+                2027,
+                2378,
+                2051,
+                2402
+              ],
+              [
+                2065,
+                2360,
+                2089,
+                2384
+              ],
+              [
+                2102,
+                2342,
+                2126,
+                2366
+              ],
+              [
+                2140,
+                2322,
+                2164,
+                2346
+              ],
+              [
+                2177,
+                2302,
+                2201,
+                2326
+              ],
+              [
+                2215,
+                2280,
+                2239,
+                2304
+              ],
+              [
+                2252,
+                2258,
+                2276,
+                2282
+              ],
+              [
+                2290,
+                2233,
+                2314,
+                2257
+              ],
+              [
+                2327,
+                2208,
+                2351,
+                2232
+              ],
+              [
+                2365,
+                2180,
+                2389,
+                2204
+              ],
+              [
+                2402,
+                2152,
+                2426,
+                2176
+              ],
+              [
+                2439,
+                2122,
+                2463,
+                2146
+              ],
+              [
+                2477,
+                2091,
+                2501,
+                2115
+              ],
+              [
+                2514,
+                2060,
+                2538,
+                2084
+              ],
+              [
+                2552,
+                2027,
+                2576,
+                2051
+              ],
+              [
+                2589,
+                1994,
+                2613,
+                2018
+              ],
+              [
+                2627,
+                1962,
+                2651,
+                1986
+              ],
+              [
+                2664,
+                1929,
+                2688,
+                1953
+              ],
+              [
+                2702,
+                1896,
+                2726,
+                1920
+              ],
+              [
+                2739,
+                1865,
+                2763,
+                1889
+              ],
+              [
+                2777,
+                1834,
+                2801,
+                1858
+              ],
+              [
+                2814,
+                1804,
+                2838,
+                1828
+              ],
+              [
+                2851,
+                1776,
+                2875,
+                1800
+              ],
+              [
+                2889,
+                1748,
+                2913,
+                1772
+              ],
+              [
+                2926,
+                1723,
+                2950,
+                1747
+              ],
+              [
+                2964,
+                1698,
+                2988,
+                1722
+              ],
+              [
+                3001,
+                1676,
+                3025,
+                1700
+              ],
+              [
+                3039,
+                1654,
+                3063,
+                1678
+              ],
+              [
+                3083,
+                1641,
+                3093,
+                1651
+              ],
+              [
+                3121,
+                1621,
+                3131,
+                1631
+              ],
+              [
+                3158,
+                1603,
+                3168,
+                1613
+              ],
+              [
+                3196,
+                1585,
+                3206,
+                1595
+              ],
+              [
+                3233,
+                1567,
+                3243,
+                1577
+              ]
+            ],
+            "text_boxes": [],
+            "attempts": 1
+          }
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/SourceSerif4[opsz,wght].ttf",
+        "font_sha256": "97b2d4da6e3cb494b5a1e66ae176914d852ccabef49e0c02c0df25f3e39aca0b",
+        "font_size": 300,
+        "requested_font_size": 300,
+        "weight": 600,
+        "tracking": 18.0,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "O",
+            "x": 914,
+            "y": 144,
+            "box": [
+              914,
+              250,
+              1118,
+              460
+            ],
+            "colour": "#F4F0FF",
+            "minimum_background_contrast": 13.44712898235959
+          },
+          {
+            "char": "V",
+            "x": 1136,
+            "y": 144,
+            "box": [
+              1136,
+              255,
+              1332,
+              457
+            ],
+            "colour": "#F4F0FF",
+            "minimum_background_contrast": 13.44712898235959
+          },
+          {
+            "char": "E",
+            "x": 1350,
+            "y": 144,
+            "box": [
+              1350,
+              255,
+              1524,
+              455
+            ],
+            "colour": "#F4F0FF",
+            "minimum_background_contrast": 13.44712898235959
+          },
+          {
+            "char": "R",
+            "x": 1542,
+            "y": 144,
+            "box": [
+              1542,
+              255,
+              1738,
+              459
+            ],
+            "colour": "#F4F0FF",
+            "minimum_background_contrast": 13.44712898235959
+          },
+          {
+            "char": "N",
+            "x": 1756,
+            "y": 144,
+            "box": [
+              1756,
+              255,
+              1968,
+              457
+            ],
+            "colour": "#C4B9FF",
+            "minimum_background_contrast": 8.410964635567332
+          },
+          {
+            "char": "I",
+            "x": 1986,
+            "y": 144,
+            "box": [
+              1986,
+              255,
+              2096,
+              455
+            ],
+            "colour": "#C4B9FF",
+            "minimum_background_contrast": 8.410964635567332
+          },
+          {
+            "char": "G",
+            "x": 2114,
+            "y": 144,
+            "box": [
+              2114,
+              250,
+              2310,
+              460
+            ],
+            "colour": "#C4B9FF",
+            "minimum_background_contrast": 8.410964635567332
+          },
+          {
+            "char": "H",
+            "x": 2328,
+            "y": 144,
+            "box": [
+              2328,
+              255,
+              2554,
+              455
+            ],
+            "colour": "#C4B9FF",
+            "minimum_background_contrast": 8.410964635567332
+          },
+          {
+            "char": "T",
+            "x": 2572,
+            "y": 144,
+            "box": [
+              2572,
+              255,
+              2754,
+              455
+            ],
+            "colour": "#C4B9FF",
+            "minimum_background_contrast": 8.410964635567332
+          },
+          {
+            "char": "S",
+            "x": 2772,
+            "y": 144,
+            "box": [
+              2772,
+              250,
+              2926,
+              460
+            ],
+            "colour": "#C4B9FF",
+            "minimum_background_contrast": 8.410964635567332
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 8.410964635567332,
+        "minimum_contrast": 8.410964635567332,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:34:15.411955+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "notes": "320px wordmark clear,OVER cream/NIGHTS iris tint in one line above intact night-path dots. Empty heather-violet sky retained;min8.411:1,no tonal layer required."
+      }
+    }
+  ]
+}
