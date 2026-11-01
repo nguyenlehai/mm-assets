@@ -1,0 +1,185 @@
+{
+  "app": "Paperboat",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "Paperboat",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Paperboat/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:32:03.873804+00:00",
+      "sha256": "2034f0e9fd12044d1284b409e968c86a599f34873af5029ee33f3bfb4746c8e8",
+      "bytes": 6490346,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T10:32:03.873804+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Paperboat/scene/scene-16x9.png",
+        "source_sha256": "d1591b2a5249203cfa91240ee24b720eef6ef171fc8df762b612c0d693757bde",
+        "source_generation_provenance": {
+          "at": "2026-10-26T01:37:36.984911+00:00",
+          "sha256": "d1591b2a5249203cfa91240ee24b720eef6ef171fc8df762b612c0d693757bde",
+          "tool": "image_gen (built-in; model version not exposed)",
+          "attempts": 1,
+          "source": "/Users/hainguyen/.codex/generated_images/01a175d5-35dd-7f60-8598-1213e8e43be9/exec-bc42f441-b36b-429d-a9b6-a4bd585bad6f.png",
+          "source_sha256": "9bbae5acaa0ebfa23c9877b5925e14868dd023a9462f928dbbb3609623b40b8d",
+          "batch": "129batch",
+          "prompt_verbatim": true
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Marcellus-Regular.ttf",
+        "font_sha256": "1cf0cd10b17d35e852729962cc1ffaffed94514895972458345e2df34abb2f81",
+        "font_size": 320,
+        "requested_font_size": 320,
+        "weight": null,
+        "tracking": 25.6,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "P",
+            "x": 949,
+            "y": 167,
+            "box": [
+              949,
+              253,
+              1113,
+              479
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 5.150092155296774
+          },
+          {
+            "char": "A",
+            "x": 1139,
+            "y": 167,
+            "box": [
+              1135,
+              250,
+              1360,
+              479
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 6.13973371767604
+          },
+          {
+            "char": "P",
+            "x": 1381,
+            "y": 167,
+            "box": [
+              1381,
+              253,
+              1545,
+              479
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 6.201701934954614
+          },
+          {
+            "char": "E",
+            "x": 1571,
+            "y": 167,
+            "box": [
+              1571,
+              252,
+              1728,
+              481
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 6.179274516817883
+          },
+          {
+            "char": "R",
+            "x": 1753,
+            "y": 167,
+            "box": [
+              1753,
+              253,
+              1951,
+              479
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 6.264052720912919
+          },
+          {
+            "char": "B",
+            "x": 1968,
+            "y": 167,
+            "box": [
+              1968,
+              253,
+              2148,
+              482
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 6.35397844252579
+          },
+          {
+            "char": "O",
+            "x": 2174,
+            "y": 167,
+            "box": [
+              2174,
+              251,
+              2432,
+              484
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 6.13973371767604
+          },
+          {
+            "char": "A",
+            "x": 2457,
+            "y": 167,
+            "box": [
+              2453,
+              250,
+              2678,
+              479
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 6.298708318618214
+          },
+          {
+            "char": "T",
+            "x": 2700,
+            "y": 167,
+            "box": [
+              2700,
+              253,
+              2892,
+              479
+            ],
+            "colour": "#34211A",
+            "minimum_background_contrast": 6.30017090401876
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 5.150092155296774,
+        "minimum_contrast": 5.150092155296774,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:32:03.873804+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "notes": "Reviewed unchanged installed source and21:9 final at320px;PAPERBOAT one word in dark Marcellus,legible above complete origami boat. Source scene/horizon retained;minimum5.1501:1,no tonal layer needed."
+      }
+    }
+  ]
+}
