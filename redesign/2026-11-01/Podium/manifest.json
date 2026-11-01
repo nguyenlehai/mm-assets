@@ -1,0 +1,85 @@
+{
+  "app": "Podium",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Podium/out/creative/header-21x9.png",
+      "at": "2026-11-01T09:45:47.536339+00:00",
+      "sha256": "82a008983cebd4695fd2be0f49fa5319ee37af0caa2eb99e52ba65bcb71505ec",
+      "bytes": 4275969,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T09:45:47.536339+00:00",
+        "method": "Accepted generated scene; authored crop/Lanczos resize and wordmark code typesetting only",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Podium/scene/scene-16x9.png",
+        "source_sha256": "8e14af31719a844350c3746b74c18eaedebfb840216542b24aa31fcec74c7a36",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/BarlowCondensed-ExtraBold.ttf",
+        "font_sha256": "724c9c25952d5f4a2d87185d9767aa006144c5f0d944dc05bf7d5d603551c260",
+        "weight": 800,
+        "font_size": 520,
+        "tracking": 31.2,
+        "cap_top": 300,
+        "text_regions": [
+          {
+            "char": "P",
+            "x": 1138,
+            "top": 300,
+            "minimum_background_contrast": 12.87552700338602
+          },
+          {
+            "char": "O",
+            "x": 1416,
+            "top": 300,
+            "minimum_background_contrast": 16.575712315844008
+          },
+          {
+            "char": "D",
+            "x": 1696,
+            "top": 300,
+            "minimum_background_contrast": 16.521893786929144
+          },
+          {
+            "char": "I",
+            "x": 1977,
+            "top": 300,
+            "minimum_background_contrast": 16.625842387528657
+          },
+          {
+            "char": "U",
+            "x": 2130,
+            "top": 300,
+            "minimum_background_contrast": 16.705769716296356
+          },
+          {
+            "char": "M",
+            "x": 2412,
+            "top": 300,
+            "minimum_background_contrast": 16.51522179996537
+          }
+        ],
+        "text_vignette": null,
+        "layout_adjustment": "Cap top300px instead of nominal230 to avoid bright gel lamp (1.67:1 at230;permitted20percent vignette only2.47:1); still above focal group,520px font retained, no scene repainting.",
+        "specification": {
+          "verified_at": "2026-11-01T09:45:47.536339+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header 21:9,3840x1646,PNG without alpha"
+        }
+      }
+    }
+  ]
+}
