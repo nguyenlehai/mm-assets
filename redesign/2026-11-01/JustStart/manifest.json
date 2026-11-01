@@ -1,0 +1,204 @@
+{
+  "app": "JustStart",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "JustStart",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/JustStart/out/creative/header-21x9.png",
+      "at": "2026-11-01T11:18:29.704536+00:00",
+      "sha256": "5dbb5f1df97c98d1a7ee51851aedd0d68473da21789495fa6ba6509b6b344ff2",
+      "bytes": 4810554,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 4,
+      "production_provenance": {
+        "at": "2026-11-01T11:18:29.704536+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/JustStart/scene/scene-16x9.png",
+        "source_sha256": "7b93a25a8d2b5a19edfaff485342ca3be6d0428e6db20b486807912bde9abc0f",
+        "source_generation_provenance": {
+          "at": "2026-10-25T03:48:49.048327+00:00",
+          "sha256": "7b93a25a8d2b5a19edfaff485342ca3be6d0428e6db20b486807912bde9abc0f",
+          "tool": "OpenAI built-in image_gen + Pillow export/typesetting",
+          "attempts": 4
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          600,
+          5244,
+          2847
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Outfit[wght].ttf",
+        "font_sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade",
+        "font_size": 350,
+        "requested_font_size": 350,
+        "weight": 800,
+        "tracking": 21.0,
+        "cap_top": 100,
+        "text_regions": [
+          {
+            "char": "J",
+            "line": 1,
+            "x": 777,
+            "y": 2,
+            "box": [
+              777,
+              104,
+              970,
+              356
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.447962232365215
+          },
+          {
+            "char": "U",
+            "line": 1,
+            "x": 991,
+            "y": 2,
+            "box": [
+              991,
+              104,
+              1239,
+              356
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.506529186942613
+          },
+          {
+            "char": "S",
+            "line": 1,
+            "x": 1260,
+            "y": 2,
+            "box": [
+              1260,
+              100,
+              1469,
+              356
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.506529186942613
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1490,
+            "y": 2,
+            "box": [
+              1490,
+              103,
+              1717,
+              352
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.616816351775212
+          },
+          {
+            "char": " ",
+            "line": 1,
+            "x": 1738,
+            "y": 2,
+            "box": [
+              1738,
+              352,
+              1803,
+              352
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": null
+          },
+          {
+            "char": "S",
+            "line": 1,
+            "x": 1824,
+            "y": 2,
+            "box": [
+              1824,
+              100,
+              2033,
+              356
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.594261555737843
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 2054,
+            "y": 2,
+            "box": [
+              2054,
+              103,
+              2281,
+              352
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.621476696920142
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 2302,
+            "y": 2,
+            "box": [
+              2302,
+              104,
+              2562,
+              353
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.557914094644003
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 2583,
+            "y": 2,
+            "box": [
+              2583,
+              105,
+              2815,
+              352
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.58498197084236
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 2836,
+            "y": 2,
+            "box": [
+              2836,
+              103,
+              3063,
+              352
+            ],
+            "colour": "#2A2018",
+            "minimum_background_contrast": 11.603705977225243
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 11.447962232365215,
+        "minimum_contrast": 11.447962232365215,
+        "tonal_layer": null,
+        "layout_adjustment": "Authored843..2106 crop is1263px high,not21:9 at5244px width. Correct to2247px-high full-width crop600..2847 without stretch,retain complete disc stack;cap top maps originalscene950 to output256,with well over60px scene gap. Original mapped cap top256 crosses the low teal hill/sun shadow and measured3.9062:1;move wordmark up to100px within upper6percent margin so all letters lie on clear sky,retaining Outfit800/6percent tracking/darkbrown.",
+        "specification": {
+          "verified_at": "2026-11-01T11:18:29.704536+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: dark Outfit JUST START clear on pale upper sky; full three-disc terracotta stack with small cream disc visible, sun and green hills retained; no UI/tagline. Upward wordmark shift recorded for measured contrast."
+      }
+    }
+  ]
+}
