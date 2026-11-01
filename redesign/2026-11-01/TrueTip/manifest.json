@@ -1,0 +1,162 @@
+{
+  "app": "TrueTip",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "TrueTip",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/TrueTip/out/creative/header-21x9.png",
+      "at": "2026-11-01T11:13:34.924297+00:00",
+      "sha256": "a5352b2d1bc37c512a2edd37dc875f9d960fc38a25fd11074763a05672a396ef",
+      "bytes": 3884514,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T11:13:34.924297+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/TrueTip/scene/scene-16x9.png",
+        "source_sha256": "0b681f245f191ed9f5607a99bbf8bb16d8a6b793b49f4906852daed50b1693e9",
+        "source_generation_provenance": {
+          "at": "2026-10-25T03:41:48.404402+00:00",
+          "sha256": "0b681f245f191ed9f5607a99bbf8bb16d8a6b793b49f4906852daed50b1693e9",
+          "tool": "image_gen + Pillow typesetting",
+          "attempts": 1
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/SourceSerif4[opsz,wght].ttf",
+        "font_sha256": "97b2d4da6e3cb494b5a1e66ae176914d852ccabef49e0c02c0df25f3e39aca0b",
+        "font_size": 330,
+        "requested_font_size": 330,
+        "weight": 600,
+        "tracking": 19.8,
+        "cap_top": 350,
+        "text_regions": [
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1168,
+            "y": 228,
+            "box": [
+              1168,
+              350,
+              1372,
+              570
+            ],
+            "colour": "#272448",
+            "minimum_background_contrast": 12.34727463458117
+          },
+          {
+            "char": "R",
+            "line": 1,
+            "x": 1392,
+            "y": 228,
+            "box": [
+              1392,
+              350,
+              1611,
+              574
+            ],
+            "colour": "#272448",
+            "minimum_background_contrast": 12.295019426813967
+          },
+          {
+            "char": "U",
+            "line": 1,
+            "x": 1631,
+            "y": 228,
+            "box": [
+              1631,
+              351,
+              1871,
+              576
+            ],
+            "colour": "#272448",
+            "minimum_background_contrast": 12.354564368366281
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1890,
+            "y": 228,
+            "box": [
+              1890,
+              350,
+              2088,
+              570
+            ],
+            "colour": "#272448",
+            "minimum_background_contrast": 12.361898220192025
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 2107,
+            "y": 228,
+            "box": [
+              2107,
+              350,
+              2311,
+              570
+            ],
+            "colour": "#272448",
+            "minimum_background_contrast": 12.361898220192025
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 2331,
+            "y": 228,
+            "box": [
+              2331,
+              350,
+              2455,
+              570
+            ],
+            "colour": "#272448",
+            "minimum_background_contrast": 12.361898220192025
+          },
+          {
+            "char": "P",
+            "line": 1,
+            "x": 2475,
+            "y": 228,
+            "box": [
+              2475,
+              350,
+              2672,
+              570
+            ],
+            "colour": "#272448",
+            "minimum_background_contrast": 12.354564368366281
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 12.295019426813967,
+        "minimum_contrast": 12.295019426813967,
+        "tonal_layer": null,
+        "layout_adjustment": "Use OFL SourceSerif4 to match serif headings/wordmark of current Georgia/system-serif ledger;type only,no mark/icon redesign.",
+        "specification": {
+          "verified_at": "2026-11-01T11:13:34.924297+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: dark serif TRUETIP wordmark clear on peach field; cream blank receipts, indigo folio and partial edge clip retained; no UI or tagline."
+      }
+    }
+  ]
+}
