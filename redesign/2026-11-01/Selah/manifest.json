@@ -129,6 +129,133 @@
         "passed": true,
         "review": "320px corrected-crop proof inspected: SELAH serif clear on peach wall; whole cup, closed notebook and olive-sprig glass visible with bottom margin; no UI/tagline."
       }
+    },
+    {
+      "app": "Selah",
+      "family": "B",
+      "id": "play-feature",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Selah/out/play-feature/feature-graphic.png",
+      "at": "2026-11-01T11:20:21.790933+00:00",
+      "sha256": "aceedde2ae6815090cb41bb5ebd4eeb59fbdd22cd8c91951d2c8bd8fee18cf95",
+      "bytes": 688691,
+      "size": [
+        1024,
+        500
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T11:20:21.790933+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Selah/scene/scene-16x9.png",
+        "source_sha256": "ca55cc599c02bcba3c8a3c6834cdd11a70e73beb733dc0f8d25406f83e685d21",
+        "source_generation_provenance": {
+          "at": "2026-10-25T03:39:53.414562+00:00",
+          "sha256": "ca55cc599c02bcba3c8a3c6834cdd11a70e73beb733dc0f8d25406f83e685d21",
+          "tool": "image_gen + Pillow typesetting",
+          "attempts": 1
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          390,
+          5244,
+          2950
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Lora[wght].ttf",
+        "font_sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7",
+        "font_size": 100,
+        "requested_font_size": 100,
+        "weight": 600,
+        "tracking": 6.0,
+        "cap_top": 80,
+        "text_regions": [
+          {
+            "char": "S",
+            "line": 1,
+            "x": 336,
+            "y": 52,
+            "box": [
+              336,
+              81,
+              396,
+              155
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 7.058189781051992
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 402,
+            "y": 52,
+            "box": [
+              402,
+              82,
+              464,
+              153
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 5.6580645403914565
+          },
+          {
+            "char": "L",
+            "line": 1,
+            "x": 470,
+            "y": 52,
+            "box": [
+              470,
+              82,
+              528,
+              153
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 5.423532638404175
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 534,
+            "y": 52,
+            "box": [
+              534,
+              80,
+              602,
+              153
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 5.213724024857255
+          },
+          {
+            "char": "H",
+            "line": 1,
+            "x": 608,
+            "y": 52,
+            "box": [
+              608,
+              82,
+              688,
+              153
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 4.815024242147018
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 4.815024242147018,
+        "minimum_contrast": 4.815024242147018,
+        "tonal_layer": null,
+        "layout_adjustment": "Approved scene reused;lower2.048:1 crop preserves whole still-life group. Centered Lora family follows currentledger.No UI or tagline.",
+        "specification": {
+          "verified_at": "2026-11-01T11:20:21.790933+00:00",
+          "url": "https://support.google.com/googleplay/android-developer/answer/9866151?hl=en-en",
+          "placement": "GooglePlay feature graphic1024x500,24bit RGBPNG/noalpha"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: dark rose serif SELAH on peach wall; complete cup, notebook and olive-sprig glass group, no old icon or tagline."
+      }
     }
   ]
 }
