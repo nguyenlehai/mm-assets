@@ -1,0 +1,204 @@
+{
+  "app": "Midpoint",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "Midpoint",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Midpoint/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:55:54.863831+00:00",
+      "sha256": "81229925cbc5867cdb290722708ca97fde741fa5b5fdbddb24dc18c14c18bb14",
+      "bytes": 832076,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 3,
+      "production_provenance": {
+        "at": "2026-11-01T10:55:54.863831+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Midpoint/scene/scene-16x9.png",
+        "source_sha256": "2c7461437e77f46b6f48913f9153ee519a5a92e9b406f72b1da50632836d6149",
+        "source_generation_provenance": {
+          "at": "2026-10-25T17:43:47.540106+00:00",
+          "sha256": "2c7461437e77f46b6f48913f9153ee519a5a92e9b406f72b1da50632836d6149",
+          "tool": "image_gen (model version not exposed); Pillow export",
+          "attempts": 3,
+          "source": "/Users/hainguyen/NguyenLeHai/!MM/MM-ASSETS-REDESIGN/_work/Midpoint/scene-resume.png",
+          "source_sha256": "db308d31469e3777d6491b18182f4c09fe4d1025476de471ebb2c050e2bd6767",
+          "review": "Tái sử dụng oak image_gen đã sinh và extraction từ lượt trước, không sinh lại. Foreground gouache giữ nguyên, contain theo box chính xác; code compositing quiet sky/cloud/hill fields đồng bộ nền hiện có. Nunito OFL 800/600 đặt chữ theo brief nếu có; kiểm full và 320px, không UI/glyph/artifact. Text contrast trên pale sky hoặc night plate >4.5:1. Attempts 3 là số lần sinh nguồn/extraction đã có, lượt resume 0.",
+          "quality": null,
+          "backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/Midpoint/scene/scene-16x9.png",
+          "production_sources": {
+            "id": "scene",
+            "prompt_ref": "MM-ASSETS-REDESIGN/Midpoint/store-requests.json#scene",
+            "sources": [
+              {
+                "path": "/Users/hainguyen/.codex/generated_images/01a1735f-8b38-7b22-9d7e-07bb7ee89544/exec-129eae7a-831d-4765-8563-5eb0c63ba4a4.png",
+                "sha256": "a3176cb83c36621abce08f4711bccea74c8e4261e78542c29a06a0c058a60810"
+              }
+            ],
+            "processing": "Reused existing image_gen oak cutout; untouched painted foreground contained at exact brief box. Pillow compositing of quiet sky, cloud silhouettes and two rounded hill fields; Google Fonts Nunito OFL typesetting. No generation call in resume for this item.",
+            "foreground_box": [
+              1950,
+              1250,
+              3300,
+              2450
+            ],
+            "text_boxes": [],
+            "spec_checked": "2026-10-26",
+            "spec_urls": [
+              "https://developer.apple.com/app-store/promoting-in-app-purchases/",
+              "https://support.google.com/googleplay/android-developer/answer/9866151?hl=en"
+            ]
+          }
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Nunito[wght].ttf",
+        "font_sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+        "font_size": 300,
+        "requested_font_size": 300,
+        "weight": 800,
+        "tracking": 12.0,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "M",
+            "line": 1,
+            "x": 1114,
+            "y": 161,
+            "box": [
+              1114,
+              251,
+              1378,
+              467
+            ],
+            "colour": "#14232D",
+            "minimum_background_contrast": 11.503399951447893
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 1390,
+            "y": 161,
+            "box": [
+              1390,
+              251,
+              1478,
+              467
+            ],
+            "colour": "#14232D",
+            "minimum_background_contrast": 11.503399951447893
+          },
+          {
+            "char": "D",
+            "line": 1,
+            "x": 1490,
+            "y": 161,
+            "box": [
+              1490,
+              254,
+              1722,
+              465
+            ],
+            "colour": "#14232D",
+            "minimum_background_contrast": 11.503399951447893
+          },
+          {
+            "char": "P",
+            "line": 1,
+            "x": 1734,
+            "y": 161,
+            "box": [
+              1734,
+              254,
+              1934,
+              468
+            ],
+            "colour": "#14232D",
+            "minimum_background_contrast": 11.503399951447893
+          },
+          {
+            "char": "O",
+            "line": 1,
+            "x": 1946,
+            "y": 161,
+            "box": [
+              1946,
+              250,
+              2186,
+              468
+            ],
+            "colour": "#14232D",
+            "minimum_background_contrast": 11.503399951447893
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 2198,
+            "y": 161,
+            "box": [
+              2198,
+              251,
+              2286,
+              467
+            ],
+            "colour": "#14232D",
+            "minimum_background_contrast": 11.503399951447893
+          },
+          {
+            "char": "N",
+            "line": 1,
+            "x": 2298,
+            "y": 161,
+            "box": [
+              2298,
+              251,
+              2524,
+              467
+            ],
+            "colour": "#14232D",
+            "minimum_background_contrast": 11.503399951447893
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 2536,
+            "y": 161,
+            "box": [
+              2534,
+              254,
+              2726,
+              468
+            ],
+            "colour": "#14232D",
+            "minimum_background_contrast": 11.503399951447893
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 11.503399951447893,
+        "minimum_contrast": 11.503399951447893,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:55:54.863831+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: dark rounded MIDPOINT wordmark clear on pale sky; broad oak canopy and two chairs around a small table whole; no UI/tagline."
+      }
+    }
+  ]
+}
