@@ -1,0 +1,197 @@
+{
+  "app": "Nightwave",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "Nightwave",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Nightwave/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:51:21.275243+00:00",
+      "sha256": "01ffc32b2ed76ae9dd4e0abf9587ace6c8639fd7ec6462e8b076b225c1137761",
+      "bytes": 3960108,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T10:51:21.275243+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Nightwave/scene/scene-16x9.png",
+        "source_sha256": "034b83ee57eddc883b0775d53492c3485097be4aae0854e4b44e0367d7f97b1c",
+        "source_generation_provenance": {
+          "at": "2026-10-25T18:17:51.320995+00:00",
+          "sha256": "034b83ee57eddc883b0775d53492c3485097be4aae0854e4b44e0367d7f97b1c",
+          "tool": "image_gen (version not exposed); Pillow layout/export",
+          "attempts": 1,
+          "source": "/Users/hainguyen/.codex/generated_images/01a1735f-bc95-7d82-9e91-45f2d7d1e6fd/exec-058a3483-5347-4076-81dc-0c5112d776f4.png",
+          "source_sha256": "06a9e289f15638adadd6b368d7fcfb508d13e8327e7fdbfc092d8fcab74a7cab",
+          "review": "Một mast trung tâm thấp, pink beacon/amber halo, ba arcs mỗi phía và horizon lights; không chữ/UI/người/vật thêm. Prompt gốc + correction scale tọa độ, upper sky quiet. Group nguyên vẹn trong crop21:9 và3:2, đúng Jade Valve.",
+          "prompt_ref": "MM-ASSETS-REDESIGN/Nightwave/store-requests.json#scene",
+          "prompt_sha256": "c473c9ed382dcb98bcf168b40b9e14bc4a914b0a641da228ab9c99a7f149aa99",
+          "backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/Nightwave/scene/scene-16x9.png",
+          "processing": "Exact fit/export"
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Gelasio[wght].ttf",
+        "font_sha256": "4daecea457258c9ebeb8bc99ed3fd24353618bfad3ea4b93fa0b5d0468fc04e4",
+        "font_size": 300,
+        "requested_font_size": 300,
+        "weight": 700,
+        "tracking": 12.0,
+        "cap_top": 230,
+        "text_regions": [
+          {
+            "char": "N",
+            "line": 1,
+            "x": 814,
+            "y": 164,
+            "box": [
+              814,
+              234,
+              1064,
+              447
+            ],
+            "colour": "#F2F9F4",
+            "minimum_background_contrast": 12.141863264031452
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 1076,
+            "y": 164,
+            "box": [
+              1076,
+              235,
+              1210,
+              444
+            ],
+            "colour": "#F2F9F4",
+            "minimum_background_contrast": 12.310832979281214
+          },
+          {
+            "char": "G",
+            "line": 1,
+            "x": 1222,
+            "y": 164,
+            "box": [
+              1222,
+              230,
+              1464,
+              447
+            ],
+            "colour": "#F2F9F4",
+            "minimum_background_contrast": 12.151562607100907
+          },
+          {
+            "char": "H",
+            "line": 1,
+            "x": 1476,
+            "y": 164,
+            "box": [
+              1476,
+              234,
+              1750,
+              443
+            ],
+            "colour": "#F2F9F4",
+            "minimum_background_contrast": 12.151562607100907
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1762,
+            "y": 164,
+            "box": [
+              1762,
+              235,
+              1968,
+              443
+            ],
+            "colour": "#F2F9F4",
+            "minimum_background_contrast": 11.996576604352242
+          },
+          {
+            "char": "W",
+            "line": 1,
+            "x": 1980,
+            "y": 164,
+            "box": [
+              1974,
+              234,
+              2322,
+              445
+            ],
+            "colour": "#FFB02E",
+            "minimum_background_contrast": 7.028284232333969
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 2330,
+            "y": 164,
+            "box": [
+              2328,
+              231,
+              2560,
+              443
+            ],
+            "colour": "#FFB02E",
+            "minimum_background_contrast": 7.120922188293324
+          },
+          {
+            "char": "V",
+            "line": 1,
+            "x": 2570,
+            "y": 164,
+            "box": [
+              2564,
+              234,
+              2806,
+              446
+            ],
+            "colour": "#FFB02E",
+            "minimum_background_contrast": 7.111401145704301
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 2812,
+            "y": 164,
+            "box": [
+              2812,
+              235,
+              3026,
+              443
+            ],
+            "colour": "#FFB02E",
+            "minimum_background_contrast": 7.113401509793057
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 7.028284232333969,
+        "minimum_contrast": 7.028284232333969,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:51:21.275243+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: cream/amber serif wordmark legible on teal field; glowing lamp, mist and low landscape retained; no UI, icon or tagline."
+      }
+    }
+  ]
+}
