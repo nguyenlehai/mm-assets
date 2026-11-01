@@ -1,0 +1,162 @@
+{
+  "app": "PawFile",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "PawFile",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/PawFile/out/creative/header-21x9.png",
+      "at": "2026-11-01T11:16:08.091148+00:00",
+      "sha256": "fae273b4e387c5cbaadc06f365887d27e740041f30f69fbddb59980fb68fda3c",
+      "bytes": 5276449,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T11:16:08.091148+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/PawFile/scene/scene-16x9.png",
+        "source_sha256": "1086276d9247555e2713e658b580cfe0464b28d3461d125697edf9d4db626b23",
+        "source_generation_provenance": {
+          "at": "2026-10-25T03:28:40.896036+00:00",
+          "sha256": "1086276d9247555e2713e658b580cfe0464b28d3461d125697edf9d4db626b23",
+          "tool": "image_gen + Pillow typesetting",
+          "attempts": 1
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          600,
+          5244,
+          2847
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Inter[opsz,wght].ttf",
+        "font_sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+        "font_size": 300,
+        "requested_font_size": 300,
+        "weight": 600,
+        "tracking": 18.0,
+        "cap_top": 170,
+        "text_regions": [
+          {
+            "char": "P",
+            "line": 1,
+            "x": 1200,
+            "y": 98,
+            "box": [
+              1200,
+              170,
+              1394,
+              389
+            ],
+            "colour": "#173F3C",
+            "minimum_background_contrast": 8.791195120254635
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 1412,
+            "y": 98,
+            "box": [
+              1412,
+              170,
+              1632,
+              389
+            ],
+            "colour": "#173F3C",
+            "minimum_background_contrast": 8.708635482486862
+          },
+          {
+            "char": "W",
+            "line": 1,
+            "x": 1650,
+            "y": 98,
+            "box": [
+              1650,
+              170,
+              1956,
+              389
+            ],
+            "colour": "#173F3C",
+            "minimum_background_contrast": 8.407506784648497
+          },
+          {
+            "char": "F",
+            "line": 1,
+            "x": 1974,
+            "y": 98,
+            "box": [
+              1974,
+              171,
+              2150,
+              390
+            ],
+            "colour": "#173F3C",
+            "minimum_background_contrast": 8.327231119262123
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 2168,
+            "y": 98,
+            "box": [
+              2168,
+              171,
+              2252,
+              389
+            ],
+            "colour": "#173F3C",
+            "minimum_background_contrast": 8.286486561466315
+          },
+          {
+            "char": "L",
+            "line": 1,
+            "x": 2270,
+            "y": 98,
+            "box": [
+              2270,
+              170,
+              2440,
+              389
+            ],
+            "colour": "#173F3C",
+            "minimum_background_contrast": 8.159001529296233
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 2458,
+            "y": 98,
+            "box": [
+              2458,
+              171,
+              2640,
+              389
+            ],
+            "colour": "#173F3C",
+            "minimum_background_contrast": 8.159001529296233
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 8.159001529296233,
+        "minimum_contrast": 8.159001529296233,
+        "tonal_layer": null,
+        "layout_adjustment": "Use OFL Inter to match current system-sans ledger;lower21:9 crop preserves both paper animal silhouettes whole and leaves quiet upper paper for wordmark.",
+        "specification": {
+          "verified_at": "2026-11-01T11:16:08.091148+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: dark teal PAWFILE clear above folder and blank file cards; complete seated dog and cat silhouettes retained; no UI/tagline."
+      }
+    }
+  ]
+}
