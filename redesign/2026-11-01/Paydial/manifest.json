@@ -1,0 +1,75 @@
+{
+  "app": "Paydial",
+  "at": "2026-11-01T08:57:35.861295+00:00",
+  "scope": "Accepted existing scene/endcards plus newly exported header; no runtime screenshots or clips. No ASC/Play upload.",
+  "files": [
+    {
+      "id": "scene",
+      "family": "B",
+      "asset_dest": "scene/scene-16x9.png",
+      "repository_path": "redesign/2026-11-01/Paydial/B/scene/scene-16x9.png",
+      "sha256": "48eb83e070f4f8787b9a19cf650e5f58de98c9917b566f0e21a0cef6ec531808",
+      "bytes": 6998888,
+      "size": [
+        5244,
+        2950
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "approved-store-art-archive",
+      "owner_default_acceptance": "Replaces the 25/10 00:09 scene (a jetty at first light in the old palette #051229, #1F3A5F, #14213A with amber lamps and a pale gold horizon); back it up first. The redesign keeps the idea of the master brief (one focal subject, calm middle for the wordmark, layered flat shapes) but tells it as the app’s own motif: the Dial arch and the sun of the icon on a navy sky over a royal horizon, the same split as the icon (navy over royal). Write scene/scene-16x9.txt provenance (tool, date, \"prompt from MM-ASSETS-REDESIGN/Paydial\"). Self-check at 25 percent zoom and on the centred 21:9 (y 351 to 2598) and 3:2 (x 410 to 4835) crops; regenerate if a glyph-like mark appears, if the arch is not 14 blocks, if more than one block is lit, if the group is cut by a crop, or if anything in the sky competes with the wordmark. The arch and the half sun are the focal subject; nothing else. Master-brief rule 7 (no generic hills) is met: the picture is a geometric motif, not a landscape of hills.\n12 visible arch blocks instead of 14; lowest left capsule partly hidden by horizon. Four verbatim generations attempted; owner review required.",
+      "source_scene_sha256": null
+    },
+    {
+      "id": "header",
+      "family": "B",
+      "asset_dest": "out/creative/header-21x9.png",
+      "repository_path": "redesign/2026-11-01/Paydial/B/out/creative/header-21x9.png",
+      "sha256": "70d7f6b0a45ca93d51deb8d8e7c7d3dc5b5fdafdbfc7ee18dff4da4c5dfcb4c2",
+      "bytes": 3829446,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "approved-store-art-archive",
+      "owner_default_acceptance": null,
+      "source_scene_sha256": "48eb83e070f4f8787b9a19cf650e5f58de98c9917b566f0e21a0cef6ec531808"
+    },
+    {
+      "id": "endcard-iphone",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/endcard-iphone.png",
+      "repository_path": "redesign/2026-11-01/Paydial/B/layers/redesign-2026-10-26/endcard-iphone.png",
+      "sha256": "f4671f1d84a5495737f291462c396f74f84752edc9f28d18e65dcac2114a03b4",
+      "bytes": 1598684,
+      "size": [
+        886,
+        1920
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "approved-store-art-archive",
+      "owner_default_acceptance": "Last frame of preview-iphone, shown under 3 s (2.5 s). Typeset PAYDIAL (PAY in #F6F1E4, DIAL in #FFB327) Figtree ExtraBold 120 px, tracking 4 percent, centred at 24 percent height, and Plan to payday. Figtree Medium 42 px #B7C3DE under it. No price, no store badge, no call to download. This is the one frame of the preview that is not app footage. Can be made now.\n13 blocks instead of 14. Four verbatim generations attempted; owner review required.",
+      "source_scene_sha256": null
+    },
+    {
+      "id": "endcard-ipad",
+      "family": "B",
+      "asset_dest": "layers/redesign-2026-10-26/endcard-ipad.png",
+      "repository_path": "redesign/2026-11-01/Paydial/B/layers/redesign-2026-10-26/endcard-ipad.png",
+      "sha256": "de87177cc974cc9473e97742f318e19921e6e2078ae9ceed8c8d9b7b3e057762",
+      "bytes": 1920734,
+      "size": [
+        1200,
+        1600
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "delivery": "approved-store-art-archive",
+      "owner_default_acceptance": "Last frame of preview-ipad, shown under 3 s (2.5 s). Typeset PAYDIAL (PAY in #F6F1E4, DIAL in #FFB327) Figtree ExtraBold 162 px, tracking 4 percent, centred at 24 percent height, and Plan to payday. Figtree Medium 56 px #B7C3DE under it. No price, no store badge, no call to download. This is the one frame of the preview that is not app footage. Can be made now.\n13 blocks instead of 14. Four verbatim generations attempted; owner review required.",
+      "source_scene_sha256": null
+    }
+  ]
+}
