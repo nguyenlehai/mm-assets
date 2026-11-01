@@ -1,0 +1,134 @@
+{
+  "app": "Selah",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "Selah",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Selah/out/creative/header-21x9.png",
+      "at": "2026-11-01T11:15:59.720246+00:00",
+      "sha256": "f6c59132b8fe35b0eaa3eef23d0f00fc3e201cbd259eb5428b2bd1519ce3f946",
+      "bytes": 4849111,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T11:15:59.720246+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/Selah/scene/scene-16x9.png",
+        "source_sha256": "ca55cc599c02bcba3c8a3c6834cdd11a70e73beb733dc0f8d25406f83e685d21",
+        "source_generation_provenance": {
+          "at": "2026-10-25T03:39:53.414562+00:00",
+          "sha256": "ca55cc599c02bcba3c8a3c6834cdd11a70e73beb733dc0f8d25406f83e685d21",
+          "tool": "image_gen + Pillow typesetting",
+          "attempts": 1
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          600,
+          5244,
+          2847
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Lora[wght].ttf",
+        "font_sha256": "822a6621ccbe8d97d20ac88c1c41f5615c9c2c202eaa75f272cd452aac6475a7",
+        "font_size": 330,
+        "requested_font_size": 330,
+        "weight": 600,
+        "tracking": 19.8,
+        "cap_top": 250,
+        "text_regions": [
+          {
+            "char": "S",
+            "line": 1,
+            "x": 1342,
+            "y": 155,
+            "box": [
+              1342,
+              251,
+              1536,
+              492
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 8.136158079835653
+          },
+          {
+            "char": "E",
+            "line": 1,
+            "x": 1556,
+            "y": 155,
+            "box": [
+              1556,
+              257,
+              1762,
+              487
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 6.0020641777957575
+          },
+          {
+            "char": "L",
+            "line": 1,
+            "x": 1782,
+            "y": 155,
+            "box": [
+              1782,
+              256,
+              1978,
+              487
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 5.376074795503937
+          },
+          {
+            "char": "A",
+            "line": 1,
+            "x": 1998,
+            "y": 155,
+            "box": [
+              1998,
+              250,
+              2215,
+              487
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 5.185808093357277
+          },
+          {
+            "char": "H",
+            "line": 1,
+            "x": 2235,
+            "y": 155,
+            "box": [
+              2235,
+              256,
+              2498,
+              487
+            ],
+            "colour": "#472A35",
+            "minimum_background_contrast": 4.940362132209488
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 4.940362132209488,
+        "minimum_contrast": 4.940362132209488,
+        "tonal_layer": null,
+        "layout_adjustment": "Master supplies typography-only centered wordmark, no font specified; use bundled Lora family from current ledger as existing brand typography. Initial centered351..2598 crop clipped notebook bottom in320px proof;lower full-width21:9 crop600..2847 retains complete mug/notebook/glass arrangement without stretching or modifying scene.",
+        "specification": {
+          "verified_at": "2026-11-01T11:15:59.720246+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px corrected-crop proof inspected: SELAH serif clear on peach wall; whole cup, closed notebook and olive-sprig glass visible with bottom margin; no UI/tagline."
+      }
+    }
+  ]
+}
