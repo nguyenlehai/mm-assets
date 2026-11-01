@@ -1,0 +1,230 @@
+{
+  "app": "MotifSplice",
+  "date": "2026-11-01",
+  "family": "B",
+  "files": [
+    {
+      "app": "MotifSplice",
+      "family": "B",
+      "id": "header",
+      "dest": "/Users/hainguyen/NguyenLeHai/!MM/store-art/MotifSplice/out/creative/header-21x9.png",
+      "at": "2026-11-01T10:54:31.417473+00:00",
+      "sha256": "d9f7e8a03885eba5c10a2c01984911bc618c40b05e1805e3affae1586fa1ef9f",
+      "bytes": 6287243,
+      "size": [
+        3840,
+        1646
+      ],
+      "mode": "RGB",
+      "tool": "Existing image_gen scene + expressly authored code typesetting",
+      "attempts": 0,
+      "generation_attempts_for_source": 1,
+      "production_provenance": {
+        "at": "2026-11-01T10:54:31.417473+00:00",
+        "source": "/Users/hainguyen/NguyenLeHai/!MM/store-art/MotifSplice/scene/scene-16x9.png",
+        "source_sha256": "c10ed725e75e3139e7185fd63d993ee22f30937d121a2273393e9e1ba885d505",
+        "source_generation_provenance": {
+          "at": "2026-10-25T14:42:18.902792+00:00",
+          "sha256": "c10ed725e75e3139e7185fd63d993ee22f30937d121a2273393e9e1ba885d505",
+          "tool": "image_gen (model version not exposed); Pillow export",
+          "attempts": 1,
+          "source": "/Users/hainguyen/.codex/generated_images/01a1735f-bc95-7d82-9e91-45f2d7d1e6fd/exec-6bbbdeec-9ace-4806-b4be-7b8005079d3b.png",
+          "source_sha256": "32fce891c9f73eb363d1518d74cbe897aad709f7865872e97068953c53c08298",
+          "review": "Tulip hai màu center-low, spool coral và thước tick-only; không chữ/UI/vật thêm. Prompt gốc kèm correction relative geometry, nhóm nằm trong crop21:9 và3:2, wordmark field trống. PNG RGB giảm palette noise không dithering dưới9MB, giữ resolution.",
+          "quality": null,
+          "backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/MotifSplice/scene/scene-16x9.png",
+          "final_layout_at": "2026-10-25T17:49:42.357728+00:00",
+          "layout_backup": "/Users/hainguyen/NguyenLeHai/!MM/_asset-redo-backup/MotifSplice/scene/scene-16x9-layout-20261026.png",
+          "layout_backup_sha256": "2d9a1aaad76fd4a921253e99bf26069e71b4440c054143f45328a287e966a7ac",
+          "export_processing": {
+            "method": "Background indigo noise palette reduced to12 tones; foreground art RGB unchanged from source; exact resolution preserved",
+            "script": "MM-ASSETS-REDESIGN/_work/motifsplice_scene_export.py"
+          }
+        },
+        "method": "Authored crop/Lanczos resize and code typesetting only; scene not regenerated",
+        "crop": [
+          0,
+          351,
+          5244,
+          2598
+        ],
+        "font": "/Users/hainguyen/NguyenLeHai/!MM/store-art/_fonts/Manrope[wght].ttf",
+        "font_sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+        "font_size": 250,
+        "requested_font_size": 250,
+        "weight": 800,
+        "tracking": 15.0,
+        "cap_top": 290,
+        "text_regions": [
+          {
+            "char": "M",
+            "line": 1,
+            "x": 1508,
+            "y": 207,
+            "box": [
+              1508,
+              294,
+              1723,
+              474
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "O",
+            "line": 1,
+            "x": 1738,
+            "y": 207,
+            "box": [
+              1738,
+              290,
+              1928,
+              478
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "T",
+            "line": 1,
+            "x": 1943,
+            "y": 207,
+            "box": [
+              1943,
+              293,
+              2096,
+              474
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "I",
+            "line": 1,
+            "x": 2111,
+            "y": 207,
+            "box": [
+              2111,
+              294,
+              2185,
+              474
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.861965185862552
+          },
+          {
+            "char": "F",
+            "line": 1,
+            "x": 2200,
+            "y": 207,
+            "box": [
+              2200,
+              294,
+              2332,
+              474
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "S",
+            "line": 2,
+            "x": 1446,
+            "y": 477,
+            "box": [
+              1446,
+              560,
+              1614,
+              748
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "P",
+            "line": 2,
+            "x": 1630,
+            "y": 477,
+            "box": [
+              1630,
+              564,
+              1792,
+              745
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "L",
+            "line": 2,
+            "x": 1806,
+            "y": 477,
+            "box": [
+              1806,
+              563,
+              1942,
+              744
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "I",
+            "line": 2,
+            "x": 1956,
+            "y": 477,
+            "box": [
+              1956,
+              564,
+              2030,
+              744
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "C",
+            "line": 2,
+            "x": 2046,
+            "y": 477,
+            "box": [
+              2046,
+              560,
+              2232,
+              748
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          },
+          {
+            "char": "E",
+            "line": 2,
+            "x": 2246,
+            "y": 477,
+            "box": [
+              2246,
+              564,
+              2394,
+              744
+            ],
+            "colour": "#F4F6FF",
+            "minimum_background_contrast": 10.844623094581515
+          }
+        ],
+        "minimum_contrast_before_tonal_layer": 10.844623094581515,
+        "minimum_contrast": 10.844623094581515,
+        "tonal_layer": null,
+        "layout_adjustment": null,
+        "specification": {
+          "verified_at": "2026-11-01T10:54:31.417473+00:00",
+          "url": "https://developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications",
+          "placement": "Product page header21:9,3840x1646,opaqueRGBPNG/sRGB"
+        }
+      },
+      "visual_review": {
+        "passed": true,
+        "review": "320px proof inspected: two-line MOTIF SPLICE cream wordmark clear on navy textile; stitched flower panel, thread spool and ruler remain visible; no UI/tagline."
+      }
+    }
+  ]
+}
